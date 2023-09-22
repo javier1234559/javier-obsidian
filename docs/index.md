@@ -7,7 +7,7 @@ tags:
   - zettelkasten
 ---
 
-# Temp
+# Introduction to Javier's Obsidian
 [[todo-in-21-09-23]]
 
 # Top note quan tâm nhất
