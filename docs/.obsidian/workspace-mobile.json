@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "d2a20f8254c6d5f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f88996840347f2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d3800777802630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SecondBrain/Daily/todo-in-19-09-23.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7dd73c4dceab28ce",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "27b0ae5ae32f8f6f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e4c9f2ff60d7f162",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "86d7a2b32cad23ba",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a1aa20858737e7ad",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d9896527a2540f01",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6bdf06936c00137f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "SecondBrain/Daily/todo-in-19-09-23.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2c3001fa1db0e55f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "SecondBrain/Daily/todo-in-19-09-23.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c4cc8428b6466f53",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "SecondBrain/Daily/todo-in-19-09-23.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "27b0ae5ae32f8f6f",
+  "lastOpenFiles": [
+    "SecondBrain/Daily/todo-in-21-09-23.md",
+    "SecondBrain/Life/Các trang blog theo dõi hằng ngày.md",
+    "SecondBrain/Technology/Tổng hợp Tool AI và phần mềm.md",
+    "SecondBrain/Technology/NestJS.md",
+    "SecondBrain/Technology/Pygame.md",
+    "SecondBrain/English/English Roadmap.md",
+    "SecondBrain/School/New Technology/Note at School.md",
+    "SecondBrain/Technology/Top Blogs to learn and update technology.md",
+    "SecondBrain/Technology/ExpressJS.md",
+    "SecondBrain/Technology/Python.md",
+    "SecondBrain/School/Artificial Intelligence/Note at School.md",
+    "SecondBrain/Technology/Data structure and Algorithm.md",
+    "Zettelkasten/Fleeting/Câu chuyện về hạnh phúc.md",
+    "README.md",
+    "SecondBrain/Technology/Nơi take note mọi ý tưởng công nghệ.md",
+    "SecondBrain/School/Testing/Tóm tắt lý thuyết môn Testing.md",
+    "SecondBrain/School/New Technology",
+    "SecondBrain/School/IT Project/Note at School.md",
+    "SecondBrain/School/IT Project",
+    "SecondBrain/School/Artificial Intelligence",
+    "SecondBrain/Daily/daily-in-18-09-23.md",
+    "SecondBrain/Daily/todo-in-19-09-23.md",
+    "SecondBrain/Daily/todo-in-18-09-23.md",
+    "SecondBrain/Daily/todo-in-18-09-23.sync-conflict-20230918-182750-PLXCSLB.md",
+    "SecondBrain/School/Testing/Tóm tắt lý thuyết mônTesting.md",
+    "SecondBrain/School/Testing",
+    "Zettelkasten/Fleeting/Nhéo má một cái thật đau.md",
+    "Zettelkasten/MOC Zettelkasten.md"
+  ]
+}

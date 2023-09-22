@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "88d474119a8edef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c068ce4f9dabd060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6fdb6216e75d883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8a7f94892544adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ec3f9bd3a5210bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "683257e2e9d07a06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91f5bacf068b82d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#secondbrain/english",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71e1cf9263bb91b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "604d485f82f42c02",
+    "type": "split",
+    "children": [
+      {
+        "id": "8028bec1dac89c57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a96ca43c299264f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82287a5b42615bf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e70b6c5bb2838d5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5d444d575460087f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "ef0945c9abf7a6cc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "d6fdb6216e75d883",
+  "lastOpenFiles": [
+    "Zettelkasten/Fleeting/Tạo hashtag cho Note.md",
+    "Zettelkasten/MOC Zettelkasten.md",
+    "SecondBrain/Daily/todo-in-21-09-23.md",
+    "index.md",
+    "SecondBrain/Daily/todo-in-22-09-23.md",
+    "Zettelkasten/Fleeting/Câu hỏi dành cho những Mentor mình gặp.md",
+    "Zettelkasten/Fleeting/Những suy nghĩ hay để nói lúc phỏng vấn.md",
+    "SecondBrain/Technology/Pygame.md",
+    "SecondBrain/Technology/Python.md",
+    "SecondBrain/Technology/Top Blogs to learn and update technology.md",
+    "SecondBrain/Technology/Tổng hợp Tool AI và phần mềm.md",
+    "SecondBrain/Technology/Nơi take note mọi ý tưởng công nghệ.md",
+    "SecondBrain/Technology/Nodejs.md",
+    "SecondBrain/Technology/MOC Technology.md",
+    "SecondBrain/Technology/Data structure and Algorithm.md",
+    "SecondBrain/Technology/FrontEnd/UX and UI.md",
+    "SecondBrain/Technology/BackEnd/NestJS.md",
+    "SecondBrain/Technology/BackEnd/ExpressJS.md",
+    "SecondBrain/Technology/BackEnd",
+    "SecondBrain/Technology/FrontEnd",
+    "README.md",
+    "SecondBrain/MOC Second Brain.md",
+    "SecondBrain/English/Vô Thanh và Hữu Thanh Tiếng Anh.md",
+    "SecondBrain/English/MOC English.md",
+    "SecondBrain/English/English Roadmap.md",
+    "SecondBrain/English/Nguyên tắc phát âm của ed và s và es trong tiếng Anh.md",
+    "SecondBrain/Life/Các trang blog theo dõi hằng ngày.md",
+    "SecondBrain/School/Artificial Intelligence/Note at School.md",
+    "SecondBrain/School/IT Project",
+    "SecondBrain/School/New Technology",
+    "SecondBrain/School/Artificial Intelligence",
+    "SecondBrain/Daily/~syncthing~todo-in-18-09-23.sync-conflict-20230918-182750-PLXCSLB.md.tmp",
+    "SecondBrain/School/Testing",
+    "Files/Pasted image 20230918101437.png",
+    "SecondBrain/English/Random words",
+    "Files/Pasted image 20230918083122.png",
+    "SecondBrain/Daily/Daily",
+    "SecondBrain/Daily/Todo",
+    "Files/Pasted image 20230914194729.png",
+    "Untitled.canvas"
+  ]
+}
