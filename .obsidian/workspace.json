@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/Technology/OOP and SOLID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12fcdc67bba21d97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/SecondBrain/Technology/Database/MongoDB.md",
+                "file": "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/Technology/Database/MongoDB.md",
+                "file": "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/Technology/Database/MongoDB.md",
+                "file": "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/Technology/Database/MongoDB.md"
+                "file": "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md"
               }
             }
           },
@@ -183,25 +170,25 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "12fcdc67bba21d97",
+  "active": "36fab8d9c6fdd440",
   "lastOpenFiles": [
+    "README.md",
+    "docs/SecondBrain/Daily/todo-in-27-09-23.md",
+    "docs/index.md",
     "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
     "docs/SecondBrain/Technology/Database/MongoDB.md",
-    "docs/SecondBrain/Technology/Database",
     "docs/SecondBrain/Technology/OOP and SOLID.md",
+    "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",
     "Zettelkasten",
     "docs/Files/Pasted image 20230927203637.png",
     "Pasted image 20230927203610.png",
     "docs/SecondBrain/Technology/NestJS.md",
     "docs/SecondBrain/Technology/Nodejs.md",
-    "docs/index.md",
     "docs/Files/Pasted image 20230914194729.png",
     "docs/Files/Pasted image 20230918083122.png",
     "docs/Files/Pasted image 20230918101437.png",
     "docs/SecondBrain/Technology/Untitled.md",
-    "README.md",
-    "docs/SecondBrain/Daily/todo-in-27-09-23.md",
     "docs/SecondBrain/Contact/MOC Contact.md",
     "docs/SecondBrain/English/Random words/random-word-in-18-09-23.md",
     "docs/SecondBrain/Contact/MOC Contact.sync-conflict-20230925-141406-SHOVBEZ.md",

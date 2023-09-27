@@ -14,7 +14,8 @@ tags:
 	- [ ] Table : danh sách từ mới , sửa và xóa
 
 
-1. Thiết kế DB
+2. Thiết kế DB
+
 ```json
 USER
 {
@@ -29,9 +30,14 @@ WORD
 {
 id : string ,
 front : string ,
-back : string
+back : string ,
+owners : [ObjectID("fs")]
 }
 ```
+
+- [ ] Tạo database trong mongodb
+- [ ] Xem sơ về khái niệm webpack và babel
+- [ ] Dựng codebase expressjs cho project
 
 
 
