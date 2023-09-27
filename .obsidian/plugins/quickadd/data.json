@@ -5,7 +5,7 @@
       "name": "T7 Something daily",
       "type": "Template",
       "command": false,
-      "templatePath": "Templates/T7 Something daily.md",
+      "templatePath": "docs/Templates/T7 Something daily.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "daily-in-{{DATE:DD-MM-YY}}"
@@ -35,7 +35,7 @@
       "name": "T6 Todo List in Day",
       "type": "Template",
       "command": false,
-      "templatePath": "Templates/T6 Todo List in Day.md",
+      "templatePath": "docs/Templates/T6 Todo List in Day.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "todo-in-{{DATE:DD-MM-YY}}"
@@ -65,7 +65,7 @@
       "name": "T1 Core Zettel Idea",
       "type": "Template",
       "command": false,
-      "templatePath": "Templates/T1 Core Zettel Idea.md",
+      "templatePath": "docs/Templates/T1 Core Zettel Idea",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -95,7 +95,7 @@
       "name": "T8 Random Words",
       "type": "Template",
       "command": false,
-      "templatePath": "Templates/T8 Random Word.md",
+      "templatePath": "doc/Template/T8 Random Words",
       "fileNameFormat": {
         "enabled": true,
         "format": "random-word-in-{{DATE:DD-MM-YY}}"
