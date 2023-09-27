@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6fdb6216e75d883",
+            "id": "990e8036220c54fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,23 +149,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d6fdb6216e75d883",
+  "active": "990e8036220c54fd",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "index.md",
+    "2023-09-27.md",
+    "SecondBrain/Daily/todo-in-27-09-23.md",
+    "README.md",
+    "SecondBrain/Technology/ExpressJS.md",
+    "SecondBrain/Daily/todo-in-25-09-23.md",
+    "SecondBrain/Technology/NestJS.md",
+    "Zettelkasten/Fleeting/5 cái cớ của người trẻ.md",
     "Zettelkasten/Fleeting/Tạo hashtag cho Note.md",
     "Zettelkasten/MOC Zettelkasten.md",
     "SecondBrain/Daily/todo-in-21-09-23.md",
-    "index.md",
     "SecondBrain/Daily/todo-in-22-09-23.md",
     "Zettelkasten/Fleeting/Câu hỏi dành cho những Mentor mình gặp.md",
     "Zettelkasten/Fleeting/Những suy nghĩ hay để nói lúc phỏng vấn.md",
@@ -182,14 +191,6 @@
     "SecondBrain/Technology/BackEnd/ExpressJS.md",
     "SecondBrain/Technology/BackEnd",
     "SecondBrain/Technology/FrontEnd",
-    "README.md",
-    "SecondBrain/MOC Second Brain.md",
-    "SecondBrain/English/Vô Thanh và Hữu Thanh Tiếng Anh.md",
-    "SecondBrain/English/MOC English.md",
-    "SecondBrain/English/English Roadmap.md",
-    "SecondBrain/English/Nguyên tắc phát âm của ed và s và es trong tiếng Anh.md",
-    "SecondBrain/Life/Các trang blog theo dõi hằng ngày.md",
-    "SecondBrain/School/Artificial Intelligence/Note at School.md",
     "SecondBrain/School/IT Project",
     "SecondBrain/School/New Technology",
     "SecondBrain/School/Artificial Intelligence",
@@ -200,7 +201,6 @@
     "Files/Pasted image 20230918083122.png",
     "SecondBrain/Daily/Daily",
     "SecondBrain/Daily/Todo",
-    "Files/Pasted image 20230914194729.png",
-    "Untitled.canvas"
+    "Files/Pasted image 20230914194729.png"
   ]
 }

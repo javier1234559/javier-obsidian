@@ -1,1 +1,1 @@
-# This is my note in obsidian , where i capture everything in my life 😎
+# This is my note in obsidian , where i capture everything in my life 

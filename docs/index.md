@@ -8,7 +8,7 @@ tags:
 ---
 
 # Introduction to Javier's Obsidian
-[[todo-in-21-09-23]]
+[[todo-in-27-09-23]]
 
 # Top note quan tâm nhất
 [[Các trang blog theo dõi hằng ngày]]
