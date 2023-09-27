@@ -1,7 +1,7 @@
 {
   "newFileLocation": "current",
   "newFileFolderPath": "Zettelkasten",
-  "attachmentFolderPath": "Files",
+  "attachmentFolderPath": "docs/Files",
   "promptDelete": false,
   "focusNewTab": false,
   "alwaysUpdateLinks": true,

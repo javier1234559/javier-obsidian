@@ -13,7 +13,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "SecondBrain/Daily"
+          "docs/SecondBrain/Daily"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -43,8 +43,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "",
-          "SecondBrain/Daily"
+          "docs/SecondBrain/Daily"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -74,7 +73,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Zettelkasten/Fleeting"
+          "docs/Zettelkasten/Fleeting"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -105,7 +104,7 @@
         "enabled": true,
         "folders": [
           "",
-          "SecondBrain/English/Random words"
+          "docs/SecondBrain/English/Random words"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

@@ -14,7 +14,6 @@ tags:
 ![[Pasted image 20230927203637.png]]
 
 ## SOLID
-
 Hom nao on lai se viet
 
 

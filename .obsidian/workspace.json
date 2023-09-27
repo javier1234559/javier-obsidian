@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/Technology/NestJS.md",
+                "file": "docs/SecondBrain/Technology/OOP and SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/Technology/NestJS.md",
+                "file": "docs/SecondBrain/Technology/OOP and SOLID.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/Technology/NestJS.md",
+                "file": "docs/SecondBrain/Technology/OOP and SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/Technology/NestJS.md"
+                "file": "docs/SecondBrain/Technology/OOP and SOLID.md"
               }
             }
           },
@@ -170,16 +170,19 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "36fab8d9c6fdd440",
+  "active": "683257e2e9d07a06",
   "lastOpenFiles": [
+    "Zettelkasten/Fleeting",
+    "Zettelkasten",
+    "docs/Files/Pasted image 20230927203637.png",
+    "Pasted image 20230927203610.png",
+    "docs/SecondBrain/Technology/NestJS.md",
     "docs/SecondBrain/Technology/Nodejs.md",
     "docs/SecondBrain/Technology/OOP and SOLID.md",
-    "Pasted image 20230927203637.png",
     "docs/index.md",
     "docs/Files/Pasted image 20230914194729.png",
     "docs/Files/Pasted image 20230918083122.png",
     "docs/Files/Pasted image 20230918101437.png",
-    "Pasted image 20230927203610.png",
     "docs/SecondBrain/Technology/Untitled.md",
     "README.md",
     "docs/SecondBrain/Daily/todo-in-27-09-23.md",
@@ -201,8 +204,6 @@
     "docs/SecondBrain/Technology/Pygame.sync-conflict-20230925-141406-SHOVBEZ.md",
     "docs/Templates/T8 Random Word.md",
     "docs/Templates/T4 Callout template.sync-conflict-20230925-141406-SHOVBEZ.md",
-    "docs/Templates/T7 Something daily.sync-conflict-20230925-141407-SHOVBEZ.md",
-    "docs/Zettelkasten/MOC Zettelkasten.md",
     "Untitled.canvas",
     "SecondBrain/Technology/BackEnd",
     "SecondBrain/Technology/FrontEnd",
@@ -215,7 +216,6 @@
     "SecondBrain/English/Random words",
     "Files/Pasted image 20230918083122.png",
     "SecondBrain/Daily/Daily",
-    "SecondBrain/Daily/Todo",
     "Files/Pasted image 20230914194729.png"
   ]
 }
