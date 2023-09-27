@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/Technology/ExpressJS.md",
+                "file": "docs/SecondBrain/Technology/NestJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/Technology/ExpressJS.md",
+                "file": "docs/SecondBrain/Technology/NestJS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/Technology/ExpressJS.md",
+                "file": "docs/SecondBrain/Technology/NestJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/Technology/ExpressJS.md"
+                "file": "docs/SecondBrain/Technology/NestJS.md"
               }
             }
           },
@@ -172,11 +172,14 @@
   },
   "active": "36fab8d9c6fdd440",
   "lastOpenFiles": [
-    "docs/SecondBrain/Technology/Database/MongoDB.md",
-    "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
-    "README.md",
+    "docs/SecondBrain/Technology/MOC Technology.md",
     "docs/SecondBrain/Daily/todo-in-27-09-23.md",
     "docs/index.md",
+    "README.md",
+    "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
+    "docs/Zettelkasten/MOC Zettelkasten.md",
+    "docs/SecondBrain/Technology/ExpressJS.md",
+    "docs/SecondBrain/Technology/Database/MongoDB.md",
     "docs/SecondBrain/Technology/OOP and SOLID.md",
     "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",
@@ -203,9 +206,6 @@
     "docs/SecondBrain/Technology/Top Blogs to learn and update technology.sync-conflict-20230925-141409-SHOVBEZ.md",
     "docs/SecondBrain/Technology/Tổng hợp Tool AI và phần mềm.sync-conflict-20230925-141409-SHOVBEZ.md",
     "docs/SecondBrain/Technology/Nơi take note mọi ý tưởng công nghệ.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/SecondBrain/Technology/Data structure and Algorithm.sync-conflict-20230925-141407-SHOVBEZ.md",
-    "docs/SecondBrain/Technology/Pygame.sync-conflict-20230925-141406-SHOVBEZ.md",
-    "docs/Templates/T8 Random Word.md",
     "Untitled.canvas",
     "SecondBrain/Technology/BackEnd",
     "SecondBrain/Technology/FrontEnd",
