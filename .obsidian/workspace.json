@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
+                "file": "docs/SecondBrain/Technology/Database/MongoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
+                "file": "docs/SecondBrain/Technology/Database/MongoDB.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
+                "file": "docs/SecondBrain/Technology/Database/MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md"
+                "file": "docs/SecondBrain/Technology/Database/MongoDB.md"
               }
             }
           },
@@ -185,8 +185,10 @@
   },
   "active": "12fcdc67bba21d97",
   "lastOpenFiles": [
-    "docs/SecondBrain/Technology/OOP and SOLID.md",
     "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
+    "docs/SecondBrain/Technology/Database/MongoDB.md",
+    "docs/SecondBrain/Technology/Database",
+    "docs/SecondBrain/Technology/OOP and SOLID.md",
     "Zettelkasten/Fleeting",
     "Zettelkasten",
     "docs/Files/Pasted image 20230927203637.png",
@@ -217,7 +219,6 @@
     "docs/SecondBrain/Technology/Data structure and Algorithm.sync-conflict-20230925-141407-SHOVBEZ.md",
     "docs/SecondBrain/Technology/Pygame.sync-conflict-20230925-141406-SHOVBEZ.md",
     "docs/Templates/T8 Random Word.md",
-    "docs/Templates/T4 Callout template.sync-conflict-20230925-141406-SHOVBEZ.md",
     "Untitled.canvas",
     "SecondBrain/Technology/BackEnd",
     "SecondBrain/Technology/FrontEnd",
@@ -227,7 +228,6 @@
     "SecondBrain/Daily/~syncthing~todo-in-18-09-23.sync-conflict-20230918-182750-PLXCSLB.md.tmp",
     "SecondBrain/School/Testing",
     "Files/Pasted image 20230918101437.png",
-    "SecondBrain/English/Random words",
     "Files/Pasted image 20230918083122.png",
     "Files/Pasted image 20230914194729.png"
   ]

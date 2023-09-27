@@ -10,11 +10,21 @@ tags:
 1. Các trang giao diện bên ngoài
 - [ ] Home : Hiển thị danh sách từ vựng
 	- [ ] Login : Trang đăng nhập
-	- [ ] 
+	- [ ] Form : Ô điền từ mới
+	- [ ] Table : danh sách từ mới , sửa và xóa
 
 
 1. Thiết kế DB
 ```json
+USER
+{
+_id : string,
+username : string,
+password : string,
+_
+}
+
+
 WORD
 {
 id : string ,
@@ -22,6 +32,9 @@ front : string ,
 back : string
 }
 ```
+
+
+
 
 
 
