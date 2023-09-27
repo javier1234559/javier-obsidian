@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/SecondBrain/Technology/OOP and SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/SecondBrain/Technology/OOP and SOLID.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/SecondBrain/Technology/OOP and SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/SecondBrain/Technology/OOP and SOLID.md"
               }
             }
           },
@@ -153,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +172,15 @@
   },
   "active": "36fab8d9c6fdd440",
   "lastOpenFiles": [
-    "README.md",
+    "Pasted image 20230927203637.png",
     "docs/index.md",
+    "docs/Files/Pasted image 20230914194729.png",
+    "docs/Files/Pasted image 20230918083122.png",
+    "docs/Files/Pasted image 20230918101437.png",
+    "docs/SecondBrain/Technology/OOP and SOLID.md",
+    "Pasted image 20230927203610.png",
+    "docs/SecondBrain/Technology/Untitled.md",
+    "README.md",
     "docs/SecondBrain/Daily/todo-in-27-09-23.md",
     "docs/SecondBrain/Contact/MOC Contact.md",
     "docs/SecondBrain/English/Random words/random-word-in-18-09-23.md",
@@ -194,10 +202,7 @@
     "docs/Templates/T4 Callout template.sync-conflict-20230925-141406-SHOVBEZ.md",
     "docs/Templates/T7 Something daily.sync-conflict-20230925-141407-SHOVBEZ.md",
     "docs/Zettelkasten/MOC Zettelkasten.md",
-    "docs/Templates/T8 Random Word.sync-conflict-20230925-141407-SHOVBEZ.md",
-    "docs/Zettelkasten/MOC Zettelkasten.sync-conflict-20230925-141407-SHOVBEZ.md",
     "Untitled.canvas",
-    "index.md",
     "SecondBrain/Technology/BackEnd",
     "SecondBrain/Technology/FrontEnd",
     "SecondBrain/School/IT Project",
