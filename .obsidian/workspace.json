@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/Technology/OOP and SOLID.md",
+                "file": "docs/SecondBrain/Technology/NestJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/Technology/OOP and SOLID.md",
+                "file": "docs/SecondBrain/Technology/NestJS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/Technology/OOP and SOLID.md",
+                "file": "docs/SecondBrain/Technology/NestJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/Technology/OOP and SOLID.md"
+                "file": "docs/SecondBrain/Technology/NestJS.md"
               }
             }
           },
@@ -172,12 +172,13 @@
   },
   "active": "36fab8d9c6fdd440",
   "lastOpenFiles": [
+    "docs/SecondBrain/Technology/Nodejs.md",
+    "docs/SecondBrain/Technology/OOP and SOLID.md",
     "Pasted image 20230927203637.png",
     "docs/index.md",
     "docs/Files/Pasted image 20230914194729.png",
     "docs/Files/Pasted image 20230918083122.png",
     "docs/Files/Pasted image 20230918101437.png",
-    "docs/SecondBrain/Technology/OOP and SOLID.md",
     "Pasted image 20230927203610.png",
     "docs/SecondBrain/Technology/Untitled.md",
     "README.md",
