@@ -11,11 +11,28 @@
             "id": "c94ce2553dd774a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81245c587f46355b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -82,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -161,13 +182,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c94ce2553dd774a6",
+  "active": "81245c587f46355b",
   "lastOpenFiles": [
+    "docs/SecondBrain/Daily/todo-in-27-09-23.md",
+    "README.md",
+    "docs/SecondBrain/Daily/todo-in-28-09-23.md",
+    "docs/index.md",
     "docs/SecondBrain/Technology/NestJS.md",
     "docs/SecondBrain/Technology/MOC Technology.md",
-    "docs/SecondBrain/Daily/todo-in-27-09-23.md",
-    "docs/index.md",
-    "README.md",
     "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
     "docs/Zettelkasten/MOC Zettelkasten.md",
     "docs/SecondBrain/Technology/ExpressJS.md",
@@ -196,7 +218,6 @@
     "docs/SecondBrain/Life/Các trang blog theo dõi hằng ngày.sync-conflict-20230925-141409-SHOVBEZ.md",
     "docs/SecondBrain/Technology/Top Blogs to learn and update technology.sync-conflict-20230925-141409-SHOVBEZ.md",
     "docs/SecondBrain/Technology/Tổng hợp Tool AI và phần mềm.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/SecondBrain/Technology/Nơi take note mọi ý tưởng công nghệ.sync-conflict-20230925-141409-SHOVBEZ.md",
     "Untitled.canvas",
     "SecondBrain/Technology/BackEnd",
     "SecondBrain/Technology/FrontEnd",
