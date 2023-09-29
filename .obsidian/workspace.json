@@ -87,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Zettelkasten/Fleeting/Tạo hashtag cho Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Zettelkasten/Fleeting/Tạo hashtag cho Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Zettelkasten/Fleeting/Tạo hashtag cho Note.md"
+              }
             }
           },
           {
@@ -146,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -166,7 +170,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "91f5bacf068b82d3",
+  "active": "9ab5f83e85ccdb1d",
   "lastOpenFiles": [
     "docs/Zettelkasten/Fleeting/Tìm hiểu về Docker.md",
     "docs/Zettelkasten/Literature/Tìm hiểu về zettelkasten.sync-conflict-20230925-141409-SHOVBEZ.md",
