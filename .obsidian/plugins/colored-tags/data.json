@@ -21,7 +21,9 @@
     "english": 10,
     "secondbrain/technology": 3,
     "secondbrain/school": 4,
-    "secondbrain/english": 5
+    "secondbrain/english": 5,
+    "zettelkaste": 11,
+    "zettelkaste/permanent": 4
   },
   "_version": 2
 }

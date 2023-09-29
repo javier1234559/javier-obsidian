@@ -24,7 +24,10 @@ Gồm có 2 phần Second Brain và Zettelkasten
 
 ### Zettelkasten
 - Sẽ phụ trách lưu các kiến thức mang tính câu hỏi hay kiến thức cần tìm hiểu 
-- Mỗi note sẽ có thẻ #zettelkasten và hashtag con của zettelkasten như là #zettelkasten/fleeting 
+- Mỗi note sẽ có thẻ #zettelkasten và hashtag con của zettelkasten như là 
+	- #zettelkasten/fleeting : Đặt câu hỏi xong thì bắt đầu research liên kết ngắn gọn ở đây
+	- #zettelkasten/literature : Dành cho tóm tắt nội dung của một cuốn sách hay một bài báo 
+	- #zettelkaste/permanent : Dành để viết Insight , nó sẽ là chủ đề mình đã research quan tâm lâu thông qua 2
 
 	### Capture
 	- Take note nhanh những bài viết hay những thứ hay ho trên internet
