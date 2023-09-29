@@ -4,6 +4,7 @@ Link:
 tags:
   - zettelkasten
   - zettelkasten/fleeting
+  - "#zettelkaste/permanent"
 ---
 
 # Tạo các tag cho Note
