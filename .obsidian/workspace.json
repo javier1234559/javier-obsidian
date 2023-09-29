@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/SecondBrain/Daily/todo-in-28-09-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-28-09-23.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -182,12 +181,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "81245c587f46355b",
+  "active": "c94ce2553dd774a6",
   "lastOpenFiles": [
-    "README.md",
     "docs/index.md",
-    "docs/SecondBrain/Daily/todo-in-27-09-23.md",
+    "README.md",
     "docs/SecondBrain/Daily/todo-in-28-09-23.md",
+    "docs/SecondBrain/Daily/todo-in-27-09-23.md",
     "docs/SecondBrain/Technology/NestJS.md",
     "docs/SecondBrain/Technology/MOC Technology.md",
     "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
