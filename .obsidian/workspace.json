@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-30-09-23.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-30-09-23.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-30-09-23.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-30-09-23.md"
+                "file": "README.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "44ad43126a2e2772",
   "lastOpenFiles": [
-    "README.md",
     "docs/SecondBrain/Daily/todo-in-30-09-23.md",
+    "README.md",
     "docs/SecondBrain/Daily/todo-in-29-09-23.md",
     "docs/SecondBrain/Technology/Project Management.md",
     "docs/index.md",
