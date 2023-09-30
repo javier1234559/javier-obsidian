@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-30-09-23.md",
+                "file": "docs/SecondBrain/Daily/todo-in-21-09-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-30-09-23.md",
+                "file": "docs/SecondBrain/Daily/todo-in-21-09-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-30-09-23.md",
+                "file": "docs/SecondBrain/Daily/todo-in-21-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-30-09-23.md"
+                "file": "docs/SecondBrain/Daily/todo-in-21-09-23.md"
               }
             }
           },
@@ -171,33 +171,33 @@
   },
   "active": "78411ff67f4adc91",
   "lastOpenFiles": [
-    "README.md",
-    "docs/SecondBrain/Daily/todo-in-30-09-23.md",
-    "docs/SecondBrain/Daily/todo-in-29-09-23.md",
-    "docs/SecondBrain/Technology/Project Management.md",
-    "docs/index.md",
-    "docs/Zettelkasten/MOC Zettelkasten.md",
-    "docs/Zettelkasten/Permanent",
-    "docs/Zettelkasten/Fleeting/Tạo hashtag cho Note.md",
-    "docs/Zettelkasten/Fleeting/Tìm hiểu về Docker.md",
-    "docs/Zettelkasten/Literature/Tìm hiểu về zettelkasten.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/Zettelkasten/Fleeting/Cách để vượt qua khó khăn.sync-conflict-20230925-141407-SHOVBEZ.md",
-    "docs/Zettelkasten/Fleeting/Câu chuyện về hạnh phúc.sync-conflict-20230925-141407-SHOVBEZ.md",
-    "docs/Zettelkasten/Fleeting/Câu hỏi dành cho những Mentor mình gặp.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/Zettelkasten/Fleeting/Đại học không là đường ngắn nhất đến thành công.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/Zettelkasten/Fleeting/Cây Thành Công.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/Zettelkasten/Fleeting/Nhéo má một cái thật đau.sync-conflict-20230925-141407-SHOVBEZ.md",
-    "docs/Zettelkasten/Fleeting/Quora - What's the best way to take notes for English learning.sync-conflict-20230925-141407-SHOVBEZ.md",
-    "docs/Zettelkasten/Fleeting/Những suy nghĩ hay để nói lúc phỏng vấn.sync-conflict-20230925-141407-SHOVBEZ.md",
-    "docs/Zettelkasten/Fleeting/Tìm hiểu về zettelkasten.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/Zettelkasten/Fleeting/Tạo hashtag cho Note.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/SecondBrain/Daily/todo-in-28-09-23.md",
+    "docs/SecondBrain/Daily/todo-in-22-09-23.md",
+    "docs/SecondBrain/Daily/todo-in-25-09-23.md",
     "docs/SecondBrain/Daily/todo-in-27-09-23.md",
+    "docs/SecondBrain/Daily/todo-in-28-09-23.md",
+    "docs/SecondBrain/Daily/todo-in-29-09-23.md",
+    "docs/SecondBrain/Daily/todo-in-30-09-23.md",
+    "docs/SecondBrain/Technology/BackEnd/NestJS.md",
+    "docs/SecondBrain/Technology/BackEnd/ExpressJS.md",
+    "docs/SecondBrain/Technology/Database/MongoDB.md",
+    "docs/SecondBrain/Technology/FrontEnd/UX and UI.md",
+    "docs/SecondBrain/Technology/Top Blogs to learn and update technology.md",
+    "docs/SecondBrain/Technology/Tổng hợp Tool AI và phần mềm.md",
+    "docs/SecondBrain/Technology/Python.md",
+    "docs/SecondBrain/Technology/Pygame.md",
+    "docs/SecondBrain/Technology/OOP and SOLID.md",
+    "docs/SecondBrain/Technology/Nơi take note mọi ý tưởng công nghệ.md",
     "docs/SecondBrain/Technology/NestJS.md",
-    "docs/SecondBrain/Technology/MOC Technology.md",
-    "docs/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
     "docs/SecondBrain/Technology/ExpressJS.md",
+    "docs/SecondBrain/Technology/Data structure and Algorithm.md",
+    "docs/SecondBrain/MOC Second Brain.md",
+    "docs/Zettelkasten/Fleeting/Câu hỏi dành cho những Mentor mình gặp.md",
+    "docs/Zettelkasten/Fleeting/Câu chuyện về hạnh phúc.md",
+    "docs/Zettelkasten/Fleeting/Đại học không là đường ngắn nhất đến thành công.md",
+    "docs/Zettelkasten/Fleeting/Nhéo má một cái thật đau.md",
+    "docs/Zettelkasten/Fleeting/Những suy nghĩ hay để nói lúc phỏng vấn.md",
+    "docs/Zettelkasten/Fleeting/Quora - What's the best way to take notes for English learning.md",
+    "docs/Zettelkasten/Permanent",
     "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",
     "Zettelkasten",
