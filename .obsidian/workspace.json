@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3084b3f94a923957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-01-10-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df3f9cefd83ca0ad",
             "type": "leaf",
             "state": {
@@ -97,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-01-10-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-01-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-01-10-23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,15 +164,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3084b3f94a923957",
+  "active": "df3f9cefd83ca0ad",
   "lastOpenFiles": [
+    "docs/SecondBrain/Technology/Project Management.md",
+    "docs/SecondBrain/Daily/todo-in-01-10-23.md",
     "README.md",
     "docs/SecondBrain/Daily/todo-in-30-09-23.md",
     "conflict-files-obsidian-git.md",
     "docs/SecondBrain/English/Random words/random-word-in-18-09-23.md",
-    "docs/SecondBrain/Daily/todo-in-01-10-23.md",
     "docs/SecondBrain/Daily/todo-in-29-09-23.md",
-    "docs/SecondBrain/Technology/Project Management.md",
     "docs/index.md",
     "docs/Zettelkasten/MOC Zettelkasten.md",
     "docs/Zettelkasten/Permanent",
