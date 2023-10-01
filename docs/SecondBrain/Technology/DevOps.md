@@ -1,12 +1,12 @@
 ---
-Created: 20:23 21-09-2023
-Link: "[[MOC Technology]]"
+Created: 16:09 01-10-2023
+Link: 
 tags:
   - secondbrain
   - secondbrain/technology
 ---
 
-# ExpressJS
+# DevOps
 
 
 
