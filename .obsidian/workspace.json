@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-01-10-23.md",
+                "file": "docs/SecondBrain/Technology/NestJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-01-10-23.md",
+                "file": "docs/SecondBrain/Technology/NestJS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-01-10-23.md",
+                "file": "docs/SecondBrain/Technology/NestJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-01-10-23.md"
+                "file": "docs/SecondBrain/Technology/NestJS.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "9e492aadcbb74586",
   "lastOpenFiles": [
-    "docs/SecondBrain/Technology/Nodejs.md",
+    "docs/SecondBrain/Technology/BackEnd/NestJS.md",
+    "docs/SecondBrain/Technology/NestJS.md",
     "docs/SecondBrain/Daily/todo-in-01-10-23.md",
+    "docs/SecondBrain/Technology/Nodejs.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "docs/index.md",
@@ -196,8 +198,6 @@
     "docs/Zettelkasten/Fleeting/Những suy nghĩ hay để nói lúc phỏng vấn.sync-conflict-20230925-141407-SHOVBEZ.md",
     "docs/Zettelkasten/Fleeting/Tìm hiểu về zettelkasten.sync-conflict-20230925-141409-SHOVBEZ.md",
     "docs/Zettelkasten/Fleeting/Tạo hashtag cho Note.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/SecondBrain/Daily/todo-in-28-09-23.md",
-    "docs/SecondBrain/Daily/todo-in-27-09-23.md",
     "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",
     "Zettelkasten",
