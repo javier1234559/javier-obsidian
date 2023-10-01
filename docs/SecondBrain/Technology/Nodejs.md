@@ -15,7 +15,7 @@ tags:
 
 # Blogs about this tech
 [Xử lý đồng thời 10,000 Request trong Nodejs (viblo.asia)](https://viblo.asia/p/xu-ly-dong-thoi-10000-request-trong-nodejs-BQyJKR3M4Me)
-
+[Node.js Architecture and 12 Best Practices for Node.js Development | Scout APM Blog](https://scoutapm.com/blog/nodejs-architecture-and-12-best-practices-for-nodejs-development#abriefhistory)
 
 --- 
 # References
