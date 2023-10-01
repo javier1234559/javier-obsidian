@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1faa65555d97f345",
+        "id": "8f83805f58b6829a",
         "type": "tabs",
         "children": [
           {
-            "id": "df3f9cefd83ca0ad",
+            "id": "9e492aadcbb74586",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/English/Random words/random-word-in-18-09-23.sync-conflict-20230925-141406-SHOVBEZ.md",
-                "staged": true
+                "file": "docs/SecondBrain/Daily/todo-in-01-10-23.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/SecondBrain/Daily/todo-in-01-10-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/SecondBrain/Daily/todo-in-01-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/SecondBrain/Daily/todo-in-01-10-23.md"
+              }
             }
           },
           {
@@ -164,16 +169,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "df3f9cefd83ca0ad",
+  "active": "9e492aadcbb74586",
   "lastOpenFiles": [
+    "README.md",
+    "docs/index.md",
     "docs/SecondBrain/Technology/Project Management.md",
     "docs/SecondBrain/Daily/todo-in-01-10-23.md",
-    "README.md",
     "docs/SecondBrain/Daily/todo-in-30-09-23.md",
     "conflict-files-obsidian-git.md",
     "docs/SecondBrain/English/Random words/random-word-in-18-09-23.md",
     "docs/SecondBrain/Daily/todo-in-29-09-23.md",
-    "docs/index.md",
     "docs/Zettelkasten/MOC Zettelkasten.md",
     "docs/Zettelkasten/Permanent",
     "docs/Zettelkasten/Fleeting/Tạo hashtag cho Note.md",
