@@ -7,7 +7,12 @@ tags:
 ---
 
 # Roadmap Git
-Merge từ nhánh dev
+```shell
+git merge <nhánh nguồn > # thuong la nhánh feature muốn merge đến hiện tại
+vd : cập nhật thay đổi từ main sang dev 
+git checkout dev
+git merge main
+```
 
 
 Reset mọi thay đổi
