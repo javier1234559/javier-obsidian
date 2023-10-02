@@ -7,8 +7,15 @@ tags:
 ---
 
 # Roadmap Git
+Merge từ nhánh dev
 
 
+Reset mọi thay đổi
+
+```shell
+git reset --soft <commit_id>
+
+```
 # Cheatsheet git
 
 - [http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
