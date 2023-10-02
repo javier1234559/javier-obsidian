@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/Technology/Project Management.md",
+                "file": "docs/SecondBrain/Technology/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/Technology/Project Management.md",
+                "file": "docs/SecondBrain/Technology/Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/Technology/Project Management.md",
+                "file": "docs/SecondBrain/Technology/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/Technology/Project Management.md"
+                "file": "docs/SecondBrain/Technology/Git.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "8cfa335c0c28142c",
   "lastOpenFiles": [
+    "docs/SecondBrain/Technology/Project Management.md",
+    "docs/SecondBrain/Technology/Git.md",
     "docs/SecondBrain/Daily/todo-in-02-10-23.md",
     "docs/SecondBrain/Daily/todo-in-01-10-23.md",
     "README.md",
@@ -182,7 +184,6 @@
     "docs/SecondBrain/Technology/NestJS.md",
     "conflict-files-obsidian-git.md",
     "docs/index.md",
-    "docs/SecondBrain/Technology/Project Management.md",
     "docs/SecondBrain/Daily/todo-in-30-09-23.md",
     "docs/SecondBrain/English/Random words/random-word-in-18-09-23.md",
     "docs/SecondBrain/Daily/todo-in-29-09-23.md",
@@ -197,7 +198,6 @@
     "docs/Zettelkasten/Fleeting/Câu hỏi dành cho những Mentor mình gặp.sync-conflict-20230925-141409-SHOVBEZ.md",
     "docs/Zettelkasten/Fleeting/Đại học không là đường ngắn nhất đến thành công.sync-conflict-20230925-141409-SHOVBEZ.md",
     "docs/Zettelkasten/Fleeting/Cây Thành Công.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/Zettelkasten/Fleeting/Nhéo má một cái thật đau.sync-conflict-20230925-141407-SHOVBEZ.md",
     "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",
     "Zettelkasten",
