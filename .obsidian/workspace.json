@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b381c59a674fd6ca",
+        "id": "97aa50898cab3862",
         "type": "tabs",
         "children": [
           {
-            "id": "8cfa335c0c28142c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-02-10-23.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91966f01633c3522",
+            "id": "b4f2913966ff0d1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a4830da6415e6e2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/SecondBrain/Daily/todo-in-06-10-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -195,13 +170,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "91966f01633c3522",
+  "active": "b4f2913966ff0d1e",
   "lastOpenFiles": [
-    "docs/SecondBrain/Daily/todo-in-02-10-23.md",
+    "README.md",
+    "docs/index.md",
     "docs/SecondBrain/Daily/todo-in-07-10-23.md",
+    "docs/SecondBrain/Daily/todo-in-02-10-23.md",
     "docs/SecondBrain/Daily/todo-in-06-10-23.md",
     "docs/SecondBrain/Daily/todo-in-03-10-23.md",
-    "README.md",
     "docs/SecondBrain/Technology/Git.md",
     "docs/SecondBrain/Technology/Project Management.md",
     "docs/SecondBrain/Daily/todo-in-01-10-23.md",
@@ -212,7 +188,6 @@
     "docs/SecondBrain/Technology/NestJS.md",
     "docs/SecondBrain/Technology/NestJS.md",
     "conflict-files-obsidian-git.md",
-    "docs/index.md",
     "docs/SecondBrain/Daily/todo-in-30-09-23.md",
     "docs/SecondBrain/English/Random words/random-word-in-18-09-23.md",
     "docs/SecondBrain/Daily/todo-in-29-09-23.md",

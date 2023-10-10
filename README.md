@@ -1,6 +1,6 @@
 
 # Introduction to Javier's Obsidian
-[[todo-in-02-10-23]]
+[[todo-in-07-10-23]]
 
 # Top note quan tâm nhất
 [[Simple api todolist ExpressJS]]
