@@ -98,18 +98,6 @@
             }
           },
           {
-            "id": "82287a5b42615bf8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "e70b6c5bb2838d5e",
             "type": "leaf",
             "state": {
@@ -147,14 +135,33 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "82287a5b42615bf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e87d648ef6651c85",
+            "type": "leaf",
+            "state": {
+              "type": "pieces-snippet-list",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 529.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,13 +174,15 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "b4f2913966ff0d1e",
+  "active": "e87d648ef6651c85",
   "lastOpenFiles": [
-    "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng.md",
+    "piecesdb.json",
     "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
+    "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng.md",
     "docs/SecondBrain/School/Testing/Tóm tắt lý thuyết môn Testing.md",
     "docs/Files/Pasted image 20231010081906.png",
     "docs/Files/Pasted image 20231010081835.png",
@@ -199,7 +208,6 @@
     "docs/SecondBrain/Technology/NestJS.md",
     "conflict-files-obsidian-git.md",
     "docs/SecondBrain/Daily/todo-in-30-09-23.md",
-    "docs/SecondBrain/English/Random words/random-word-in-18-09-23.md",
     "docs/Zettelkasten/Permanent",
     "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",
