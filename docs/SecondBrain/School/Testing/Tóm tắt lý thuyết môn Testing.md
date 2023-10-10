@@ -17,9 +17,10 @@ tags:
 - Giới thiệu các cấp độ phủ kiểm thử khác nhau
 - Giới thiệu về ₫ộ phức tạp Cyclomatic C
 ### Chương 4 Kỹ thuật kiểm thử hộp trắng (tt)
-- Giới thiệu về kỹ thuật kiểm thử dòng dữ liệu.
-- Phân tích ₫ời sống của biến dữ liệu, các cặp ₫ôi hoạt ₫ộng trên biến ₫ược gọi là hợp lệ hay nghi ngờ có lỗi hay tệ hơn là chắn chắn gây lỗi.
-
+- Kiểm thử hộp trắng là kiểm thử một thành phần mềm ( hàm chức năng, module chức năng ,phân hệ chức năng )
+- Có 2 hoạt ₫ộng kiểm thử hộp trắng : 
+	- Kiểm thử luồng điều khiển : tập trung kiểm thử thuật giải chức năng. [[Chương 3 Kỹ thuật kiểm thử hộp trắng]]
+	- Kiểm thử dòng dữ liệu : tập trung kiểm thử ₫ời sống của từng biến dữ liệu ₫ược dùng trong thuật giải. [[Chương 3 Kỹ thuật kiểm thử hộp trắng (tt)]]
 ### Chương 5 Kỹ thuật kiểm thử hộp ₫en
 - Giới thiệu kiểm thử hộp đen là kiểm thử bên ngoài của phần mềm 
 - 4 kỹ thuật kiểm thửhộp ₫en ₫ược dùng phổ biến là 

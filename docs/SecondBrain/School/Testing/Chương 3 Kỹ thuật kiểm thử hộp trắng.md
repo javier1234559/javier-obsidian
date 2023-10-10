@@ -38,11 +38,20 @@ Miêu tả các cấu trúc ₫iều khiển phổ dụng :
 2.  Tính ₫ộ phức tạp Cyclomatic của ₫ồ thị (C = P +1). 
 3.  Xác ₫ịnh C ₫ường thi hành tuyến tính ₫ộc lập cơ bản cần kiểm thử (theo thuật giải chi tiết ở slide kế).
 4. Tạo từng test case cho từng ₫ường thi hành tuyến tính ₫ộc lập cơ bản. 
-5.  Thực hiện kiểm thử trên từng test case. 6. So sánh kết quả có ₫ược với kết quả ₫ược kỳ vọng. 7. Lập báo cáo kết quả ₫ể phản hồi cho những người có liên qu
+5.  Thực hiện kiểm thử trên từng test case.
+6. So sánh kết quả có ₫ược với kết quả ₫ược kỳ vọng. 
+7. Lập báo cáo kết quả ₫ể phản hồi cho những người có liên qu
 
 Qui trình xác ₫ịnh các ₫ường tuyến tính ₫ộc lập
+
 Thiết kế các test case
-Kiểm thử vòng lặp
+
+##### Kiểm thử vòng lặp
+Thường thân của 1 lệnh lặp sẽ ₫ược thực hiện nhiều lần  Chi phí kiểm thử ₫ầy ₫ủ rất tốn kém, nên chúng ta sẽ chỉ kiểm thử ở những lần lặp mà theo thống kê dễ gây lỗi nhất . Có 4 loại
+1. lệnh lặp ₫ơn giản : thân của nó chỉ chứa các lệnh khác chứ không chứa lệnh lặp khác. 
+2. lệnh lặp lồng nhau : thân của nó có chứa ít nhất lệnh lặp khác... 
+3.  lệnh lặp liền kề : 2 hay nhiều lệnh lặp kế tiếp nhau
+4.  lệnh lặp giao nhau : 2 hay nhiều lệnh lặp giao nhau
 
 
 
