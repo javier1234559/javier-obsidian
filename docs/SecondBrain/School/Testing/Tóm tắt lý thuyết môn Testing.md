@@ -12,7 +12,7 @@ tags:
 - Giới thiệu về ý tưởng không đúng đắn về phần mềm kiểm thử
 ### Chương 2 Qui trình & Kế hoạch kiểm thử phần mềm
 - Nói về quy trình kiểm thử diễn ra như thế nào , thời gian kiểm thử, cách tiếp cận các chiến lược
-### Chương 3 Kỹ thuật kiểm thử hộp trắng
+### [[Chương 3 Kỹ thuật kiểm thử hộp trắng]]
 - Giới thiệu kiểm thử hộp trắng là kiểm thử bên trong của phần mềm 
 - Giới thiệu các cấp độ phủ kiểm thử khác nhau
 - Giới thiệu về ₫ộ phức tạp Cyclomatic C
