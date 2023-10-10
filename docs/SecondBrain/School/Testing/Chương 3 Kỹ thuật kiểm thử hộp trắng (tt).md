@@ -42,6 +42,9 @@ tags:
 ## 3. Đồ thị dòng dữ liệu
 ##### Độ phức tạp Cyclomatic C
 
+Ta cũng dùng ₫ộ phức tạp Cyclomatic C = V(G) của ₫ồ thị dòng ₫iều khiển của TPPM cần kiểm thử ₫ể xác ₫ịnh số ₫ường thi hành tuyến tính ₫ộc lập của TPPM cần kiểm thử.
+
+## 4. Qui trình kiểm thử dòng dữ liệu
 
 
 --- 
