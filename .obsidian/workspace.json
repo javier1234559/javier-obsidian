@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/English/MOC English.md",
+                "file": "docs/SecondBrain/English/English Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/English/MOC English.md",
+                "file": "docs/SecondBrain/English/English Roadmap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/English/MOC English.md"
+                "file": "docs/SecondBrain/English/English Roadmap.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/English/MOC English.md",
+                "file": "docs/SecondBrain/English/English Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,6 +181,8 @@
   },
   "active": "7bc180fa608922f8",
   "lastOpenFiles": [
+    "docs/Files/Pasted image 20231011160444.png",
+    "docs/SecondBrain/English/MOC English.md",
     "docs/SecondBrain/English/English Roadmap.md",
     "docs/SecondBrain/Daily/todo-in-11-10-23.md",
     "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
@@ -208,8 +210,6 @@
     "docs/SecondBrain/Technology/Software architecture.md",
     "docs/SecondBrain/Technology/ExpressJS.md",
     "docs/SecondBrain/Technology/NestJS.md",
-    "docs/SecondBrain/Technology/NestJS.md",
-    "conflict-files-obsidian-git.md",
     "docs/Zettelkasten/Permanent",
     "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",

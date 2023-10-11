@@ -11,7 +11,7 @@ tags:
 
 
 
-
+![[Pasted image 20231011160444.png]]
 
 
 --- 
