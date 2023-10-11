@@ -18,6 +18,9 @@ tags:
 # References
 
 
+How i meet your mother: [https://youtu.be/qy7k2u3yI7M?si=3ZXM4OzyT4CbNaWdDaily](https://youtu.be/qy7k2u3yI7M?si=3ZXM4OzyT4CbNaWdDaily) 
+Sitcom Friends: [https://youtu.be/v14PWuURC7Y?si=f9yTqn6dSKfdroWx](https://youtu.be/v14PWuURC7Y?si=f9yTqn6dSKfdroWx)
+
 
 --- 
 # Links to this page
