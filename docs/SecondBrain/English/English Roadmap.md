@@ -24,8 +24,6 @@ The BigBang Theory [Unveiling The Big Bang Theory Unaired Pilot - A Deep Dive in
 The silicon valley : [Silicon Valley: Season 4 Episode 3 - Intellectual Property / Guest Lecturer - YouTube](https://www.youtube.com/watch?v=LKjNT6JpF7o&list=PLLXNE8AlEBM4_ZPNIVs6pOP86YuDnI8SP)
 
 
-
-
 --- 
 # Links to this page
 
