@@ -1,9 +1,9 @@
 
 # Introduction to Javier's Obsidian
-[[todo-in-07-10-23]]
+[[todo-in-14-10-23]]
 
 # Top note quan tâm nhất
-[[Simple api todolist ExpressJS]]
+[[Simple ecommerce MERN STACK]]
 
 [[Các trang blog theo dõi hằng ngày]]
 [[Top Blogs to learn and update technology ]]

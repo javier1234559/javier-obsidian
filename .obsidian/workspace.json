@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "97aa50898cab3862",
+        "id": "a9338f443b0c0c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "ce2a13a464de208f",
+            "id": "ca6aa1bec7a78a89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/SecondBrain/Daily/todo-in-14-10-23.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/SecondBrain/Daily/todo-in-14-10-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-14 11.53.35.excalidraw.md"
+                "file": "docs/SecondBrain/Daily/todo-in-14-10-23.md"
               }
             }
           },
@@ -137,18 +142,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/SecondBrain/Daily/todo-in-14-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "c51eab737c20d25c",
+            "type": "leaf",
+            "state": {
+              "type": "pieces-snippet-list",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 529.5,
-    "collapsed": true
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,11 +180,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "683257e2e9d07a06",
+  "active": "c51eab737c20d25c",
   "lastOpenFiles": [
-    "Untitled.loom",
-    "Excalidraw/Drawing 2023-10-14 11.53.35.excalidraw.md",
+    "README.md",
+    "docs/SecondBrain/Daily/todo-in-14-10-23.md",
+    "docs/Files/Diagram.svg",
+    "docs/Files/Diagram.svg.xml",
+    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
+    "Untitled.canvas",
     "Excalidraw",
+    "docs/index.md",
+    "Excalidraw/Drawing 2023-10-14 11.53.35.excalidraw.md",
+    "Untitled.loom",
     "docs/SecondBrain/English/English Roadmap.md",
     "docs/Files/Pasted image 20231011160444.png",
     "docs/SecondBrain/English/MOC English.md",
@@ -188,8 +208,6 @@
     "docs/SecondBrain/School/New Technology/Note at School.sync-conflict-20230925-141406-SHOVBEZ.md",
     "docs/SecondBrain/School/Testing/Tóm tắt lý thuyết môn Testing.sync-conflict-20230925-141407-SHOVBEZ.md",
     "docs/SecondBrain/Daily/todo-in-07-10-23.md",
-    "README.md",
-    "docs/index.md",
     "docs/SecondBrain/Daily/todo-in-02-10-23.md",
     "docs/SecondBrain/Daily/todo-in-06-10-23.md",
     "docs/SecondBrain/Daily/todo-in-03-10-23.md",
@@ -198,8 +216,6 @@
     "docs/SecondBrain/Daily/todo-in-01-10-23.md",
     "docs/SecondBrain/Technology/Nodejs.md",
     "docs/SecondBrain/Technology/DevOps.md",
-    "docs/SecondBrain/Technology/Software architecture.md",
-    "docs/SecondBrain/Technology/ExpressJS.md",
     "docs/Zettelkasten/Permanent",
     "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",
@@ -209,11 +225,8 @@
     "docs/Files/Pasted image 20230914194729.png",
     "docs/Files/Pasted image 20230918083122.png",
     "docs/Files/Pasted image 20230918101437.png",
-    "Untitled.canvas",
     "SecondBrain/Technology/BackEnd",
     "SecondBrain/Technology/FrontEnd",
-    "SecondBrain/School/IT Project",
-    "Files/Pasted image 20230918101437.png",
-    "Files/Pasted image 20230918083122.png"
+    "Files/Pasted image 20230918101437.png"
   ]
 }
