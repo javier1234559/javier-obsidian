@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bc180fa608922f8",
+            "id": "ce2a13a464de208f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "docs/SecondBrain/English/English Roadmap.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-10-14 11.53.35.excalidraw.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/English/English Roadmap.md",
+                "file": "Excalidraw/Drawing 2023-10-14 11.53.35.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/English/English Roadmap.md"
+                "file": "Excalidraw/Drawing 2023-10-14 11.53.35.excalidraw.md"
               }
             }
           },
@@ -142,22 +140,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/English/English Roadmap.md",
+                "file": "Excalidraw/Drawing 2023-10-14 11.53.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "e87d648ef6651c85",
-            "type": "leaf",
-            "state": {
-              "type": "pieces-snippet-list",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -176,14 +166,19 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "remotely-save:Remotely Save": false,
-      "pieces-for-developers:Pieces For Developers": false
+      "pieces-for-developers:Pieces For Developers": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bc180fa608922f8",
+  "active": "ce2a13a464de208f",
   "lastOpenFiles": [
+    "Untitled.loom",
+    "Excalidraw/Drawing 2023-10-14 11.53.35.excalidraw.md",
+    "Excalidraw",
+    "docs/SecondBrain/English/English Roadmap.md",
     "docs/Files/Pasted image 20231011160444.png",
     "docs/SecondBrain/English/MOC English.md",
-    "docs/SecondBrain/English/English Roadmap.md",
     "docs/SecondBrain/Daily/todo-in-11-10-23.md",
     "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
     "piecesdb.json",
@@ -209,7 +204,6 @@
     "docs/SecondBrain/Technology/DevOps.md",
     "docs/SecondBrain/Technology/Software architecture.md",
     "docs/SecondBrain/Technology/ExpressJS.md",
-    "docs/SecondBrain/Technology/NestJS.md",
     "docs/Zettelkasten/Permanent",
     "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",
@@ -223,10 +217,7 @@
     "SecondBrain/Technology/BackEnd",
     "SecondBrain/Technology/FrontEnd",
     "SecondBrain/School/IT Project",
-    "SecondBrain/School/New Technology",
-    "SecondBrain/School/Artificial Intelligence",
     "Files/Pasted image 20230918101437.png",
-    "Files/Pasted image 20230918083122.png",
-    "Files/Pasted image 20230914194729.png"
+    "Files/Pasted image 20230918083122.png"
   ]
 }
