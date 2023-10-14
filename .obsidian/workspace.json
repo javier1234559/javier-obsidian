@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca6aa1bec7a78a89",
+            "id": "f50cf197e0974cfa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md"
+                "file": "docs/SecondBrain/Daily/todo-in-14-10-23.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
+                "file": "docs/SecondBrain/Daily/todo-in-14-10-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md"
+                "file": "docs/SecondBrain/Daily/todo-in-14-10-23.md"
               }
             }
           },
@@ -140,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
+                "file": "docs/SecondBrain/Daily/todo-in-14-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 453.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,13 +181,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca6aa1bec7a78a89",
+  "active": "f50cf197e0974cfa",
   "lastOpenFiles": [
-    "docs/SecondBrain/Daily/todo-in-14-10-23.md",
     "README.md",
+    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
+    "docs/SecondBrain/Daily/todo-in-14-10-23.md",
     "docs/Files/Diagram.svg",
     "docs/Files/Diagram.svg.xml",
-    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
     "docs/index.md",
