@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/Technology/DevOps.md",
+                "file": "docs/SecondBrain/Technology/Javascript.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/Technology/DevOps.md",
+                "file": "docs/SecondBrain/Technology/Javascript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/Technology/DevOps.md"
+                "file": "docs/SecondBrain/Technology/Javascript.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/Technology/DevOps.md",
+                "file": "docs/SecondBrain/Technology/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,6 +183,7 @@
   },
   "active": "4098cf523b061c37",
   "lastOpenFiles": [
+    "docs/SecondBrain/Technology/DevOps.md",
     "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
     "docs/SecondBrain/Technology/Javascript.md",
     "docs/SecondBrain/Daily/todo-in-14-10-23.md",
@@ -217,7 +218,6 @@
     "docs/SecondBrain/Technology/Git.md",
     "docs/SecondBrain/Technology/Project Management.md",
     "docs/SecondBrain/Daily/todo-in-01-10-23.md",
-    "docs/SecondBrain/Technology/Nodejs.md",
     "docs/Zettelkasten/Permanent",
     "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",
