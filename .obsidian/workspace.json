@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4098cf523b061c37",
+            "id": "cf4052211a1a2bd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/Technology/Javascript.md",
+                "file": "docs/SecondBrain/Daily/todo-in-15-10-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/Technology/Javascript.md",
+                "file": "docs/SecondBrain/Daily/todo-in-15-10-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/Technology/Javascript.md"
+                "file": "docs/SecondBrain/Daily/todo-in-15-10-23.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SecondBrain/Technology/Javascript.md",
+                "file": "docs/SecondBrain/Daily/todo-in-15-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,13 +181,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4098cf523b061c37",
+  "active": "cf4052211a1a2bd2",
   "lastOpenFiles": [
+    "README.md",
+    "docs/SecondBrain/Daily/todo-in-15-10-23.md",
+    "todo-in-15-10-23.md",
+    "docs/SecondBrain/Daily/todo-in-14-10-23.md",
+    "docs/SecondBrain/Technology/Javascript.md",
     "docs/SecondBrain/Technology/DevOps.md",
     "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
-    "docs/SecondBrain/Technology/Javascript.md",
-    "docs/SecondBrain/Daily/todo-in-14-10-23.md",
-    "README.md",
     "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
     "docs/Files/Diagram.svg",
     "docs/Files/Diagram.svg.xml",
@@ -216,8 +218,6 @@
     "docs/SecondBrain/Daily/todo-in-06-10-23.md",
     "docs/SecondBrain/Daily/todo-in-03-10-23.md",
     "docs/SecondBrain/Technology/Git.md",
-    "docs/SecondBrain/Technology/Project Management.md",
-    "docs/SecondBrain/Daily/todo-in-01-10-23.md",
     "docs/Zettelkasten/Permanent",
     "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",

@@ -1,6 +1,6 @@
 
 # Introduction to Javier's Obsidian
-[[todo-in-14-10-23]]
+[[todo-in-15-10-23]]
 
 # Top note quan tâm nhất
 [[Simple ecommerce MERN STACK]]
