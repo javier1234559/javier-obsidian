@@ -16,8 +16,7 @@ tags:
 
 --- 
 # References
-
-
+Roadmap :[DevOps Journey (devopslifecycle.com)](https://devopslifecycle.com/roadmaps?ref=morioh.com&utm_source=morioh.com)
 
 --- 
 # Links to this page

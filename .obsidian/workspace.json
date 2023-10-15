@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
+                "file": "docs/SecondBrain/Technology/DevOps.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
+                "file": "docs/SecondBrain/Technology/DevOps.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md"
+                "file": "docs/SecondBrain/Technology/DevOps.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
+                "file": "docs/SecondBrain/Technology/DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +183,8 @@
   },
   "active": "4098cf523b061c37",
   "lastOpenFiles": [
-    "docs/SecondBrain/Technology/Javascript.md",
     "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
+    "docs/SecondBrain/Technology/Javascript.md",
     "docs/SecondBrain/Daily/todo-in-14-10-23.md",
     "README.md",
     "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
