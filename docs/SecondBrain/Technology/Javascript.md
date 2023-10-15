@@ -15,6 +15,7 @@ tags:
 
 --- 
 # References
+Blog : [10+ tài liệu JavaScript từ cơ bản đến nâng cao - Ehkoo](https://ehkoo.com/bai-viet/free-javascript-books-beginner-advanced)
 [[Learning Javascript Resources]]
 
 
