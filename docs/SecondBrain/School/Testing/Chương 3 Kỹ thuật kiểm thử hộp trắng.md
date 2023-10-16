@@ -46,7 +46,7 @@ Qui trình xác ₫ịnh các ₫ường tuyến tính ₫ộc lập
 
 Thiết kế các test case
 
-##### Kiểm thử vòng lặp
+#### Kiểm thử vòng lặp
 Thường thân của 1 lệnh lặp sẽ ₫ược thực hiện nhiều lần  Chi phí kiểm thử ₫ầy ₫ủ rất tốn kém, nên chúng ta sẽ chỉ kiểm thử ở những lần lặp mà theo thống kê dễ gây lỗi nhất . Có 4 loại
 1. lệnh lặp ₫ơn giản : thân của nó chỉ chứa các lệnh khác chứ không chứa lệnh lặp khác. 
 2. lệnh lặp lồng nhau : thân của nó có chứa ít nhất lệnh lặp khác... 
