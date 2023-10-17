@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a9338f443b0c0c0b",
+        "id": "bdfaeca1cb3a0158",
         "type": "tabs",
         "children": [
           {
-            "id": "cf4052211a1a2bd2",
+            "id": "212fab2bb3705b38",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2d050063b6cddb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
+                "file": "docs/Zettelkasten/Fleeting/Top repository resource about technology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,13 +95,25 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
+                "file": "docs/Zettelkasten/Fleeting/Top repository resource about technology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82287a5b42615bf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Zettelkasten/Fleeting/Top repository resource about technology.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -114,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md"
+                "file": "docs/Zettelkasten/Fleeting/Top repository resource about technology.md"
               }
             }
           },
@@ -135,37 +156,19 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "82287a5b42615bf8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c51eab737c20d25c",
-            "type": "leaf",
-            "state": {
-              "type": "pieces-snippet-list",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 453.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pieces-for-developers:Pieces For Developers": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -175,49 +178,44 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "remotely-save:Remotely Save": false,
-      "pieces-for-developers:Pieces For Developers": false,
-      "notion-like-tables:Create loom": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "cf4052211a1a2bd2",
+  "active": "f2d050063b6cddb9",
   "lastOpenFiles": [
-    "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng.md",
-    "docs/SecondBrain/School/Testing/Tóm tắt lý thuyết môn Testing.md",
-    "docs/SecondBrain/Daily/todo-in-15-10-23.md",
-    "README.md",
-    "todo-in-15-10-23.md",
-    "docs/SecondBrain/Daily/todo-in-14-10-23.md",
-    "docs/SecondBrain/Technology/Javascript.md",
-    "docs/SecondBrain/Technology/DevOps.md",
-    "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
-    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
-    "docs/Files/Diagram.svg",
-    "docs/Files/Diagram.svg.xml",
-    "Untitled.canvas",
-    "Excalidraw",
-    "docs/index.md",
-    "Excalidraw/Drawing 2023-10-14 11.53.35.excalidraw.md",
-    "Untitled.loom",
-    "docs/SecondBrain/English/English Roadmap.md",
-    "docs/Files/Pasted image 20231011160444.png",
-    "docs/SecondBrain/English/MOC English.md",
-    "docs/SecondBrain/Daily/todo-in-11-10-23.md",
-    "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
+    "docs/Zettelkasten/Fleeting/Top repository resource about technology.md",
+    "conflict-files-obsidian-git.md",
+    "docs/SecondBrain/Daily/todo-in-01-10-23.md",
     "piecesdb.json",
-    "docs/Files/Pasted image 20231010081906.png",
-    "docs/Files/Pasted image 20231010081835.png",
-    "docs/SecondBrain/School/New Technology/Note at School.md",
-    "docs/SecondBrain/School/Artificial Intelligence/Note at School.sync-conflict-20230925-141407-SHOVBEZ.md",
-    "docs/SecondBrain/School/IT Project/Note at School.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/SecondBrain/School/New Technology/Note at School.sync-conflict-20230925-141406-SHOVBEZ.md",
-    "docs/SecondBrain/School/Testing/Tóm tắt lý thuyết môn Testing.sync-conflict-20230925-141407-SHOVBEZ.md",
+    "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
+    "docs/SecondBrain/Technology/UX and UI.md",
+    "docs/SecondBrain/Technology/Software architecture.md",
+    "docs/SecondBrain/Technology/MongoDB.md",
+    "docs/SecondBrain/Technology/Javascript.md",
+    "docs/SecondBrain/Technology/Git.md",
+    "docs/SecondBrain/Technology/DevOps.md",
+    "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng.md",
+    "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
+    "docs/SecondBrain/Daily/todo-in-15-10-23.md",
+    "docs/SecondBrain/Daily/todo-in-14-10-23.md",
+    "docs/SecondBrain/Daily/todo-in-11-10-23.md",
     "docs/SecondBrain/Daily/todo-in-07-10-23.md",
-    "docs/SecondBrain/Daily/todo-in-02-10-23.md",
     "docs/SecondBrain/Daily/todo-in-06-10-23.md",
     "docs/SecondBrain/Daily/todo-in-03-10-23.md",
-    "docs/SecondBrain/Technology/Git.md",
+    "docs/SecondBrain/Daily/todo-in-02-10-23.md",
+    "docs/Files/Pasted image 20231011160444.png",
+    "docs/Files/Pasted image 20231010081906.png",
+    "docs/Files/Pasted image 20231010081835.png",
+    "docs/Files/Diagram.svg.xml",
+    "docs/Files/Diagram.svg",
+    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
+    "Excalidraw",
+    "README.md",
+    "docs/SecondBrain/Daily/todo-in-21-09-23.md",
+    "docs/SecondBrain/Daily/todo-in-22-09-23.md",
+    "docs/SecondBrain/Daily/todo-in-25-09-23.md",
+    "docs/SecondBrain/Daily/todo-in-27-09-23.md",
+    "docs/SecondBrain/Daily/todo-in-28-09-23.md",
     "docs/Zettelkasten/Permanent",
     "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",
@@ -227,8 +225,10 @@
     "docs/Files/Pasted image 20230914194729.png",
     "docs/Files/Pasted image 20230918083122.png",
     "docs/Files/Pasted image 20230918101437.png",
+    "Untitled.canvas",
     "SecondBrain/Technology/BackEnd",
     "SecondBrain/Technology/FrontEnd",
+    "SecondBrain/School/IT Project",
     "Files/Pasted image 20230918101437.png"
   ]
 }
