@@ -1,11 +1,3 @@
 {
-  "accentColor": "#268aab",
-  "theme": "obsidian",
-  "cssTheme": "Atom",
-  "enabledCssSnippets": [
-    "heading",
-    "MCL Gallery Cards",
-    "MCL Multi Column",
-    "MCL Wide Views"
-  ]
+  "accentColor": ""
 }

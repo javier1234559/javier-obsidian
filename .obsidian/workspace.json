@@ -1,38 +1,39 @@
 {
   "main": {
-    "id": "88d474119a8edef0",
+    "id": "2be337cecd56f712",
     "type": "split",
     "children": [
       {
-        "id": "a9338f443b0c0c0b",
+        "id": "405286b6c3ecb83d",
         "type": "tabs",
         "children": [
           {
-            "id": "cf4052211a1a2bd2",
+            "id": "a118da4283c3b8a8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d8a7f94892544adb",
+    "id": "0fb9797ca1669e52",
     "type": "split",
     "children": [
       {
-        "id": "0ec3f9bd3a5210bc",
+        "id": "944e7b7c3bc33a9a",
         "type": "tabs",
         "children": [
           {
-            "id": "683257e2e9d07a06",
+            "id": "b0fdb3f1f9efd775",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -42,12 +43,12 @@
             }
           },
           {
-            "id": "91f5bacf068b82d3",
+            "id": "9a8b57d30e5f43c7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#zettelkaste/permanent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +58,7 @@
             }
           },
           {
-            "id": "71e1cf9263bb91b0",
+            "id": "008f7227b1000a00",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,24 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 300
   },
   "right": {
-    "id": "604d485f82f42c02",
+    "id": "9d958008e6b8307a",
     "type": "split",
     "children": [
       {
-        "id": "8028bec1dac89c57",
+        "id": "8fc8a31e82e3c2cc",
         "type": "tabs",
         "children": [
           {
-            "id": "a96ca43c299264f5",
+            "id": "1e74248751e7a325",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
-                "collapseAll": true,
+                "file": "README.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -96,7 +97,19 @@
             }
           },
           {
-            "id": "e70b6c5bb2838d5e",
+            "id": "49409075dd38a610",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f04abbb95cd7a3de",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -107,59 +120,20 @@
             }
           },
           {
-            "id": "5d444d575460087f",
+            "id": "2e0479bb3e53ec15",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md"
+                "file": "README.md"
               }
-            }
-          },
-          {
-            "id": "ef0945c9abf7a6cc",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "9ab5f83e85ccdb1d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "82287a5b42615bf8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "375738927717f777",
-            "type": "leaf",
-            "state": {
-              "type": "pieces-snippet-list",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 453.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -179,54 +153,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf4052211a1a2bd2",
+  "active": "a118da4283c3b8a8",
   "lastOpenFiles": [
-    "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
-    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
-    "docs/Zettelkasten/Fleeting/Tài liệu devops của nhóm chat telegram.md",
-    "docs/SecondBrain/Technology/DevOps.md",
-    "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
-    "docs/Zettelkasten/Fleeting/Top repository resource about technology.md",
-    "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng.md",
-    "docs/SecondBrain/School/Testing/Tóm tắt lý thuyết môn Testing.md",
-    "docs/SecondBrain/Daily/todo-in-15-10-23.md",
-    "README.md",
-    "todo-in-15-10-23.md",
-    "docs/SecondBrain/Daily/todo-in-14-10-23.md",
-    "docs/SecondBrain/Technology/Javascript.md",
-    "docs/Files/Diagram.svg",
-    "docs/Files/Diagram.svg.xml",
-    "Untitled.canvas",
-    "Excalidraw",
     "docs/index.md",
-    "Excalidraw/Drawing 2023-10-14 11.53.35.excalidraw.md",
-    "Untitled.loom",
-    "docs/SecondBrain/English/English Roadmap.md",
-    "docs/Files/Pasted image 20231011160444.png",
-    "docs/SecondBrain/English/MOC English.md",
-    "docs/SecondBrain/Daily/todo-in-11-10-23.md",
+    "README.md",
+    "docs/Zettelkasten/MOC Zettelkasten.md",
+    "Pipfile",
     "piecesdb.json",
-    "docs/Files/Pasted image 20231010081906.png",
-    "docs/Files/Pasted image 20231010081835.png",
-    "docs/SecondBrain/School/New Technology/Note at School.md",
-    "docs/SecondBrain/School/Artificial Intelligence/Note at School.sync-conflict-20230925-141407-SHOVBEZ.md",
-    "docs/SecondBrain/School/IT Project/Note at School.sync-conflict-20230925-141409-SHOVBEZ.md",
-    "docs/SecondBrain/School/New Technology/Note at School.sync-conflict-20230925-141406-SHOVBEZ.md",
-    "docs/SecondBrain/School/Testing/Tóm tắt lý thuyết môn Testing.sync-conflict-20230925-141407-SHOVBEZ.md",
-    "docs/SecondBrain/Daily/todo-in-07-10-23.md",
-    "docs/SecondBrain/Daily/todo-in-02-10-23.md",
-    "docs/SecondBrain/Daily/todo-in-06-10-23.md",
-    "docs/Zettelkasten/Permanent",
-    "docs/SecondBrain/Technology/Database",
-    "Zettelkasten/Fleeting",
-    "Zettelkasten",
-    "docs/Files/Pasted image 20230927203637.png",
-    "Pasted image 20230927203610.png",
-    "docs/Files/Pasted image 20230914194729.png",
-    "docs/Files/Pasted image 20230918083122.png",
-    "docs/Files/Pasted image 20230918101437.png",
-    "SecondBrain/Technology/BackEnd",
-    "SecondBrain/Technology/FrontEnd",
-    "Files/Pasted image 20230918101437.png"
+    "Pipfile.lock",
+    "mkdocs.yml",
+    "docs/Templates/T8 Random Word.md",
+    "LICENSE"
   ]
 }
