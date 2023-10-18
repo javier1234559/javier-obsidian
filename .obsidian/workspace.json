@@ -11,12 +11,8 @@
             "id": "cf4052211a1a2bd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Zettelkasten/Fleeting/Tài liệu devops của nhóm chat telegram.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Tài liệu devops của nhóm chat telegram.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Zettelkasten/Fleeting/Tài liệu devops của nhóm chat telegram.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,14 +135,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Tài liệu devops của nhóm chat telegram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c51eab737c20d25c",
+            "id": "375738927717f777",
             "type": "leaf",
             "state": {
               "type": "pieces-snippet-list",
@@ -181,8 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf4052211a1a2bd2",
+  "active": "375738927717f777",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
+    "docs/Zettelkasten/Fleeting/Tài liệu devops của nhóm chat telegram.md",
     "docs/SecondBrain/Technology/DevOps.md",
     "docs/SecondBrain/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
     "docs/Zettelkasten/Fleeting/Top repository resource about technology.md",
@@ -194,7 +188,6 @@
     "docs/SecondBrain/Daily/todo-in-14-10-23.md",
     "docs/SecondBrain/Technology/Javascript.md",
     "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
-    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
     "docs/Files/Diagram.svg",
     "docs/Files/Diagram.svg.xml",
     "Untitled.canvas",
@@ -217,7 +210,6 @@
     "docs/SecondBrain/Daily/todo-in-07-10-23.md",
     "docs/SecondBrain/Daily/todo-in-02-10-23.md",
     "docs/SecondBrain/Daily/todo-in-06-10-23.md",
-    "docs/SecondBrain/Daily/todo-in-03-10-23.md",
     "docs/Zettelkasten/Permanent",
     "docs/SecondBrain/Technology/Database",
     "Zettelkasten/Fleeting",
