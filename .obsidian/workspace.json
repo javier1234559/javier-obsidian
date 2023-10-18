@@ -11,8 +11,12 @@
             "id": "cf4052211a1a2bd2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md"
+              }
             }
           },
           {
@@ -135,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "375738927717f777",
+  "active": "cf4052211a1a2bd2",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
     "docs/Zettelkasten/Fleeting/Tài liệu devops của nhóm chat telegram.md",
