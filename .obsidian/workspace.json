@@ -11,11 +11,9 @@
             "id": "cf4052211a1a2bd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
+                "file": "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md"
+                "file": "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md"
               }
             }
           },
@@ -142,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
+                "file": "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,6 +181,7 @@
   },
   "active": "cf4052211a1a2bd2",
   "lastOpenFiles": [
+    "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
     "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
     "docs/Zettelkasten/Fleeting/Tài liệu devops của nhóm chat telegram.md",
     "docs/SecondBrain/Technology/DevOps.md",
@@ -195,7 +194,6 @@
     "todo-in-15-10-23.md",
     "docs/SecondBrain/Daily/todo-in-14-10-23.md",
     "docs/SecondBrain/Technology/Javascript.md",
-    "docs/Zettelkasten/Fleeting/Learning Javascript Resources.md",
     "docs/Files/Diagram.svg",
     "docs/Files/Diagram.svg.xml",
     "Untitled.canvas",
