@@ -1,9 +1,19 @@
 {
-  "a-unique-id@@accent": "#488EDA",
+  "a-unique-id@@accent": "#BF19D8",
   "ITS@@h1-color@@light": "#D51ABF",
   "ITS@@h2-color@@light": "#D9C00F",
   "ITS@@h3-color@@light": "#1E36F1",
   "ITS@@h4-color@@light": "#7587AC",
   "ITS@@h5-color@@light": "#F121BF",
-  "ITS@@h6-color@@light": "#7843C1"
+  "ITS@@h6-color@@light": "#7843C1",
+  "sanctum@@active-line-accent": "transparent",
+  "sanctum@@h2-color": "#F3BD4F",
+  "sanctum@@h3-color": "#8D9319",
+  "sanctum@@h4-color": "#5C997C",
+  "sanctum@@h5-color": "#53709F",
+  "sanctum@@h6-color": "#A577DA",
+  "sanctum@@highlight@@light": "#8AF1C1",
+  "sanctum@@bold-color@@light": "#6C6DE5",
+  "sanctum@@italic-color@@light": "#EA6D8C",
+  "sanctum@@h1-color": "#F68D45"
 }

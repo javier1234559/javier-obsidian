@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "39983de267d9a74b",
+        "id": "148f6dbc7a67440c",
         "type": "tabs",
         "children": [
           {
-            "id": "8a1057399aebd175",
+            "id": "d0b9697a7c91771b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/Project/Daily/2023-10-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/Project/Daily/2023-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/Project/Daily/2023-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +125,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/Project/Daily/2023-10-20.md"
               }
             }
+          },
+          {
+            "id": "7de3bae50f5be158",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 536.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,21 +159,37 @@
       "remotely-save:Remotely Save": false,
       "pieces-for-developers:Pieces For Developers": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Timeline": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "8a1057399aebd175",
+  "active": "d0b9697a7c91771b",
   "lastOpenFiles": [
+    "README.md",
+    "docs/Project/Daily/2023-10-20.md",
+    "2023-10-20.md",
     "docs/Project/Daily/todo-in-20-10-23.md",
+    "docs/index.md",
+    "docs/Project/Daily/todo-in-07-10-23.md",
+    "Untitled.canvas",
+    "Untitled.loom",
+    "DataLoom/Untitled.loom",
+    "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
+    "docs/Project/Daily/daily-in-18-09-23.md",
+    "docs/Project/Daily/todo-in-01-10-23.md",
+    "docs/Project/Daily/todo-in-02-10-23.md",
+    "docs/Project/Daily/todo-in-03-10-23.md",
+    "docs/Project/Daily/todo-in-30-09-23.md",
+    "docs/Templates/T2 Column template.md",
+    "docs/Main MOC.md",
+    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
     "docs/Area/English/Permanent Note/English Roadmap.md",
     "docs/Archive/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
-    "docs/index.md",
     "docs/Archive/SecondBrain/Daily/todo-in-20-10-23.md",
     "docs/Archive/SecondBrain/Daily",
     "docs/Archive/SecondBrain",
     "docs/Area/Technology/Javascript.md",
-    "docs/Main MOC.md",
-    "DataLoom/Untitled.loom",
     "DataLoom",
     "docs/Untitled",
     "docs/Area/English/Feeting Note.md",
@@ -175,21 +201,8 @@
     "docs/Area/English/Fleeting Note",
     "docs/Resource/index.md",
     "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
-    "README.md",
     "docs/Archive/Zettelkasten/index.md",
-    "docs/Area/index.md",
-    "docs/Project/index.md",
-    "docs/Archive/Zettelkasten/Fleeting/Tạo hashtag cho Note.md",
-    "docs/Area/School/MOC School.md",
-    "docs/Resource/Life/Contact/Friend Birthday.md",
-    "docs/Area/English/MOC English.md",
-    "docs/Resource/Books/MOC Books.md",
-    "docs/Resource/Life/Contact/MOC Contact.md",
-    "docs/SecondBrain/Hobbies/MOC Hobbies.md",
     "docs/Files/Diagram.svg",
-    "docs/Resource",
-    "docs/Area",
-    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
-    "docs/Project/Daily/todo-in-03-10-23.md"
+    "docs/Resource"
   ]
 }
