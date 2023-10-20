@@ -1,9 +1,7 @@
 ---
 Created: 16:08 01-10-2023
 Link: 
-tags:
-  - secondbrain
-  - secondbrain/technology
+tags: []
 ---
 
 # Software architecture

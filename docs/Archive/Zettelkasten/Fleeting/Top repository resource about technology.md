@@ -72,7 +72,7 @@ Repo này chứa các đoạn code JavaScript ngắn cho mọi nhu cầu phát t
 
 Một thực tế là Tài liệu là một tài sản quan trọng đối với bất kỳ dự án phần mềm nào. Viết mã tự tài liệu là một chuyện, nhưng trình bày nó theo cách có ý nghĩa là một chuyện khác. Tác giả đã thu thập những tài nguyên trực tuyến ‘đẹp’ về cấu trúc, thiết kế, khả năng sử dụng, kiểu dáng, sơ đồ, v.v. - vì vậy bất kỳ ai tìm kiếm về cách thiết kế tài liệu của riêng mình sẽ thấy tài liệu này rất hữu ích.
 
-[#genZit_sharing](https://www.facebook.com/hashtag/genzit_sharing?__eep__=6&__cft__[0]=AZVu58jRPOsD74qvrnFbrzL7RP_Jootf4fJtcMUnQKCipoyZaxazm7SpJQefdw4odkU7LLB-UB7Ol0SuzcWm4WhZF9Njz25tXIQUBs9jBwwt2eR_J53L_9oul0JEopXdDRAMJsPzQr11HMpxuyRKQcC8RSO5Syl-jk4WBwCArl0RUVF4PDln3w2p4SYXWgrUC_8&__tn__=*NK-R)
+[genZit_sharing](https://www.facebook.com/hashtag/genzit_sharing?__eep__=6&__cft__[0]=AZVu58jRPOsD74qvrnFbrzL7RP_Jootf4fJtcMUnQKCipoyZaxazm7SpJQefdw4odkU7LLB-UB7Ol0SuzcWm4WhZF9Njz25tXIQUBs9jBwwt2eR_J53L_9oul0JEopXdDRAMJsPzQr11HMpxuyRKQcC8RSO5Syl-jk4WBwCArl0RUVF4PDln3w2p4SYXWgrUC_8&__tn__=*NK-R)
 
 
 

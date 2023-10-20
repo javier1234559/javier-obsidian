@@ -1,6 +1,6 @@
 {
   "shouldDebug": false,
-  "createAtObsidianAttachmentFolder": true,
+  "createAtObsidianAttachmentFolder": false,
   "customFolderForNewFiles": "DataLoom",
   "removeMarkdownOnExport": true,
   "defaultEmbedWidth": "100%",
