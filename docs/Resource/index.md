@@ -8,5 +8,5 @@ Sẽ có dạng như dưới đây
 [[[Các trang blog theo dõi hằng ngày]]]
 
 ### Các hashtag chủ đề trong resources
-#life #book/
+#life #book #book/finace
 
