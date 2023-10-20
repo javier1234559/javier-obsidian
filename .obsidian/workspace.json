@@ -14,8 +14,21 @@
               "type": "weekly",
               "state": {}
             }
+          },
+          {
+            "id": "66b6acd110d8560c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -156,7 +173,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d0b9697a7c91771b",
+  "active": "66b6acd110d8560c",
   "lastOpenFiles": [
     "docs/Project/Daily/2023-10-20.md",
     "README.md",
