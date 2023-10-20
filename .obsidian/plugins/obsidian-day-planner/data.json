@@ -17,6 +17,6 @@
   "timestampFormat": "HH:mm",
   "dataviewSource": "",
   "showDataviewMigrationWarning": false,
-  "extendDurationUntilNext": true,
+  "extendDurationUntilNext": false,
   "defaultDurationMinutes": 30
 }
