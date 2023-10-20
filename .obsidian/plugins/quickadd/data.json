@@ -1,36 +1,6 @@
 {
   "choices": [
     {
-      "id": "7337de9d-8789-4de4-b390-f3ccccf49d23",
-      "name": "T7 Something daily",
-      "type": "Template",
-      "command": false,
-      "templatePath": "docs/Templates/T7 Something daily.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "daily-in-{{DATE:DD-MM-YY}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "docs/SecondBrain/Daily"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
       "id": "0d9bb6ad-5965-49fa-8721-1e1b269a99ee",
       "name": "T6 Todo List in Day",
       "type": "Template",
@@ -43,37 +13,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "docs/SecondBrain/Daily"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "4c7cf63c-9f2f-4254-8174-c839e9c4a745",
-      "name": "T1 Core Zettel Idea",
-      "type": "Template",
-      "command": false,
-      "templatePath": "docs/Templates/T1 Core Zettel Idea",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "docs/Zettelkasten/Fleeting"
+          "docs/Project/Daily"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -104,7 +44,7 @@
         "enabled": true,
         "folders": [
           "",
-          "docs/SecondBrain/English/Random words"
+          "docs/Area/English/Random words"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
