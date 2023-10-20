@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "39983de267d9a74b",
+        "id": "b931c8feb42fbeb7",
         "type": "tabs",
         "children": [
           {
-            "id": "8a1057399aebd175",
+            "id": "8753e16329abf766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/todo-in-20-10-23.md",
+                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/todo-in-20-10-23.md",
+                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/todo-in-20-10-23.md",
+                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/todo-in-20-10-23.md"
+                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md"
               }
             }
           }
@@ -143,20 +143,35 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "remotely-save:Remotely Save": false,
+      "pieces-for-developers:Pieces For Developers": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a1057399aebd175",
+  "active": "8753e16329abf766",
   "lastOpenFiles": [
-    "docs/Area/English/Permanent Note/English Roadmap.md",
     "docs/Project/Daily/todo-in-20-10-23.md",
-    "docs/Archive/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
+    "README.md",
+    "docs/Project/Daily/daily-in-18-09-23.md",
+    "docs/Project/Daily/todo-in-01-10-23.md",
+    "docs/Project/Daily/todo-in-02-10-23.md",
+    "docs/Project/Daily/todo-in-03-10-23.md",
+    "docs/Project/Daily/todo-in-30-09-23.md",
+    "docs/Templates/T2 Column template.md",
+    "docs/Main MOC.md",
     "docs/index.md",
+    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
+    "docs/Area/English/Permanent Note/English Roadmap.md",
+    "docs/Archive/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
     "docs/Archive/SecondBrain/Daily/todo-in-20-10-23.md",
     "docs/Archive/SecondBrain/Daily",
     "docs/Archive/SecondBrain",
     "docs/Area/Technology/Javascript.md",
-    "docs/Main MOC.md",
     "DataLoom/Untitled.loom",
     "DataLoom",
     "docs/Untitled",
@@ -169,21 +184,13 @@
     "docs/Area/English/Fleeting Note",
     "docs/Resource/index.md",
     "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
-    "README.md",
     "docs/Archive/Zettelkasten/index.md",
     "docs/Area/index.md",
     "docs/Project/index.md",
     "docs/Archive/Zettelkasten/Fleeting/Tạo hashtag cho Note.md",
     "docs/Area/School/MOC School.md",
-    "docs/Resource/Life/Contact/Friend Birthday.md",
-    "docs/Area/English/MOC English.md",
-    "docs/Resource/Books/MOC Books.md",
-    "docs/Resource/Life/Contact/MOC Contact.md",
-    "docs/SecondBrain/Hobbies/MOC Hobbies.md",
     "docs/Files/Diagram.svg",
     "docs/Resource",
-    "docs/Area",
-    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
-    "docs/Project/Daily/todo-in-03-10-23.md"
+    "docs/Area"
   ]
 }

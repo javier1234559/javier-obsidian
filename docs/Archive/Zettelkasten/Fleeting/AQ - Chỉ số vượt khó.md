@@ -1,5 +1,5 @@
 ---
-Created: "08:03 18-09-2023"
+Created: 08:03 18-09-2023
 Link: 
 tags:
   - zettelkasten

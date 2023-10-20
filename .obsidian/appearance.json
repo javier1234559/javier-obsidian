@@ -1,4 +1,14 @@
 {
   "accentColor": "#f96d10",
-  "cssTheme": "Sanctum"
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [
+    "heading",
+    "MCL Wide Views.sync-conflict-20230925-141409-SHOVBEZ",
+    "MCL Wide Views",
+    "MCL Multi Column",
+    "MCL Multi Column.sync-conflict-20230925-141409-SHOVBEZ",
+    "MCL Gallery Cards.sync-conflict-20230925-141409-SHOVBEZ",
+    "MCL Gallery Cards",
+    "folderIcon"
+  ]
 }
