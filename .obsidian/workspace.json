@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/todo-in-20-10-23.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/todo-in-20-10-23.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/todo-in-20-10-23.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/todo-in-20-10-23.md"
+                "file": "README.md"
               }
             }
           }
@@ -155,8 +155,8 @@
   },
   "active": "8a1057399aebd175",
   "lastOpenFiles": [
-    "docs/Area/English/Permanent Note/English Roadmap.md",
     "docs/Project/Daily/todo-in-20-10-23.md",
+    "docs/Area/English/Permanent Note/English Roadmap.md",
     "docs/Archive/Zettelkasten/Fleeting/Simple api todolist ExpressJS.md",
     "docs/index.md",
     "docs/Archive/SecondBrain/Daily/todo-in-20-10-23.md",
