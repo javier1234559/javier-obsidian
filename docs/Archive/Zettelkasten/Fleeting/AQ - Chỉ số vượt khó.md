@@ -20,7 +20,6 @@ AQ viết tắt là ( Adversity Quotient ) là chỉ số đo lường khả nă
 **Bước 1: Tự đánh giá**
 
 - Đặt cho mình các câu hỏi về cách bạn đối mặt với áp lực và khó khăn trong cuộc sống. Ví dụ:
-    
     - Khi gặp tình huống khó khăn, bạn có cảm thấy tự tin và sẵn sàng đối mặt không?
     - Làm thế nào bạn quản lý cảm xúc trong tình huống áp lực?
     - Bạn có khả năng phân loại vấn đề và tìm giải pháp không?
@@ -29,9 +28,9 @@ AQ viết tắt là ( Adversity Quotient ) là chỉ số đo lường khả nă
 **Bước 2: Phân tích tình huống khó khăn**
 
 - Chọn một tình huống khó khăn cụ thể mà bạn đã trải qua. Ví dụ:
-    
     - Bạn có thể chọn một dự án công việc có thời hạn gấp rút.
     - Số liệu cụ thể: Hạn chót, các vấn đề phát sinh, áp lực thời gian.
+
 - Đánh giá cách bạn đã ứng phó trong tình huống đó:
     
     - Bạn đã tự tin và bình tĩnh không?
@@ -41,7 +40,6 @@ AQ viết tắt là ( Adversity Quotient ) là chỉ số đo lường khả nă
 **Bước 3: Xem xét sự phát triển**
 
 - Hãy suy ngẫm về cách bạn đã phát triển từ kinh nghiệm này:
-    
     - Bạn đã học hỏi điều gì từ tình huống khó khăn đó?
     - Liệu bạn đã phát triển kỹ năng thích nghi và quản lý stress?
     - Bạn có thể đối mặt với tình huống tương tự tốt hơn không?
@@ -49,7 +47,6 @@ AQ viết tắt là ( Adversity Quotient ) là chỉ số đo lường khả nă
 **Bước 4: Thảo luận với người khác**
 
 - Hãy trò chuyện với người thân, bạn bè hoặc đồng nghiệp về kinh nghiệm của bạn:
-    
     - Họ thấy bạn đã đối mặt với tình huống khó khăn ra sao?
     - Họ có thấy bạn phát triển và trở nên mạnh mẽ hơn không?
 # References

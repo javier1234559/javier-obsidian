@@ -1,0 +1,64 @@
+/* Change header size in Edit mode */
+.cm-header-1 {
+  font-size: 27px;
+  line-height: 55px;
+  background-color: #CA4246;
+  background-image: linear-gradient(63deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.cm-header-2 {
+  font-size: 22px;
+  line-height: 45px;
+  background: rgb(34, 193, 195);
+  background-image: linear-gradient(63deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.cm-header-3 {
+  font-size: 21px;
+  line-height: 45px;
+  background: rgb(34, 193, 195);
+  background-image: linear-gradient(63deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.cm-header-4 {
+  font-size: 19px;
+  line-height: 35px;
+  background: rgb(34, 193, 195);
+  background-image: linear-gradient(63deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.cm-header-5 {
+  font-size: 16px;
+  background: rgb(34, 193, 195);
+  background-image: linear-gradient(63deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.cm-header-6 {
+  background: rgb(34, 193, 195);
+  background-image: linear-gradient(63deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 13px;
+}

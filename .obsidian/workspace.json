@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b931c8feb42fbeb7",
+        "id": "60be3d34b01a8c79",
         "type": "tabs",
         "children": [
           {
-            "id": "8753e16329abf766",
+            "id": "85b604bb1b36333e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md"
               }
             }
           }
@@ -154,11 +154,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "8753e16329abf766",
+  "active": "85b604bb1b36333e",
   "lastOpenFiles": [
     "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
-    "docs/Project/Daily/todo-in-20-10-23.md",
     "README.md",
+    "docs/Project/Daily/todo-in-20-10-23.md",
     "docs/Project/Daily/daily-in-18-09-23.md",
     "docs/Project/Daily/todo-in-01-10-23.md",
     "docs/Project/Daily/todo-in-02-10-23.md",

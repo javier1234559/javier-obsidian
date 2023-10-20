@@ -14,5 +14,6 @@
   "sanctum@@h6-color": "#A577DA",
   "sanctum@@highlight@@light": "#8AF1C1",
   "sanctum@@bold-color@@light": "#6C6DE5",
-  "sanctum@@italic-color@@light": "#EA6D8C"
+  "sanctum@@italic-color@@light": "#EA6D8C",
+  "sanctum@@h1-color": "#F68D45"
 }
