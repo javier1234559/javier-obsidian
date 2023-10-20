@@ -9,34 +9,32 @@ tags:
 
 # Tạo các tag cho Note
 
-Gồm có 2 phần Second Brain và Zettelkasten
-### Second Brain 
-- Sẽ phụ trách lưu các mối quan tâm trong cuộc sống
-- Mỗi note sẽ có thẻ #secondbrain và hashtag con của secondbrain ví dụ như #secondbrain/book 
+Sẽ sắp xếp tối giản những kiến thức quan tâm thực sự
+### Project
+- Sẽ phụ trách lưu các những note **bắt buộc phải làm và rất quan trọng** 
+- Mỗi note sẽ có thẻ #project`
 
-	### Daily
-	- Sẽ dùng để gán nhanh các note mang tính daily
-	- Gắn hashag #daily 
-	
-	### Todo
-	- Hàng ngày sẽ có danh sách mini các việc cần làm dạng checklist
-	- Gắn hashtag #todo 
+	 ### Todo
+		- Hàng ngày sẽ có danh sách mini các việc cần làm dạng checklist
+		- Gắn hashtag #todo 
 
-
-### Zettelkasten
+## Area
+- Sẽ phụ trách lưu các note **cần phải làm , cần thiết**
+- Mỗi note sẽ có thẻ #area`
+- Ví dụ như mình đang quan tâm 2 chủ  đề là english và technology ->`#english` `technology/nodejs`
 - Sẽ phụ trách lưu các kiến thức mang tính câu hỏi hay kiến thức cần tìm hiểu 
-- Mỗi note sẽ có thẻ #zettelkasten và hashtag con của zettelkasten như là 
-	- #zettelkasten/fleeting : Đặt câu hỏi xong thì bắt đầu research liên kết ngắn gọn ở đây
-	- #zettelkasten/literature : Dành cho tóm tắt nội dung của một cuốn sách hay một bài báo 
-	- #zettelkaste/permanent : Dành để viết Insight , nó sẽ là chủ đề mình đã research quan tâm lâu thông qua 2 cái trên và đủ tự tin để tự viết về chủ đề đó
+- Mỗi note sẽ có thẻ :
+	- #fleeting : Note dạng thô , tự nghĩ nhưng ko có chắc chắn
+	- #literature : Note có tham chiếu và tóm tắt 
+	- #permanent : Dành để viết Insight về chủ đề và mang tính tham chiếu sau này
 
-	### Capture
-	- Take note nhanh những bài viết hay những thứ hay ho trên internet
-	- Sẽ gắn hashtag #capture
-	- Cái nào hay và nghĩ sẽ có ích thì gắn thêm #idea để dễ tìm lại 
+## Resource 
+- Sẽ phụ trách lưu các note **muốn làm và không quan trọng**
+- Mỗi note sẽ có thẻ #resource
+- Có 1 thư mục life sẽ take note liên quan đến các nội dung khác chưa phân loại
 
-
-
+## Archive 
+- Không cần gắn thẻ và sẽ để lưu trữ những note không dùng nữa hoặc ít dùng cho gọn
 --- 
 # References
 

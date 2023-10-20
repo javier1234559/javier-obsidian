@@ -25,7 +25,13 @@
     "zettelkaste": 11,
     "zettelkaste/permanent": 4,
     "excalidraw": 12,
-    "genZit_sharing": 13
+    "genZit_sharing": 13,
+    "project": 14,
+    "fleeting": 15,
+    "literature": 16,
+    "permanent": 17,
+    "resource": 18,
+    "area": 19
   },
   "_version": 2
 }
