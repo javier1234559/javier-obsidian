@@ -8,6 +8,9 @@
 - Hashtag #daily 
 - Hashtag #todo 
 
+![[Untitled.loom]]
+
+
 # General 
 --- 
 > [!multi-column] 

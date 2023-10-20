@@ -17,4 +17,4 @@ Những bài viết nào bổ ích nói về phương pháp này ?
 --- 
 # References
 
-[[Zettelkasten/Literature/Tìm hiểu về zettelkasten]]
+[[docs/Archive/Zettelkasten/Literature/Tìm hiểu về zettelkasten]]

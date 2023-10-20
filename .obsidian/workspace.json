@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "04ef64a75a9d0497",
+        "id": "37f50f5ca273aa19",
         "type": "tabs",
         "children": [
           {
-            "id": "40c5935bd19db890",
+            "id": "ff822f324185ffa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/Main MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/Main MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/Main MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/Main MOC.md"
               }
             }
           }
@@ -153,19 +153,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0fdb3f1f9efd775",
+  "active": "ff822f324185ffa7",
   "lastOpenFiles": [
-    "Resource",
+    "Untitled.loom",
+    "docs/Resource/index.md",
+    "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
+    "docs/index.md",
+    "docs/Main MOC.md",
+    "README.md",
+    "docs/Archive/Zettelkasten/index.md",
+    "docs/Area/index.md",
+    "docs/Project/index.md",
+    "docs/Archive/Zettelkasten/Fleeting/Tạo hashtag cho Note.md",
+    "docs/Area/English/English Roadmap.md",
+    "docs/Area/School/MOC School.md",
+    "docs/Resource/Life/Contact/Friend Birthday.md",
+    "docs/Area/English/MOC English.md",
+    "docs/Resource/Books/MOC Books.md",
+    "docs/Resource/Life/Contact/MOC Contact.md",
+    "docs/SecondBrain/Hobbies/MOC Hobbies.md",
+    "docs/Files/Diagram.svg",
+    "docs/Resource",
     "docs/Area",
     "docs/Archive",
-    "Project",
+    "docs/Project",
     "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
-    "docs/SecondBrain/Daily/todo-in-03-10-23.md",
-    "docs/SecondBrain/Daily/daily-in-18-09-23.md",
-    "docs/Zettelkasten/Literature/Tìm hiểu về zettelkasten.md",
-    "docs/Zettelkasten/MOC Zettelkasten.md",
-    "docs/index.md",
-    "README.md",
+    "docs/Project/Daily/todo-in-03-10-23.md",
+    "docs/Project/Daily/daily-in-18-09-23.md",
+    "docs/Archive/Zettelkasten/Literature/Tìm hiểu về zettelkasten.md",
     "Pipfile",
     "piecesdb.json",
     "Pipfile.lock",

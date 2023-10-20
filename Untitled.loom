@@ -1,0 +1,149 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "bb19c737-a5b6-4279-b4dd-8c6cd9b334ee",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Title",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "f9d451d4-8860-4adb-8971-21a6833b4d65",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "03d03ba5-f655-4ce6-8c2e-8c7b013c4154",
+            "content": "english",
+            "color": "gray"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "d8ad8065-01f0-4ee3-99b3-8942cd2f2a4b",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "last-edited-time",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "9cde1f6c-97ab-4d30-8c2b-a3c80e950b49",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Link",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "0014867a-cb98-44cc-b00e-d2f8d0365be8",
+        "index": 0,
+        "sourceId": null,
+        "creationTime": 1697776253539,
+        "lastEditedTime": 1697776341060,
+        "cells": [
+          {
+            "id": "bb4c6247-dd93-4eb8-ad18-2dd89841d67e",
+            "isExternalLink": false,
+            "columnId": "bb19c737-a5b6-4279-b4dd-8c6cd9b334ee",
+            "dateTime": null,
+            "content": "English",
+            "tagIds": []
+          },
+          {
+            "id": "b858c030-801a-4393-8352-eaf491b7272e",
+            "isExternalLink": false,
+            "columnId": "f9d451d4-8860-4adb-8971-21a6833b4d65",
+            "dateTime": null,
+            "content": "",
+            "tagIds": [
+              "03d03ba5-f655-4ce6-8c2e-8c7b013c4154"
+            ]
+          },
+          {
+            "id": "8aecbc74-d10a-45ab-9a62-b37e32a96821",
+            "isExternalLink": false,
+            "columnId": "d8ad8065-01f0-4ee3-99b3-8942cd2f2a4b",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          },
+          {
+            "id": "6b41f93f-1202-4c3d-8c67-a4f09e691c9d",
+            "isExternalLink": false,
+            "columnId": "9cde1f6c-97ab-4d30-8c2b-a3c80e950b49",
+            "dateTime": null,
+            "content": "",
+            "tagIds": []
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.7.2"
+}
