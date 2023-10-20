@@ -2,7 +2,6 @@
 Created: 21:43 17-09-2023
 Status: 
 tags:
-  - zettelkasten/literature
   - zettelkasten
 ---
 # Zettelkasten là gì ?

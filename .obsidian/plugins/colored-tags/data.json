@@ -31,7 +31,8 @@
     "literature": 16,
     "permanent": 17,
     "resource": 18,
-    "area": 19
+    "area": 19,
+    "area/topic": 1
   },
   "_version": 2
 }

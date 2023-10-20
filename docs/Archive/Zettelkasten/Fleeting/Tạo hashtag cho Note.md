@@ -1,10 +1,7 @@
 ---
 Created: 21:22 17-09-2023
-Link: 
 tags:
-  - zettelkasten
-  - zettelkasten/fleeting
-  - "#zettelkaste/permanent"
+  - permanent
 ---
 
 # Tạo các tag cho Note

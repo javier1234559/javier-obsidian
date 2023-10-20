@@ -1,12 +1,11 @@
 ---
 Created: "{{time:HH:mm}} {{date:DD-MM-YYYY}}"
-Link: 
 tags:
-  - secondbrain
+  - permanent
 ---
 
 # {{title}}
-
+- Lưu ý : Nhớ thêm tag ``#area/topic
 
 
 

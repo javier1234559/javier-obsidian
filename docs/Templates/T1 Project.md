@@ -1,9 +1,7 @@
 ---
 Created: "{{time:HH:mm}} {{date:DD-MM-YYYY}}"
-Link: 
 tags:
-  - zettelkasten
-  - zettelkasten/fleeting
+  - project
 ---
 
 # {{title}}
