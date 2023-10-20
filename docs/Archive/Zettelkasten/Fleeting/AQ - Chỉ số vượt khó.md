@@ -7,13 +7,8 @@ tags:
 ---
 >*Trong thời đại này , nếu IQ và EQ quyết định một người có thể đi được thuận lợi như thế nào , thì AQ mới là thứ quyết định bạn đi được bao xa.*
 
-> [!faq]+ Are callouts foldable?
-> Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
-
-
 # Vậy chỉ số AQ là gì ?
 AQ viết tắt là ( Adversity Quotient ) là chỉ số đo lường khả năng một người đối mặt và vượt qua khó khăn .
-
 
 # Cách để xác định AQ
 **Bước 1: Tự đánh giá**
@@ -29,7 +24,6 @@ AQ viết tắt là ( Adversity Quotient ) là chỉ số đo lường khả nă
     - Số liệu cụ thể: Hạn chót, các vấn đề phát sinh, áp lực thời gian.
 
 - Đánh giá cách bạn đã ứng phó trong tình huống đó:
-    
     - Bạn đã tự tin và bình tĩnh không?
     - Bạn đã phân tích vấn đề và tìm giải pháp?
     - Làm thế nào bạn đã quản lý cảm xúc, không để chúng chi phối bạn?

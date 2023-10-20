@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "60be3d34b01a8c79",
+        "id": "cd234fa7e053f0de",
         "type": "tabs",
         "children": [
           {
-            "id": "85b604bb1b36333e",
+            "id": "c142e37aa4cf6f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
+                "file": "2023-10-20.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfa1da6069862544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f6bbbaab7539aa5",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
+                "file": "2023-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
+                "file": "2023-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +146,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md"
+                "file": "2023-10-20.md"
               }
             }
+          },
+          {
+            "id": "99b134911746b7d9",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 536.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,11 +183,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "85b604bb1b36333e",
+  "active": "3f6bbbaab7539aa5",
   "lastOpenFiles": [
-    "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
-    "README.md",
+    "2023-10-20.md",
+    "Untitled.canvas",
     "docs/Project/Daily/todo-in-20-10-23.md",
+    "Untitled.loom",
+    "README.md",
+    "DataLoom/Untitled.loom",
+    "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
     "docs/Project/Daily/daily-in-18-09-23.md",
     "docs/Project/Daily/todo-in-01-10-23.md",
     "docs/Project/Daily/todo-in-02-10-23.md",
@@ -174,7 +207,6 @@
     "docs/Archive/SecondBrain/Daily",
     "docs/Archive/SecondBrain",
     "docs/Area/Technology/Javascript.md",
-    "DataLoom/Untitled.loom",
     "DataLoom",
     "docs/Untitled",
     "docs/Area/English/Feeting Note.md",
@@ -188,10 +220,7 @@
     "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
     "docs/Archive/Zettelkasten/index.md",
     "docs/Area/index.md",
-    "docs/Project/index.md",
-    "docs/Archive/Zettelkasten/Fleeting/Tạo hashtag cho Note.md",
     "docs/Files/Diagram.svg",
-    "docs/Resource",
-    "docs/Area"
+    "docs/Resource"
   ]
 }
