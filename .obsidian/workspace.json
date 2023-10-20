@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,11 +150,13 @@
       "remotely-save:Remotely Save": false,
       "pieces-for-developers:Pieces For Developers": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
   "active": "8753e16329abf766",
   "lastOpenFiles": [
+    "docs/Archive/Zettelkasten/Fleeting/AQ - Chỉ số vượt khó.md",
     "docs/Project/Daily/todo-in-20-10-23.md",
     "README.md",
     "docs/Project/Daily/daily-in-18-09-23.md",
@@ -188,7 +190,6 @@
     "docs/Area/index.md",
     "docs/Project/index.md",
     "docs/Archive/Zettelkasten/Fleeting/Tạo hashtag cho Note.md",
-    "docs/Area/School/MOC School.md",
     "docs/Files/Diagram.svg",
     "docs/Resource",
     "docs/Area"

@@ -7,7 +7,7 @@ tags:
 ---
 >*Trong thời đại này , nếu IQ và EQ quyết định một người có thể đi được thuận lợi như thế nào , thì AQ mới là thứ quyết định bạn đi được bao xa.*
 
-> [!faq]- Are callouts foldable?
+> [!faq]+ Are callouts foldable?
 > Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
 
 
