@@ -5,10 +5,10 @@
       "name": "T6 Todo List in Day",
       "type": "Template",
       "command": false,
-      "templatePath": "docs/Templates/T6 Todo List in Day.md",
+      "templatePath": "docs/Templates/T9 Todo.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "todo-in-{{DATE:DD-MM-YY}}"
+        "format": "{{DATE:DD-MM-YYYY}}"
       },
       "folder": {
         "enabled": true,
@@ -21,38 +21,7 @@
       },
       "appendLink": false,
       "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "1fc5164f-422f-4718-8c14-a6d2e39d4d97",
-      "name": "T8 Random Words",
-      "type": "Template",
-      "command": false,
-      "templatePath": "doc/Template/T8 Random Words",
-      "fileNameFormat": {
         "enabled": true,
-        "format": "random-word-in-{{DATE:DD-MM-YY}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "",
-          "docs/Area/English/Random words"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
         "direction": "vertical",
         "focus": true
       },
@@ -66,25 +35,27 @@
       "name": "Quick Fleeting",
       "type": "Template",
       "command": false,
-      "templatePath": "",
+      "templatePath": "docs/Templates/T6 Fleeting.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "/"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
       "appendLink": false,
       "openFileInNewTab": {
-        "enabled": false,
+        "enabled": true,
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
