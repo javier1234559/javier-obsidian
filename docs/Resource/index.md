@@ -5,14 +5,13 @@ Sẽ có dạng như dưới đây
 
 ### Mở gần đây 
 ---
-[[[Các trang blog theo dõi hằng ngày]]]
+```dataview
+LIST
+file.ctime AS "Time"
+FROM #todo
+SORT file.ctime DESCENDING
+```
 
 ### Các hashtag chủ đề trong resources
 #life #book #book/finace
 
-
-```dataview
-table time-played, length, rating
-from "games"
-sort rating desc
-```
