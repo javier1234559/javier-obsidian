@@ -3,6 +3,7 @@ Created: 15:00 21-09-2023
 Link: 
 tags:
   - secondbrain
+  - resource
 ---
 
 # Các trang blog theo dõi hằng ngày

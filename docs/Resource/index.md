@@ -6,7 +6,7 @@ Sẽ có dạng như dưới đây
 ### Mở gần đây 
 ---
 ```dataview
-TABLE file.ctime AS "Time"
+TABLE file.mtime AS "Time"
 FROM #todo and "docs/Project"
 SORT file.ctime DESCENDING
 LIMIT 5
@@ -15,7 +15,6 @@ LIMIT 5
 ### Các hashtag chủ đề trong resources
 
 ```dataview
-TABLE file.tags as tags
+LIST file.tags
 FROM "docs/Resource" 
-WHERE file.name != this.file.name
 ```
