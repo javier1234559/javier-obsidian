@@ -6,10 +6,11 @@ Sẽ có dạng như dưới đây
 ### Mở gần đây 
 ---
 ```dataview
-LIST
-file.ctime AS "Time"
+TABLE 
+default(finished, date(today)) AS "Time"
 FROM #todo
 SORT file.ctime DESCENDING
+LIMIT 5
 ```
 
 ### Các hashtag chủ đề trong resources
