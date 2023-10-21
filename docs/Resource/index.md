@@ -7,14 +7,14 @@ Sẽ có dạng như dưới đây
 ---
 ```dataview
 TABLE file.mtime AS "Time"
-FROM #todo and "docs/Project"
-SORT file.ctime DESCENDING
-LIMIT 5
+FROM "docs/Resource"
+SORT file.mtime DESCENDING
+LIMIT 3
 ```
 
 ### Các hashtag chủ đề trong resources
 
 ```dataview
-LIST file.tags
+TABLE file.tags as "Tags"
 FROM "docs/Resource" 
 ```
