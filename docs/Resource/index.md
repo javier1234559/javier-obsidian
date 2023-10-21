@@ -10,3 +10,9 @@ Sẽ có dạng như dưới đây
 ### Các hashtag chủ đề trong resources
 #life #book #book/finace
 
+
+```dataview
+table time-played, length, rating
+from "games"
+sort rating desc
+```
