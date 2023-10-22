@@ -1,9 +1,7 @@
 ---
 Created: 15:16 21-09-2023
 Link: "[[MOC English]]"
-tags:
-  - secondbrain
-  - secondbrain/english
+tags: []
 ---
 
 # Daily 

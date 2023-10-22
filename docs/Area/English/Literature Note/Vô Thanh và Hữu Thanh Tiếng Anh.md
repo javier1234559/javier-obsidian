@@ -1,9 +1,7 @@
 ---
 Created: 12:01 18-09-2023
 Link: "[[MOC English]]"
-tags:
-  - secondbrain
-  - secondbrain/english
+tags: []
 ---
 
 # Vô Thanh và Hữu Thanh Tiếng Anh

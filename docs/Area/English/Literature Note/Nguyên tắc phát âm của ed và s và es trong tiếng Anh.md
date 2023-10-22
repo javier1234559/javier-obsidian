@@ -1,9 +1,6 @@
 ---
 Created: 11:57 18-09-2023
-Link: 
 tags:
-  - secondbrain
-  - secondbrain/english
 ---
 
 # Nguyên tắc phát âm của ed và s và es trong tiếng Anh
