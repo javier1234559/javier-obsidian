@@ -12,8 +12,8 @@ LIMIT 3
 
 ### Các hashtag chủ đề trong Area
 ```dataview
-LIST
-FROM "docs/Area" 
-FLATTEN file.tags
-GROUP BY file.tags as "TAG - 2 "
+list
+from "docs/Area"
+flatten file.tags as flattags
+group by flattags
 ```

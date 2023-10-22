@@ -11,6 +11,6 @@ LIMIT 3
 ```dataview
 LIST
 FROM "docs/Resource" 
-FLATTEN file.tags
-GROUP BY file.tags as "TAG - 2 "
+flatten file.tags as flattags
+GROUP BY flattags
 ```
