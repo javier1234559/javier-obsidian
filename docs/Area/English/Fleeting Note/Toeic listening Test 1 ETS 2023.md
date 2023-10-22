@@ -48,7 +48,7 @@ VOCAB
 - [ ] One of the women is **putting on** a jacket : *putting on* = donning = dressing
 - [ ] A **carpet** is being rolled up :  *carpet* = rug 
 - [ ] Some **curtains** have been closed : curtains(thin) = drapes(hard)
-- [ ] Some cushions are **pilled on** the floor : *pilled on* = heaped
+- [ ] Some cushions are **piled on** the floor : *piled on* = heaped
 - [ ] Some musicians are performing on a **porch** : *porch*  = veranda
 - [ ] Some **music stands** are being folded up : *music stand* = sheet music holder
 
