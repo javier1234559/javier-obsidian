@@ -43,12 +43,14 @@ PART 2
 ---
 VOCAB
 
-- [ ] Some **goods** are being arranged on shelves : *Goods* = things for sale , or the things that you own
+- [ ] Some **goods** are being arranged on shelves : *goods* = things for sale , or the things that you own
 - [ ] Some **merchandise** has fallen on the floor : *merchandise* = product = goods
 - [ ] One of the women is **putting on** a jacket : *putting on* = donning = dressing
-- [ ] A **carpet** is being rolled up :  carpet = rug 
+- [ ] A **carpet** is being rolled up :  *carpet* = rug 
+- [ ] Some **curtains** have been closed : curtains(thin) = drapes(hard)
+- [ ] Some cushions are **pilled on** the floor : *pilled on* = heaped
 - [ ] Some musicians are performing on a **porch** : *porch*  = veranda
-- [ ] 
+- [ ] Some **music stands** are being folded up : *music stand* = sheet music holder
 
 
 
