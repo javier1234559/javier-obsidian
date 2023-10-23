@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2023-10-23.md",
+                "file": "docs/Area/Technology/Fleeting Note/Javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2023-10-23.md",
+                "file": "docs/Area/Technology/Fleeting Note/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2023-10-23.md",
+                "file": "docs/Area/Technology/Fleeting Note/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2023-10-23.md"
+                "file": "docs/Area/Technology/Fleeting Note/Javascript.md"
               }
             }
           },
@@ -165,13 +165,14 @@
   },
   "active": "89a811cf0caa4617",
   "lastOpenFiles": [
+    "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
+    "docs/Project/Daily/2023-10-23.md",
     "README.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
     "docs/Area/English/Permanent Note/English Roadmap.md",
     "docs/Area/Technology/Fleeting Note/Bash Script.md",
     "docs/Area/index.md",
     "docs/Area/Technology/Permanent Note/Nơi take note mọi ý tưởng công nghệ.md",
-    "docs/Project/Daily/2023-10-23.md",
     "docs/Project/Daily/2023-10-22.md",
     "docs/Project/Daily/todo-in-14-10-23.md",
     "Untitled.md",
@@ -190,7 +191,6 @@
     "docs/Area/Technology/Fleeting Note/Java.md",
     "docs/Archive/Zettelkasten/Fleeting/Learning Javascript Resources.md",
     "docs/Area/Technology/Fleeting Note/ExpressJS.md",
-    "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
