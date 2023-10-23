@@ -54,7 +54,9 @@ PART 1
 PART 2
 - [ ] I prefer an **aisle** seat : *aisle* : lane
 - [ ] where the **hiring event** being held: *hiring event* 
-- [ ] 
+- [ ] She sent it to a **colleague** :  đồng nghiệp
+- [ ] Because new **sales figures** came in : sale figures : số liệu sale
+- [ ] It's on the **agenda** for Tuesday : 
 
 
 --- 
