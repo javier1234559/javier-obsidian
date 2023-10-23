@@ -56,7 +56,9 @@ PART 2
 - [ ] where the **hiring event** being held: *hiring event* 
 - [ ] She sent it to a **colleague** :  đồng nghiệp
 - [ ] Because new **sales figures** came in : sale figures : số liệu sale
-- [ ] It's on the **agenda** for Tuesday : 
+- [ ] It's on the **agenda** for Tuesday : chương trình nghị sự
+- [ ] Did you **end up** going to movie or to the concert last night : *end up*:  đến một nơi nào đó , đạt được hay kết cục được
+- [ ] 
 
 
 --- 

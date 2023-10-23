@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +163,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b0fdb3f1f9efd775",
+  "active": "7968bb1179c55559",
   "lastOpenFiles": [
     "docs/Area/English/Permanent Note/English Roadmap.md",
     "docs/Area/Technology/Fleeting Note/Bash Script.md",
