@@ -12,4 +12,3 @@ FROM "docs"
 SORT file.mtime DESC
 LIMIT 5
 ```
-
