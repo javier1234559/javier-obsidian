@@ -6,11 +6,11 @@ tags:
 ---
 
 # Java Core
+- https://cafede.vn/series-tu-hoc-java-tu-co-ban-toi-nang-cao/
 - [#1 Java Introduction - YouTube](https://www.youtube.com/watch?v=bm0OyhwFDuY&list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5)
 - [Design Patterns in Java Theory - YouTube](https://www.youtube.com/watch?v=tDxnyop48mY&list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol)
 - [10 Design Patterns Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=tv-_1er1mWI)
 - [Design Pattern là gì? - YouTube](https://www.youtube.com/watch?v=nZaAe4Xtpds&list=PLRoAKls-7kksSBqximU9CjBgCApQVDgmX)
-
 # Java Web
 ### Jsp/Servelet
 - [Bài 1: ứng dụng web cơ bản và servlet - Phần 1: Cài đặt môi trường - YouTube](https://www.youtube.com/watch?v=fU14j5AZbSs&list=PLD8zSU7U1L2HJR6ti3WflVvEqBHRAro2h)

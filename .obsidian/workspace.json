@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6d352ceab5e46fcb",
+        "id": "a8e69e4853287c74",
         "type": "tabs",
         "children": [
           {
-            "id": "67848900786950a0",
+            "id": "e788c6e0472bbaad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Javascript.md",
+                "file": "docs/Project/Daily/2023-10-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Javascript.md",
+                "file": "docs/Project/Daily/2023-10-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Javascript.md",
+                "file": "docs/Project/Daily/2023-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Javascript.md"
+                "file": "docs/Project/Daily/2023-10-23.md"
               }
             }
           },
@@ -164,12 +164,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67848900786950a0",
+  "active": "e788c6e0472bbaad",
   "lastOpenFiles": [
+    "docs/Project/Daily/2023-10-23.md",
+    "docs/Area/Technology/Fleeting Note/Nodejs.md",
+    "docs/Area/Technology/Fleeting Note/NestJS.md",
+    "docs/Area/Technology/Fleeting Note/Javascript.md",
+    "docs/Templates/T1 Project.md",
+    "docs/Templates/T2 Column template.md",
+    "docs/Templates/T3 MOC general.md",
+    "docs/Templates/T7 Literature.md",
+    "docs/Templates/T6 Fleeting.md",
+    "docs/Templates/T9 Todo.md",
+    "docs/Templates/T5 Area.md",
+    "docs/Area/Technology/Fleeting Note/Java.md",
     "README.md",
     "docs/Archive/Zettelkasten/Fleeting/Learning Javascript Resources.md",
-    "docs/Area/Technology/Fleeting Note/Javascript.md",
-    "docs/Area/Technology/Fleeting Note/JAVA.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
     "docs/Project/Daily/2023-10-22.md",
     "docs/Area/Technology/Fleeting Note/ExpressJS.md",
@@ -182,16 +192,6 @@
     "docs/index.md",
     "docs/Resource/index.md",
     "docs/Area/index.md",
-    "docs/Archive/Zettelkasten/index.md",
-    "docs/Resource/Books/Untitled.md",
-    "docs/Resource/Life/Contact/Friend Birthday.md",
-    "docs/Project/Daily/todo-in-02-10-23.md",
-    "docs/Project/Daily/2023-10-21.md",
-    "docs/Project/Daily/2023-10-20.md",
-    "docs/Main MOC.md",
-    "docs/Templates/T9 Todo.md",
-    "DSFS.md",
-    "H.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
