@@ -36,7 +36,8 @@
     "life": 20,
     "book": 21,
     "book/finace": 1,
-    "area/english": 2
+    "area/english": 2,
+    "area/technology": 3
   },
   "_version": 2
 }

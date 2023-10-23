@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
+                "file": "docs/Area/Technology/Fleeting Note/JAVA.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
+                "file": "docs/Area/Technology/Fleeting Note/JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
+                "file": "docs/Area/Technology/Fleeting Note/JAVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md"
+                "file": "docs/Area/Technology/Fleeting Note/JAVA.md"
               }
             }
           },
@@ -167,8 +166,9 @@
   },
   "active": "67848900786950a0",
   "lastOpenFiles": [
-    "docs/Project/Daily/2023-10-22.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
+    "docs/Area/Technology/Fleeting Note/JAVA.md",
+    "docs/Project/Daily/2023-10-22.md",
     "docs/Area/Technology/Fleeting Note/ExpressJS.md",
     "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
     "2023-10-22.md",
@@ -192,7 +192,6 @@
     "H.md",
     "docs/Templates/T6 Fleeting.md",
     "docs/Templates/T7 Literature.md",
-    "docs/Archive/Zettelkasten/Literature/Tìm hiểu về zettelkasten.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
