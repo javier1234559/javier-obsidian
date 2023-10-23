@@ -51,6 +51,7 @@ PART 1
 - [ ] Some cushions are **piled on** the floor : *piled on* = heaped
 - [ ] Some musicians are performing on a **porch** : *porch*  = veranda
 - [ ] Some **music stands** are being folded up : *music stand* = sheet music holder
+
 PART 2
 - [ ] I prefer an **aisle** seat : *aisle* : lane
 - [ ] where the **hiring event** being held: *hiring event* 
@@ -61,7 +62,7 @@ PART 2
 - [ ] Did you select a **site** for the new **headquarters** : *site*: địa điểm , *headquarters* : trụ sở chính
 - [ ] **Haven't you noticed** how busy she is :  *Haven't you noticed* : cụm hay dùng trong văn nói
 - [ ] Everyone available **participated** : luyện đọc lại
-- [ ] 
+- [ ] We should get some feedback on this **book cover design** : thiết kế bao bì
 
 
 --- 
