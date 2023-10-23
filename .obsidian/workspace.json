@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Bash Script.md",
+                "file": "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Bash Script.md",
+                "file": "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Bash Script.md",
+                "file": "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Bash Script.md"
+                "file": "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +164,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7968bb1179c55559",
+  "active": "b0fdb3f1f9efd775",
   "lastOpenFiles": [
+    "docs/Area/English/Permanent Note/English Roadmap.md",
+    "docs/Area/Technology/Fleeting Note/Bash Script.md",
     "docs/Area/index.md",
     "docs/Area/Technology/Permanent Note/Nơi take note mọi ý tưởng công nghệ.md",
     "docs/Project/Daily/2023-10-23.md",
@@ -174,7 +177,6 @@
     "Untitled.md",
     "docs/Main MOC.md",
     "MOC English.md",
-    "docs/Area/Technology/Fleeting Note/Bash Script.md",
     "docs/Area/Technology/Fleeting Note/Nodejs.md",
     "docs/Area/Technology/Fleeting Note/NestJS.md",
     "docs/Area/Technology/Fleeting Note/Javascript.md",
@@ -190,7 +192,6 @@
     "docs/Archive/Zettelkasten/Fleeting/Learning Javascript Resources.md",
     "docs/Area/Technology/Fleeting Note/ExpressJS.md",
     "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
-    "2023-10-22.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",

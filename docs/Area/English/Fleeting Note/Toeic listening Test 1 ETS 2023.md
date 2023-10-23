@@ -52,7 +52,9 @@ PART 1
 - [ ] Some musicians are performing on a **porch** : *porch*  = veranda
 - [ ] Some **music stands** are being folded up : *music stand* = sheet music holder
 PART 2
-
+- [ ] I prefer an **aisle** seat : *aisle* : lane
+- [ ] where the **hiring event** being held: *hiring event* 
+- [ ] 
 
 
 --- 
