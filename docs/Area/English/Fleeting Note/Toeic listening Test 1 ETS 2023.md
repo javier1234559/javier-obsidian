@@ -42,7 +42,7 @@ PART 2
 
 ---
 VOCAB
-
+PART 1
 - [ ] Some **goods** are being arranged on shelves : *goods* = things for sale , or the things that you own
 - [ ] Some **merchandise** has fallen on the floor : *merchandise* = product = goods
 - [ ] One of the women is **putting on** a jacket : *putting on* = donning = dressing
@@ -51,6 +51,7 @@ VOCAB
 - [ ] Some cushions are **piled on** the floor : *piled on* = heaped
 - [ ] Some musicians are performing on a **porch** : *porch*  = veranda
 - [ ] Some **music stands** are being folded up : *music stand* = sheet music holder
+PART 2
 
 
 
