@@ -58,6 +58,9 @@ PART 2
 - [ ] Because new **sales figures** came in : sale figures : số liệu sale
 - [ ] It's on the **agenda** for Tuesday : chương trình nghị sự
 - [ ] Did you **end up** going to movie or to the concert last night : *end up*:  đến một nơi nào đó , đạt được hay kết cục được
+- [ ] Did you select a **site** for the new **headquarters** : *site*: địa điểm , *headquarters* : trụ sở chính
+- [ ] **Haven't you noticed** how busy she is :  *Haven't you noticed* : cụm hay dùng trong văn nói
+- [ ] Everyone available **participated** : luyện đọc lại
 - [ ] 
 
 
