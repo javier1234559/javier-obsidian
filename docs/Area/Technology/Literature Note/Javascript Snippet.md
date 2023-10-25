@@ -7,6 +7,15 @@ tags:
 
 # Javascript Snippet
 
+Remove last element
+```js
+let array = [1, 2, 3, 4]; 
+array.pop();
+console.log(array); // [1, 2, 3]
+```
+
+
+
 
 
 
@@ -14,7 +23,7 @@ tags:
 
 --- 
 # References
-
+- [[Javascript] Các cách xóa phần tử trong mảng (Array) - VNTALKING](https://vntalking.com/javascript-cac-cach-xoa-phan-tu-trong-mang-array.html)
 
 
 --- 

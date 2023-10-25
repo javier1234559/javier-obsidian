@@ -136,9 +136,17 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "1be49fccdb2498ba",
+            "type": "leaf",
+            "state": {
+              "type": "pieces-snippet-list",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -163,7 +171,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "37c465534708dfff",
+  "active": "1be49fccdb2498ba",
   "lastOpenFiles": [
     "docs/Project/Daily/2023-10-25.md",
     "docs/Area/Technology/Literature Note/Javascript Snippet.md",
