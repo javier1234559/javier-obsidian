@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2023-10-25.md",
+                "file": "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2023-10-25.md",
+                "file": "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2023-10-25.md",
+                "file": "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2023-10-25.md"
+                "file": "docs/Area/Technology/Literature Note/MongoDB Snippet.md"
               }
             }
           },
@@ -172,11 +172,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "40819f688f24fadd",
+  "active": "14027bc63632dd92",
   "lastOpenFiles": [
+    "docs/Project/Daily/2023-10-25.md",
     "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
     "docs/Area/Technology/Literature Note/Javascript Snippet.md",
-    "docs/Project/Daily/2023-10-25.md",
     "docs/Area/Technology/Fleeting Note/DevOps.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
     "docs/Area/Technology/Fleeting Note/Javascript.md",
