@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a7a932c95b38e099",
+        "id": "b05ecaa0a6da0575",
         "type": "tabs",
         "children": [
           {
-            "id": "37c465534708dfff",
+            "id": "14027bc63632dd92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Area/Technology/Literature Note/Javascript Snippet.md",
+                "file": "docs/Project/Daily/2023-10-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Literature Note/Javascript Snippet.md",
+                "file": "docs/Project/Daily/2023-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Literature Note/Javascript Snippet.md",
+                "file": "docs/Project/Daily/2023-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Literature Note/Javascript Snippet.md"
+                "file": "docs/Project/Daily/2023-10-25.md"
               }
             }
           },
@@ -146,11 +146,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,10 +172,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1be49fccdb2498ba",
+  "active": "40819f688f24fadd",
   "lastOpenFiles": [
-    "docs/Project/Daily/2023-10-25.md",
+    "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
     "docs/Area/Technology/Literature Note/Javascript Snippet.md",
+    "docs/Project/Daily/2023-10-25.md",
     "docs/Area/Technology/Fleeting Note/DevOps.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
     "docs/Area/Technology/Fleeting Note/Javascript.md",
@@ -198,7 +200,6 @@
     "docs/Templates/T7 Literature.md",
     "docs/Templates/T6 Fleeting.md",
     "docs/Templates/T9 Todo.md",
-    "docs/Templates/T5 Area.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
