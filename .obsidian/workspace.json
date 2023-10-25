@@ -130,28 +130,27 @@
             }
           },
           {
-            "id": "40819f688f24fadd",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "1be49fccdb2498ba",
             "type": "leaf",
             "state": {
               "type": "pieces-snippet-list",
               "state": {}
             }
+          },
+          {
+            "id": "b94b551743e656c7",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +171,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "14027bc63632dd92",
+  "active": "b94b551743e656c7",
   "lastOpenFiles": [
     "docs/Project/Daily/2023-10-25.md",
     "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
