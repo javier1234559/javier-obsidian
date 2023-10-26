@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b05ecaa0a6da0575",
+        "id": "170483552ac1f76f",
         "type": "tabs",
         "children": [
           {
-            "id": "14027bc63632dd92",
+            "id": "01bd4b1aa1c784cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2023-10-25.md",
+                "file": "docs/Project/Daily/2023-10-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2023-10-25.md",
+                "file": "docs/Project/Daily/2023-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2023-10-25.md",
+                "file": "docs/Project/Daily/2023-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2023-10-25.md"
+                "file": "docs/Project/Daily/2023-10-26.md"
               }
             }
           },
@@ -171,10 +171,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "14027bc63632dd92",
+  "active": "01bd4b1aa1c784cf",
   "lastOpenFiles": [
-    "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
+    "docs/Project/Daily/2023-10-26.md",
     "docs/Project/Daily/2023-10-25.md",
+    "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
     "docs/Area/Technology/Literature Note/Javascript Snippet.md",
     "docs/Area/Technology/Fleeting Note/DevOps.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
@@ -198,7 +199,6 @@
     "docs/Templates/T3 MOC general.md",
     "docs/Templates/T7 Literature.md",
     "docs/Templates/T6 Fleeting.md",
-    "docs/Templates/T9 Todo.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
