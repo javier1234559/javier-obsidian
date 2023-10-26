@@ -2,8 +2,8 @@
 Created: 14:50 21-09-2023
 Link: 
 tags:
-  - secondbrain
-  - "#secondbrain/school"
+  - area
+  - "#area/school"
 ---
 
 # Tuần 1, 2, 3 ,4 giới thiệu về Python 

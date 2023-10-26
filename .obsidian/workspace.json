@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "170483552ac1f76f",
+        "id": "5716b00f6528582f",
         "type": "tabs",
         "children": [
           {
-            "id": "01bd4b1aa1c784cf",
+            "id": "d5324f8ce65d9e20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Project/Daily/2023-10-26.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2023-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2023-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Project/Daily/2023-10-26.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,14 +164,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "01bd4b1aa1c784cf",
+  "active": "d5324f8ce65d9e20",
   "lastOpenFiles": [
+    "docs/Area/School/Artificial Intelligence/Note at School.md",
+    "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
     "docs/Project/Daily/2023-10-26.md",
     "docs/Project/Daily/2023-10-25.md",
     "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
     "docs/Area/Technology/Literature Note/Javascript Snippet.md",
     "docs/Area/Technology/Fleeting Note/DevOps.md",
-    "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
     "docs/Area/Technology/Fleeting Note/Javascript.md",
     "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
     "docs/Project/Daily/2023-10-23.md",
@@ -198,7 +192,6 @@
     "docs/Templates/T2 Column template.md",
     "docs/Templates/T3 MOC general.md",
     "docs/Templates/T7 Literature.md",
-    "docs/Templates/T6 Fleeting.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
