@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Javascript.md",
+                "file": "docs/Area/Technology/Literature Note/Java Snippet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Javascript.md",
+                "file": "docs/Area/Technology/Literature Note/Java Snippet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Javascript.md",
+                "file": "docs/Area/Technology/Literature Note/Java Snippet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Javascript.md"
+                "file": "docs/Area/Technology/Literature Note/Java Snippet.md"
               }
             }
           },
@@ -174,18 +174,18 @@
   },
   "active": "b4daec66e91d6dbe",
   "lastOpenFiles": [
-    "docs/Area/Technology/Fleeting Note/Java.md",
-    "docs/Area/Technology/Literature Note/Java Snippet.md",
     "docs/Area/Technology/Literature Note/Javascript Snippet.md",
+    "docs/Area/Technology/Literature Note/Java Snippet.md",
     "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
+    "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
+    "docs/Area/Technology/Fleeting Note/Javascript.md",
+    "docs/Area/Technology/Fleeting Note/Java.md",
     "docs/Templates/T5 Area.md",
     "docs/Area/School/Artificial Intelligence/Note at School.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
     "docs/Project/Daily/2023-10-26.md",
     "docs/Project/Daily/2023-10-25.md",
     "docs/Area/Technology/Fleeting Note/DevOps.md",
-    "docs/Area/Technology/Fleeting Note/Javascript.md",
-    "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
     "docs/Project/Daily/2023-10-23.md",
     "README.md",
     "docs/Area/English/Permanent Note/English Roadmap.md",
