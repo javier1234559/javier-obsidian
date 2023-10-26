@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5716b00f6528582f",
+        "id": "4f59f0d4fb9da67a",
         "type": "tabs",
         "children": [
           {
-            "id": "d5324f8ce65d9e20",
+            "id": "b4daec66e91d6dbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Area/Technology/Fleeting Note/Javascript.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Area/Technology/Fleeting Note/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Area/Technology/Fleeting Note/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Area/Technology/Fleeting Note/Javascript.md"
+              }
             }
           },
           {
@@ -164,14 +172,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5324f8ce65d9e20",
+  "active": "b4daec66e91d6dbe",
   "lastOpenFiles": [
+    "docs/Area/Technology/Fleeting Note/Java.md",
+    "docs/Area/Technology/Literature Note/Java Snippet.md",
+    "docs/Area/Technology/Literature Note/Javascript Snippet.md",
+    "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
+    "docs/Templates/T5 Area.md",
     "docs/Area/School/Artificial Intelligence/Note at School.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
     "docs/Project/Daily/2023-10-26.md",
     "docs/Project/Daily/2023-10-25.md",
-    "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
-    "docs/Area/Technology/Literature Note/Javascript Snippet.md",
     "docs/Area/Technology/Fleeting Note/DevOps.md",
     "docs/Area/Technology/Fleeting Note/Javascript.md",
     "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
@@ -189,9 +200,6 @@
     "docs/Area/Technology/Fleeting Note/Nodejs.md",
     "docs/Area/Technology/Fleeting Note/NestJS.md",
     "docs/Templates/T1 Project.md",
-    "docs/Templates/T2 Column template.md",
-    "docs/Templates/T3 MOC general.md",
-    "docs/Templates/T7 Literature.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
