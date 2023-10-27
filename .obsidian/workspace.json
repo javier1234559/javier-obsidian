@@ -11,8 +11,12 @@
             "id": "128b118747af4318",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Project/Daily/2023-10-27.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Project/Daily/2023-10-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Project/Daily/2023-10-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Project/Daily/2023-10-27.md"
+              }
             }
           },
           {
@@ -130,7 +138,7 @@
             }
           },
           {
-            "id": "b94b551743e656c7",
+            "id": "b5692052c85e6105",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -142,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +171,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "128b118747af4318",
+  "active": "b5692052c85e6105",
   "lastOpenFiles": [
+    "docs/Project/Daily/2023-10-27.md",
     "docs/Area/Technology/Literature Note/Java Snippet.md",
     "docs/Area/Technology/Literature Note/Javascript Snippet.md",
     "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
@@ -191,7 +199,6 @@
     "MOC English.md",
     "docs/Area/Technology/Fleeting Note/Nodejs.md",
     "docs/Area/Technology/Fleeting Note/NestJS.md",
-    "docs/Templates/T1 Project.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
