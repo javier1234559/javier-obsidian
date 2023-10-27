@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/VocabApp/HandleForm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/VocabApp/HandleForm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/VocabApp/HandleForm.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -172,10 +170,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b4daec66e91d6dbe",
+  "active": "b0fdb3f1f9efd775",
   "lastOpenFiles": [
-    "docs/Project/Daily/2023-10-26.md",
+    "conflict-files-obsidian-git.md",
     "docs/Project/VocabApp/HandleForm.md",
+    "docs/Project/Daily/2023-10-27.md",
+    "docs/Project/Daily/2023-10-26.md",
     "docs/Project/VocabApp",
     "MOC Technology.md",
     "docs/Area/Technology/Literature Note/Java Snippet.md",
@@ -199,8 +199,6 @@
     "docs/Project/Daily/todo-in-14-10-23.md",
     "Untitled.md",
     "docs/Main MOC.md",
-    "MOC English.md",
-    "docs/Area/Technology/Fleeting Note/Nodejs.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
