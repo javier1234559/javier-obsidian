@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "03415b3ce09a3a04",
-        "type": "tabs",
+        "id": "674ebbfeb97b5326",
+        "type": "split",
         "children": [
           {
-            "id": "606e1f8f4580c843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Java.md",
-                "mode": "source",
-                "source": false
+            "id": "03415b3ce09a3a04",
+            "type": "tabs",
+            "dimension": 27.472527472527474,
+            "children": [
+              {
+                "id": "606e1f8f4580c843",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/Project/Daily/2023-10-28.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "e0dea155be9e5087",
+            "type": "tabs",
+            "dimension": 72.52747252747253,
+            "children": [
+              {
+                "id": "bc10ce3bff296afd",
+                "type": "leaf",
+                "state": {
+                  "type": "diagrams-net",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Java.md",
+                "file": "docs/Project/Daily/2023-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Java.md",
+                "file": "docs/Project/Daily/2023-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Java.md"
+                "file": "docs/Project/Daily/2023-10-28.md"
               }
             }
           },
@@ -150,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,6 +197,7 @@
   },
   "active": "606e1f8f4580c843",
   "lastOpenFiles": [
+    "docs/Area/Technology/Fleeting Note/Java.md",
     "DataLoom/Untitled.loom",
     "Untitled.canvas",
     "docs/Project/VocabApp/HandleForm.md",
@@ -190,7 +215,6 @@
     "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
     "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
     "docs/Area/Technology/Fleeting Note/Javascript.md",
-    "docs/Area/Technology/Fleeting Note/Java.md",
     "docs/Templates/T5 Area.md",
     "docs/Area/School/Artificial Intelligence/Note at School.md",
     "docs/Project/Daily/2023-10-25.md",
