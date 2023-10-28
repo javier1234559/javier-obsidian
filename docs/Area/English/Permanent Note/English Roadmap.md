@@ -3,7 +3,9 @@ Created: 15:16 21-09-2023
 Link: "[[MOC English]]"
 tags: []
 ---
-
+Part 5 : 30s - 1 câu (Nên chọn ngữ pháp trc)
+Part 6 : 30s - 1 câu và 8p cho part này (Chừa câu nhận dạng)
+Part 7 : 50p để làm (Nếu ko kịp thì làm câu 1 trước)
 # Daily 
 [English Study Plan Template - Sophia Here 🌷.xlsx - Google Sheets](https://docs.google.com/spreadsheets/d/10S2yOF0fBE2wewXwVabWHsTqG_uRvXOh/edit#gid=1772052086)
 
