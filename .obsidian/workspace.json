@@ -11,14 +11,11 @@
             "id": "606e1f8f4580c843",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "docs/Area/Technology/Fleeting Note/Java.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "docs/Area/Technology/Fleeting Note/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "docs/Area/Technology/Fleeting Note/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "docs/Area/Technology/Fleeting Note/Java.md"
               }
             }
           },
@@ -176,8 +173,9 @@
   },
   "active": "606e1f8f4580c843",
   "lastOpenFiles": [
-    "docs/Project/VocabApp/HandleForm.md",
+    "DataLoom/Untitled.loom",
     "Untitled.canvas",
+    "docs/Project/VocabApp/HandleForm.md",
     "docs/Project/Daily/2023-10-28.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
     "docs/Area/English/Permanent Note/English Roadmap.md",
@@ -206,7 +204,6 @@
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
-    "DataLoom/Untitled.loom",
     "docs/Area/Technology/Fleeting Note",
     "Untitled.loom",
     "docs/Archive/SecondBrain/Daily",
