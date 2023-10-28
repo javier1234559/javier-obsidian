@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bc10ce3bff296afd",
-            "type": "leaf",
-            "state": {
-              "type": "diagrams-net",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
