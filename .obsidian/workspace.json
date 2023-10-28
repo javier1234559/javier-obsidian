@@ -11,11 +11,14 @@
             "id": "606e1f8f4580c843",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -138,7 +141,7 @@
             }
           },
           {
-            "id": "b94b551743e656c7",
+            "id": "519c66fd1f5044b2",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -150,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,10 +176,12 @@
   },
   "active": "606e1f8f4580c843",
   "lastOpenFiles": [
-    "docs/Area/English/Permanent Note/English Roadmap.md",
-    "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
-    "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
     "docs/Project/VocabApp/HandleForm.md",
+    "Untitled.canvas",
+    "docs/Project/Daily/2023-10-28.md",
+    "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
+    "docs/Area/English/Permanent Note/English Roadmap.md",
+    "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
     "conflict-files-obsidian-git.md",
     "docs/Project/Daily/2023-10-27.md",
     "docs/Project/Daily/2023-10-26.md",
@@ -199,15 +203,12 @@
     "docs/Area/index.md",
     "docs/Area/Technology/Permanent Note/Nơi take note mọi ý tưởng công nghệ.md",
     "docs/Project/Daily/2023-10-22.md",
-    "docs/Project/Daily/todo-in-14-10-23.md",
-    "Untitled.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
     "DataLoom/Untitled.loom",
     "docs/Area/Technology/Fleeting Note",
     "Untitled.loom",
-    "Untitled.canvas",
     "docs/Archive/SecondBrain/Daily",
     "docs/Archive/SecondBrain",
     "DataLoom",
