@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2023-10-28.md",
+                "file": "docs/Project/Daily/2023-10-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2023-10-28.md",
+                "file": "docs/Project/Daily/2023-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2023-10-28.md",
+                "file": "docs/Project/Daily/2023-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2023-10-28.md"
+                "file": "docs/Project/Daily/2023-10-29.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           },
           {
-            "id": "519c66fd1f5044b2",
+            "id": "61fde41581268fef",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,13 +172,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "606e1f8f4580c843",
+  "active": "61fde41581268fef",
   "lastOpenFiles": [
+    "docs/Project/Daily/2023-10-28.md",
+    "docs/Project/Daily/2023-10-29.md",
     "docs/Area/Technology/Fleeting Note/Java.md",
     "DataLoom/Untitled.loom",
     "Untitled.canvas",
     "docs/Project/VocabApp/HandleForm.md",
-    "docs/Project/Daily/2023-10-28.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
     "docs/Area/English/Permanent Note/English Roadmap.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
