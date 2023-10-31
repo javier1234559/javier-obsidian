@@ -159,8 +159,8 @@
       "pieces-for-developers:Pieces For Developers": false,
       "notion-like-tables:Create loom": false,
       "obsidian-day-planner:Timeline": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "f29c100ca4811dc1",
