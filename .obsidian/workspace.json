@@ -167,12 +167,11 @@
       "remotely-save:Remotely Save": false,
       "pieces-for-developers:Pieces For Developers": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "61fde41581268fef",
+  "active": "606e1f8f4580c843",
   "lastOpenFiles": [
     "docs/Project/Daily/2023-10-28.md",
     "docs/Project/Daily/2023-10-29.md",
