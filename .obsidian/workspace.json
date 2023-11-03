@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "docs/Project/Daily/2023-11-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "docs/Project/Daily/2023-11-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "docs/Project/Daily/2023-11-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "docs/Project/Daily/2023-11-03.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "baa37acd3b735c62",
   "lastOpenFiles": [
+    "docs/Project/Daily/2023-11-03.md",
     "docs/Project/Daily/2023-10-29.md",
     "conflict-files-obsidian-git.md",
     "docs/Project/Daily/2023-10-31.md",
@@ -215,7 +216,6 @@
     "README.md",
     "docs/Area/Technology/Fleeting Note/Bash Script.md",
     "docs/Area/index.md",
-    "docs/Area/Technology/Permanent Note/Nơi take note mọi ý tưởng công nghệ.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
