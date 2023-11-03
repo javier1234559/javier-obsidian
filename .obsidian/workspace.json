@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "03415b3ce09a3a04",
+        "id": "35949d3e9b620215",
         "type": "tabs",
         "children": [
           {
-            "id": "606e1f8f4580c843",
+            "id": "ec2e679dafce8244",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2023-10-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baa37acd3b735c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Project/Daily/2023-11-03.md",
+                "file": "docs/Project/Daily/2023-11-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2023-11-03.md",
+                "file": "docs/Project/Daily/2023-11-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2023-11-03.md",
+                "file": "docs/Project/Daily/2023-11-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2023-11-03.md"
+                "file": "docs/Project/Daily/2023-11-04.md"
               }
             }
           },
@@ -184,10 +171,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "baa37acd3b735c62",
+  "active": "ec2e679dafce8244",
   "lastOpenFiles": [
-    "docs/Project/Daily/2023-11-03.md",
+    "docs/Project/Daily/2023-11-04.md",
     "docs/Project/Daily/2023-10-29.md",
+    "docs/Project/Daily/2023-11-03.md",
     "conflict-files-obsidian-git.md",
     "docs/Project/Daily/2023-10-31.md",
     "docs/Project/Daily/2023-10-28.md",
@@ -214,7 +202,6 @@
     "docs/Project/Daily/2023-10-23.md",
     "README.md",
     "docs/Area/Technology/Fleeting Note/Bash Script.md",
-    "docs/Area/index.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
