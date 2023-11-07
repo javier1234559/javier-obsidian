@@ -22,7 +22,7 @@ tags:
 - [Interview QA | 40+ Spring & Spring Boot Annotations Everyone Should Know | JavaTechie - YouTube](https://www.youtube.com/watch?v=htyq-mER0AE)
 
 
-
+- [RameshMF/awesome-spring-boot: A curated list of awesome blogs, tutorials, courses, and resources for the Spring boot. (github.com)](https://github.com/RameshMF/awesome-spring-boot)
 
 
 
