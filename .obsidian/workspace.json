@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b824f752b158b9f9",
+        "id": "0cba7672f254edec",
         "type": "tabs",
         "children": [
           {
-            "id": "209e60a88a94a233",
+            "id": "f29c100ca4811dc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Java.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Java.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +130,7 @@
             }
           },
           {
-            "id": "7bda8f4f547152cd",
+            "id": "3fa36edbf261eb02",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -150,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,22 +156,20 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "remotely-save:Remotely Save": false,
-      "pieces-for-developers:Pieces For Developers": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "209e60a88a94a233",
+  "active": "f29c100ca4811dc1",
   "lastOpenFiles": [
-    "docs/Area/Technology/Fleeting Note/Javascript.md",
-    "docs/Area/Technology/Literature Note/Chia lấy dư trong lập trình.md",
     "docs/Project/Daily/2023-11-04.md",
-    "docs/Project/Daily/2023-10-29.md",
     "docs/Project/Daily/2023-11-03.md",
-    "conflict-files-obsidian-git.md",
+    "docs/Area/Technology/Literature Note/Chia lấy dư trong lập trình.md",
     "docs/Project/Daily/2023-10-31.md",
+    "Java Exercise.md",
+    "docs/Project/Daily/2023-10-29.md",
     "docs/Project/Daily/2023-10-28.md",
     "docs/Area/Technology/Fleeting Note/Java.md",
     "DataLoom/Untitled.loom",
@@ -189,6 +178,7 @@
     "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
     "docs/Area/English/Permanent Note/English Roadmap.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
+    "conflict-files-obsidian-git.md",
     "docs/Project/Daily/2023-10-27.md",
     "docs/Project/Daily/2023-10-26.md",
     "docs/Project/VocabApp",
@@ -197,12 +187,12 @@
     "docs/Area/Technology/Literature Note/Javascript Snippet.md",
     "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
     "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
+    "docs/Area/Technology/Fleeting Note/Javascript.md",
     "docs/Templates/T5 Area.md",
     "docs/Area/School/Artificial Intelligence/Note at School.md",
     "docs/Project/Daily/2023-10-25.md",
     "docs/Area/Technology/Fleeting Note/DevOps.md",
     "docs/Project/Daily/2023-10-23.md",
-    "README.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
