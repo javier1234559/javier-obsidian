@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0cba7672f254edec",
+        "id": "db87f338ec1d3925",
         "type": "tabs",
         "children": [
           {
-            "id": "f29c100ca4811dc1",
+            "id": "483e03413441f50b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -162,7 +162,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f29c100ca4811dc1",
+  "active": "483e03413441f50b",
   "lastOpenFiles": [
     "docs/Project/Daily/2023-11-04.md",
     "docs/Project/Daily/2023-11-03.md",
