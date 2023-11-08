@@ -25,6 +25,9 @@ tags:
 - [RameshMF/awesome-spring-boot: A curated list of awesome blogs, tutorials, courses, and resources for the Spring boot. (github.com)](https://github.com/RameshMF/awesome-spring-boot)
 
 
+## JPA
+[5 tips to write efficient queries with JPA and Hibernate (thorben-janssen.com)](https://thorben-janssen.com/5-tips-write-efficient-queries-jpa-hibernate/)
+[(1) New Messages! (jrebel.com)](https://www.jrebel.com/blog/how-to-use-jpa)
 
 --- 
 
