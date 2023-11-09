@@ -11,8 +11,12 @@
             "id": "483e03413441f50b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Project/Daily/2023-11-09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Project/Daily/2023-11-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Project/Daily/2023-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Project/Daily/2023-11-09.md"
+              }
             }
           },
           {
@@ -164,6 +172,7 @@
   },
   "active": "483e03413441f50b",
   "lastOpenFiles": [
+    "docs/Project/Daily/2023-11-09.md",
     "docs/Project/Daily/2023-11-04.md",
     "docs/Project/Daily/2023-11-03.md",
     "docs/Area/Technology/Literature Note/Chia lấy dư trong lập trình.md",
@@ -192,7 +201,6 @@
     "docs/Area/School/Artificial Intelligence/Note at School.md",
     "docs/Project/Daily/2023-10-25.md",
     "docs/Area/Technology/Fleeting Note/DevOps.md",
-    "docs/Project/Daily/2023-10-23.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
