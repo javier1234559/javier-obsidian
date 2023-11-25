@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2023-11-18.md",
+                "file": "docs/Project/Daily/2023-11-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2023-11-18.md",
+                "file": "docs/Project/Daily/2023-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2023-11-18.md",
+                "file": "docs/Project/Daily/2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2023-11-18.md"
+                "file": "docs/Project/Daily/2023-11-25.md"
               }
             }
           },
@@ -172,9 +172,10 @@
   },
   "active": "483e03413441f50b",
   "lastOpenFiles": [
+    "docs/Project/Daily/2023-11-18.md",
+    "docs/Project/Daily/2023-11-25.md",
     "docs/Project/Daily/2023-11-22.md",
     "docs/Project/Daily/2023-11-17.md",
-    "docs/Project/Daily/2023-11-18.md",
     "docs/Project/Daily/2023-11-09.md",
     "docs/Project/Daily/2023-11-04.md",
     "docs/Project/Daily/2023-11-03.md",
@@ -200,7 +201,6 @@
     "docs/Area/Technology/Literature Note/MongoDB Snippet.md",
     "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
     "docs/Area/Technology/Fleeting Note/Javascript.md",
-    "docs/Templates/T5 Area.md",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
