@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +171,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "483e03413441f50b",
+  "active": "3fa36edbf261eb02",
   "lastOpenFiles": [
     "docs/Project/Daily/2023-11-18.md",
     "docs/Project/Daily/2023-11-25.md",
