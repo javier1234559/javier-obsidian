@@ -39,8 +39,9 @@
 
 
 ---
-## Ans
+## Answer
 - Trang web được xác thực như thế nào ?
+	- Trang home được bao bọc bởi App componnetn mà trong đây có một useEffect giúp lấy giá trị hết hạn đã lưu vào localStorage 
 	- 
 - Trang Home được load data như thế nào ? 
 	- List product được xử lý  phân trang như thế nào 
