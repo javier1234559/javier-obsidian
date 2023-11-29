@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2023-11-29.md",
+                "file": "docs/Area/Technology/Fleeting Note/DevOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2023-11-29.md",
+                "file": "docs/Area/Technology/Fleeting Note/DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2023-11-29.md",
+                "file": "docs/Area/Technology/Fleeting Note/DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2023-11-29.md"
+                "file": "docs/Area/Technology/Fleeting Note/DevOps.md"
               }
             }
           },
@@ -173,8 +173,8 @@
   },
   "active": "483e03413441f50b",
   "lastOpenFiles": [
-    "docs/Project/Daily/2023-11-25.md",
     "docs/Project/Daily/2023-11-29.md",
+    "docs/Project/Daily/2023-11-25.md",
     "docs/Project/Daily/2023-11-18.md",
     "docs/Project/Daily/2023-11-22.md",
     "docs/Project/Daily/2023-11-17.md",
