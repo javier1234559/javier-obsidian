@@ -40,7 +40,8 @@
 
 ---
 ## Ans
-- Trang web được xác thực như thế nào 
+- Trang web được xác thực như thế nào ?
+	- 
 - Trang Home được load data như thế nào ? 
 	- List product được xử lý  phân trang như thế nào 
 	- Tìm kiếm được xử lý ra sao 
