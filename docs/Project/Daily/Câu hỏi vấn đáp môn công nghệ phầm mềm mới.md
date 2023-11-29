@@ -41,8 +41,8 @@
 ---
 ## Answer
 - Trang web được xác thực như thế nào ?
-	- Trang home được bao bọc bởi App componnetn mà trong đây có một useEffect giúp lấy giá trị hết hạn đã lưu vào localStorage 
-	- 
+	- Trang home được bao bọc bởi App componnetn mà trong đây có một useEffect giúp lấy giá trị hết hạn đã lưu vào localStorage , nếu chưa có thì logout() đây là một action giúp xóa tất cả cart , userInfo trong localStorage
+	- Khi đăng nhập thì nó sẽ check trong initialstate của user có thông tin userInfo chưa nếu có thì nó rediect đến trang "/"  . useLoginMutation được gọi
 - Trang Home được load data như thế nào ? 
 	- List product được xử lý  phân trang như thế nào 
 	- Tìm kiếm được xử lý ra sao 
