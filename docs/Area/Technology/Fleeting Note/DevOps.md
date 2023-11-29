@@ -20,6 +20,8 @@ tags:
 [Bài 01 - Giới thiệu AWS cơ bản dành cho Front End Developer - YouTube](https://www.youtube.com/watch?v=0qCVEMx7TIM&list=PL7_CawtGdTaSzNYezRZkZfkTwov2VGMR4)
 
 
+# CI CD
+[https://elroydevops.tech/devops/cicd/](https://elroydevops.tech/devops/cicd/?fbclid=IwAR33V_YtslrGSgixTvBPeqh3GNRDFUd6W5Ou_ejI-u77XFz5A7LrnTMz9xo)
 
 --- 
 # References
