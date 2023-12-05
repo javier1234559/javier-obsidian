@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "3fa36edbf261eb02",
+            "id": "e269c463c9604b7a",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +170,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2bb03e3acf6b1c85",
+  "active": "e269c463c9604b7a",
   "lastOpenFiles": [
     "docs/Area/English/Fleeting Note/English plan.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
