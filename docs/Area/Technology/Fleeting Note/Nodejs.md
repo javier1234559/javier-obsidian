@@ -1,6 +1,5 @@
 ---
 Created: 21:36 17-09-2023
-Link: "[[MOC Technology]]"
 tags:
   - secondbrain
   - secondbrain/nodejs

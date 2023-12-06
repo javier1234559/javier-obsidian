@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc78983e07d902d",
+        "id": "db8173626cb308fb",
         "type": "tabs",
         "children": [
           {
-            "id": "2bb03e3acf6b1c85",
+            "id": "bb89b6ed0862f8d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2023-12-05.md",
+                "file": "docs/Area/Technology/Permanent Note/Web development all in one.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84ebd556e8d66af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Area/Technology/Fleeting Note/TensorFlow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 294.5
   },
   "right": {
     "id": "9d958008e6b8307a",
@@ -85,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Area/Technology/Fleeting Note/TensorFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Area/Technology/Fleeting Note/TensorFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Area/Technology/Fleeting Note/TensorFlow.md"
+              }
             }
           },
           {
@@ -146,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 292.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,36 +184,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5888983b33828a87",
+  "active": "84ebd556e8d66af6",
   "lastOpenFiles": [
+    "docs/Area/Technology/Fleeting Note/Python.md",
+    "docs/Area/Technology/Fleeting Note/Pygame.md",
+    "docs/Area/Technology/Permanent Note/Web development all in one.md",
+    "docs/Area/Technology/Fleeting Note/TensorFlow.md",
+    "docs/Area/Technology/Permanent Note/Business Analyst all in one.md",
+    "docs/Area/Technology/Literature Note/Chia lấy dư trong lập trình.md",
+    "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
+    "README.md",
+    "docs/Area/Technology/Fleeting Note/Top Blogs to learn and update technology.md",
+    "docs/Area/Technology/Fleeting Note/OOP and SOLID.md",
+    "docs/Area/Technology/Fleeting Note/Nodejs.md",
+    "docs/Area/Technology/Fleeting Note/NestJS.md",
+    "docs/Area/Technology/Fleeting Note/MongoDB.md",
+    "docs/Area/Technology/Fleeting Note/ExpressJS.md",
+    "docs/Area/Technology/Fleeting Note/Software architecture.md",
+    "MOC Technology.md",
+    "docs/Main MOC.md",
+    "docs/Project/VocabApp/HandleForm.md",
     "docs/Project/Daily/2023-12-05.md",
     "docs/Project/Daily/2023-12-03.md",
     "docs/Area/English/Fleeting Note/English plan.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
-    "docs/Main MOC.md",
     "docs/Project/Daily/2023-12-01.md",
     "docs/Project/Daily/Câu hỏi vấn đáp môn công nghệ phầm mềm mới.md",
     "docs/Project/Daily/2023-11-29.md",
-    "docs/Area/Technology/Fleeting Note/DevOps.md",
-    "docs/Project/Daily/2023-11-25.md",
-    "docs/Project/Daily/2023-11-18.md",
-    "docs/Project/Daily/2023-11-22.md",
-    "docs/Project/Daily/2023-11-17.md",
-    "docs/Project/Daily/2023-11-09.md",
-    "docs/Project/Daily/2023-11-04.md",
-    "docs/Project/Daily/2023-11-03.md",
-    "docs/Area/Technology/Literature Note/Chia lấy dư trong lập trình.md",
-    "docs/Project/Daily/2023-10-31.md",
-    "Java Exercise.md",
-    "docs/Project/Daily/2023-10-29.md",
-    "docs/Project/Daily/2023-10-28.md",
-    "docs/Area/Technology/Fleeting Note/Java.md",
     "DataLoom/Untitled.loom",
     "Untitled.canvas",
-    "docs/Project/VocabApp/HandleForm.md",
-    "docs/Area/English/Permanent Note/English Roadmap.md",
-    "conflict-files-obsidian-git.md",
     "docs/Project/VocabApp",
     "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",

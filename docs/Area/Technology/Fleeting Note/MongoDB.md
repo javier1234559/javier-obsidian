@@ -1,6 +1,5 @@
 ---
 Created: 21:34 27-09-2023
-Link: 
 tags:
   - secondbrain
   - secondbrain/technology
