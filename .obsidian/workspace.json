@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2023-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2023-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Project/Daily/2023-12-05.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +134,7 @@
             }
           },
           {
-            "id": "e269c463c9604b7a",
+            "id": "5888983b33828a87",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -170,10 +166,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2bb03e3acf6b1c85",
+  "active": "5888983b33828a87",
   "lastOpenFiles": [
-    "docs/Project/Daily/2023-12-03.md",
     "docs/Project/Daily/2023-12-05.md",
+    "docs/Project/Daily/2023-12-03.md",
     "docs/Area/English/Fleeting Note/English plan.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
