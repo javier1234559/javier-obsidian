@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb89b6ed0862f8d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Area/Technology/Permanent Note/Web development all in one.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "84ebd556e8d66af6",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +173,11 @@
   },
   "active": "84ebd556e8d66af6",
   "lastOpenFiles": [
-    "docs/Area/Technology/Fleeting Note/Python.md",
-    "docs/Area/Technology/Fleeting Note/Pygame.md",
     "docs/Area/Technology/Permanent Note/Web development all in one.md",
     "docs/Area/Technology/Fleeting Note/TensorFlow.md",
+    "docs/Area/Technology/Permanent Note/Artificial intelligence all in one.md",
+    "docs/Area/Technology/Fleeting Note/Python.md",
+    "docs/Area/Technology/Fleeting Note/Pygame.md",
     "docs/Area/Technology/Permanent Note/Business Analyst all in one.md",
     "docs/Area/Technology/Literature Note/Chia lấy dư trong lập trình.md",
     "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
@@ -211,7 +199,6 @@
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
     "docs/Project/Daily/2023-12-01.md",
     "docs/Project/Daily/Câu hỏi vấn đáp môn công nghệ phầm mềm mới.md",
-    "docs/Project/Daily/2023-11-29.md",
     "DataLoom/Untitled.loom",
     "Untitled.canvas",
     "docs/Project/VocabApp",
