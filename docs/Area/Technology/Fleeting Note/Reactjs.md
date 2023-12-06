@@ -2,6 +2,7 @@
 Created: 17:38 06-12-2023
 tags:
   - area
+  - area/technology
 ---
 
 # Reactjs
