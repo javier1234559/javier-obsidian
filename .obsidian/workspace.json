@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/TensorFlow.md",
+                "file": "docs/Area/Technology/Permanent Note/Artificial intelligence all in one.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/TensorFlow.md",
+                "file": "docs/Area/Technology/Permanent Note/Artificial intelligence all in one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/TensorFlow.md",
+                "file": "docs/Area/Technology/Permanent Note/Artificial intelligence all in one.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/TensorFlow.md"
+                "file": "docs/Area/Technology/Permanent Note/Artificial intelligence all in one.md"
               }
             }
           },
@@ -173,10 +173,10 @@
   },
   "active": "84ebd556e8d66af6",
   "lastOpenFiles": [
+    "docs/Area/Technology/Fleeting Note/TensorFlow.md",
     "docs/Area/Technology/Permanent Note/Artificial intelligence all in one.md",
     "docs/Area/Technology/Fleeting Note/Reactjs.md",
     "docs/Area/Technology/Permanent Note/Web development all in one.md",
-    "docs/Area/Technology/Fleeting Note/TensorFlow.md",
     "docs/Area/Technology/Fleeting Note/Python.md",
     "docs/Area/Technology/Fleeting Note/Pygame.md",
     "docs/Area/Technology/Permanent Note/Business Analyst all in one.md",
