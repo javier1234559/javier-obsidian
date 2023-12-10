@@ -19,3 +19,4 @@ tags:
 [TensorFlow là gì? Nguyên lý hoạt động của TensorFlow (stringee.com)](https://stringee.com/vi/blog/post/Tensorflow-la-gi)
 
 [Preston's Portfolio (prestonblackburn.com)](https://www.prestonblackburn.com/projects/RecommendationProject)
+[TensorFlow 2 Tutorial: Get Started in Deep Learning with tf.keras - MachineLearningMastery.com](https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/)
