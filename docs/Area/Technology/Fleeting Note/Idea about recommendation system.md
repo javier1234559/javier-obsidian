@@ -72,3 +72,7 @@ Với mong muốn tích hợp vào website thì các bước mà mình nghĩ c�
 
 # References
 [A Complete Guide To Recommender System — Tutorial with Sklearn, Surprise, Keras, Recommender | by Pathairush Seeda | in Towards Data Science - Freedium](https://freedium.cfd/https://towardsdatascience.com/a-complete-guide-to-recommender-system-tutorial-with-sklearn-surprise-keras-recommender-5e52e8ceace1)
+
+https://www.analyticsvidhya.com/blog/2022/08/building-a-content-based-recommendation-system/
+
+https://www.analyticsvidhya.com/blog/2015/08/beginners-guide-learn-content-based-recommender-systems/#h-what-are-content-based-recommender-systems
