@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "5888983b33828a87",
+            "id": "39247f93685e3217",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +170,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84ebd556e8d66af6",
+  "active": "39247f93685e3217",
   "lastOpenFiles": [
     "docs/Area/Technology/Permanent Note/Artificial intelligence all in one.md",
     "docs/Project/Daily/2023-12-12.md",
