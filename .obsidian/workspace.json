@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2023-12-12.md",
+                "file": "docs/Area/Technology/Fleeting Note/Nodejs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2023-12-12.md",
+                "file": "docs/Area/Technology/Fleeting Note/Nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2023-12-12.md",
+                "file": "docs/Area/Technology/Fleeting Note/Nodejs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2023-12-12.md"
+                "file": "docs/Area/Technology/Fleeting Note/Nodejs.md"
               }
             }
           },
@@ -170,10 +170,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "39247f93685e3217",
+  "active": "84ebd556e8d66af6",
   "lastOpenFiles": [
-    "docs/Area/Technology/Permanent Note/Artificial intelligence all in one.md",
     "docs/Project/Daily/2023-12-12.md",
+    "docs/Project/Daily/2023-12-05.md",
+    "docs/Project/Daily/2023-12-03.md",
+    "docs/Project/Daily/2023-12-01.md",
+    "docs/Project/Daily/todo-in-18-09-23.md",
+    "docs/Project/Daily/daily-in-18-09-23.md",
+    "docs/Area/Technology/Permanent Note/Artificial intelligence all in one.md",
     "docs/Area/Technology/Fleeting Note/Idea about recommendation system.md",
     "docs/Area/Technology/Fleeting Note/TensorFlow.md",
     "docs/Area/Technology/Permanent Note/Web development all in one.md",
@@ -195,11 +200,6 @@
     "docs/Area/Technology/Fleeting Note/Software architecture.md",
     "MOC Technology.md",
     "docs/Main MOC.md",
-    "docs/Project/VocabApp/HandleForm.md",
-    "docs/Project/Daily/2023-12-05.md",
-    "docs/Project/Daily/2023-12-03.md",
-    "docs/Area/English/Fleeting Note/English plan.md",
-    "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
     "DataLoom/Untitled.loom",
     "Untitled.canvas",
     "docs/Project/VocabApp",
