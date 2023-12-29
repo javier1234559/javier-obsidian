@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Chrome Extension.md",
+                "file": "docs/Project/Daily/2023-12-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Chrome Extension.md",
+                "file": "docs/Project/Daily/2023-12-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Chrome Extension.md",
+                "file": "docs/Project/Daily/2023-12-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Fleeting Note/Chrome Extension.md"
+                "file": "docs/Project/Daily/2023-12-24.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "84ebd556e8d66af6",
   "lastOpenFiles": [
-    "docs/Project/Daily/2023-12-19.md",
     "docs/Area/Technology/Fleeting Note/Chrome Extension.md",
+    "docs/Project/Daily/2023-12-24.md",
+    "docs/Project/Daily/2023-12-19.md",
     "docs/Area/Technology/Fleeting Note/Nodejs.md",
     "docs/Project/Daily/2023-12-12.md",
     "docs/Project/Daily/2023-12-05.md",
@@ -199,7 +200,6 @@
     "docs/Area/Technology/Fleeting Note/NestJS.md",
     "docs/Area/Technology/Fleeting Note/MongoDB.md",
     "docs/Area/Technology/Fleeting Note/ExpressJS.md",
-    "docs/Area/Technology/Fleeting Note/Software architecture.md",
     "DataLoom/Untitled.loom",
     "Untitled.canvas",
     "docs/Project/VocabApp",
