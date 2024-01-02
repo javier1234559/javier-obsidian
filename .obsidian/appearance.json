@@ -14,5 +14,6 @@
     "callout",
     "header",
     "Gragh_view_color"
-  ]
+  ],
+  "theme": "obsidian"
 }

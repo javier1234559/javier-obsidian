@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db8173626cb308fb",
+        "id": "8f9c3030da8b59c9",
         "type": "tabs",
         "children": [
           {
-            "id": "84ebd556e8d66af6",
+            "id": "1db169c3ecf31e5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Project/Daily/2023-12-24.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2023-12-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2023-12-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Project/Daily/2023-12-24.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,10 +162,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84ebd556e8d66af6",
+  "active": "1db169c3ecf31e5f",
   "lastOpenFiles": [
-    "docs/Area/Technology/Fleeting Note/Chrome Extension.md",
+    "Pasted image 20231207124427.png",
+    "Pasted image 20231207124229.png",
     "docs/Project/Daily/2023-12-24.md",
+    "docs/Area/Technology/Fleeting Note/Chrome Extension.md",
     "docs/Project/Daily/2023-12-19.md",
     "docs/Area/Technology/Fleeting Note/Nodejs.md",
     "docs/Project/Daily/2023-12-12.md",
@@ -187,8 +181,6 @@
     "docs/Area/Technology/Fleeting Note/TensorFlow.md",
     "docs/Area/Technology/Permanent Note/Web development all in one.md",
     "docs/Area/Technology/Fleeting Note/Reactjs.md",
-    "Pasted image 20231207124427.png",
-    "Pasted image 20231207124229.png",
     "docs/Area/Technology/Fleeting Note/Python.md",
     "docs/Area/Technology/Fleeting Note/Pygame.md",
     "docs/Area/Technology/Permanent Note/Business Analyst all in one.md",
@@ -199,7 +191,6 @@
     "docs/Area/Technology/Fleeting Note/OOP and SOLID.md",
     "docs/Area/Technology/Fleeting Note/NestJS.md",
     "docs/Area/Technology/Fleeting Note/MongoDB.md",
-    "docs/Area/Technology/Fleeting Note/ExpressJS.md",
     "DataLoom/Untitled.loom",
     "Untitled.canvas",
     "docs/Project/VocabApp",
