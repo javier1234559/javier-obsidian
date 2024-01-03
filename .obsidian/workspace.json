@@ -11,8 +11,12 @@
             "id": "1db169c3ecf31e5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Area/Technology/Literature Note/Data structure and Algorithm.md"
+              }
             }
           },
           {
@@ -164,6 +172,7 @@
   },
   "active": "1db169c3ecf31e5f",
   "lastOpenFiles": [
+    "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
     "Pasted image 20231207124427.png",
     "Pasted image 20231207124229.png",
     "docs/Project/Daily/2023-12-24.md",
@@ -185,7 +194,6 @@
     "docs/Area/Technology/Fleeting Note/Pygame.md",
     "docs/Area/Technology/Permanent Note/Business Analyst all in one.md",
     "docs/Area/Technology/Literature Note/Chia lấy dư trong lập trình.md",
-    "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
     "README.md",
     "docs/Area/Technology/Fleeting Note/Top Blogs to learn and update technology.md",
     "docs/Area/Technology/Fleeting Note/OOP and SOLID.md",

@@ -11,7 +11,9 @@ tags:
 
 
 
-
+## Special Voz reference
+- [Tim Roughgarden's Online Courses](https://timroughgarden.org/videos.html)
+- [Teach Yourself Computer Science (teachyourselfcs.com)](https://teachyourselfcs.com/#algorithms)
 
 
 
