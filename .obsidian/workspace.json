@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f9c3030da8b59c9",
+        "id": "e2a0d1b7f3be8c3f",
         "type": "tabs",
         "children": [
           {
-            "id": "1db169c3ecf31e5f",
+            "id": "231ad1e496e3f4bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
+                "file": "docs/Project/Toeic Test is comming/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
+                "file": "docs/Project/Toeic Test is comming/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
+                "file": "docs/Project/Toeic Test is comming/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Literature Note/Data structure and Algorithm.md"
+                "file": "docs/Project/Toeic Test is comming/Untitled.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,11 +171,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1db169c3ecf31e5f",
+  "active": "231ad1e496e3f4bc",
   "lastOpenFiles": [
+    "docs/Area/English/Fleeting Note/English plan.md",
+    "docs/Project/Toeic Test is comming/Untitled.md",
+    "docs/Project/Toeic Test is comming",
+    "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
+    "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
+    "docs/Project/VocabApp/HandleForm.md",
     "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
-    "Pasted image 20231207124427.png",
-    "Pasted image 20231207124229.png",
+    "docs/Files/Pasted image 20231207124427.png",
+    "docs/Files/Pasted image 20231207124229.png",
     "docs/Project/Daily/2023-12-24.md",
     "docs/Area/Technology/Fleeting Note/Chrome Extension.md",
     "docs/Project/Daily/2023-12-19.md",
@@ -195,10 +202,6 @@
     "docs/Area/Technology/Permanent Note/Business Analyst all in one.md",
     "docs/Area/Technology/Literature Note/Chia lấy dư trong lập trình.md",
     "README.md",
-    "docs/Area/Technology/Fleeting Note/Top Blogs to learn and update technology.md",
-    "docs/Area/Technology/Fleeting Note/OOP and SOLID.md",
-    "docs/Area/Technology/Fleeting Note/NestJS.md",
-    "docs/Area/Technology/Fleeting Note/MongoDB.md",
     "DataLoom/Untitled.loom",
     "Untitled.canvas",
     "docs/Project/VocabApp",
@@ -209,7 +212,6 @@
     "Untitled.loom",
     "docs/Archive/SecondBrain/Daily",
     "docs/Archive/SecondBrain",
-    "DataLoom",
     "docs/Files/Diagram.svg"
   ]
 }
