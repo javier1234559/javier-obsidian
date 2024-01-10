@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Toeic Test is comming/Untitled.md",
+                "file": "docs/Project/Daily/2024-01-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Toeic Test is comming/Untitled.md",
+                "file": "docs/Project/Daily/2024-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Toeic Test is comming/Untitled.md",
+                "file": "docs/Project/Daily/2024-01-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Toeic Test is comming/Untitled.md"
+                "file": "docs/Project/Daily/2024-01-10.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "231ad1e496e3f4bc",
   "lastOpenFiles": [
-    "docs/Area/English/Fleeting Note/English plan.md",
     "docs/Project/Toeic Test is comming/Untitled.md",
+    "docs/Project/Daily/2024-01-10.md",
+    "docs/Area/English/Fleeting Note/English plan.md",
     "docs/Project/Toeic Test is comming",
     "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
     "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
@@ -201,7 +202,6 @@
     "docs/Area/Technology/Fleeting Note/Pygame.md",
     "docs/Area/Technology/Permanent Note/Business Analyst all in one.md",
     "docs/Area/Technology/Literature Note/Chia lấy dư trong lập trình.md",
-    "README.md",
     "DataLoom/Untitled.loom",
     "Untitled.canvas",
     "docs/Project/VocabApp",
