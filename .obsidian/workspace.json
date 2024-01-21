@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2a0d1b7f3be8c3f",
+        "id": "bba873732f0bd08f",
         "type": "tabs",
         "children": [
           {
-            "id": "231ad1e496e3f4bc",
+            "id": "b8b2fd0ea91e6fff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-01-10.md",
+                "file": "docs/Archive/School/Testing/Tóm tắt lý thuyết môn Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-01-10.md",
+                "file": "docs/Archive/School/Testing/Tóm tắt lý thuyết môn Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-01-10.md",
+                "file": "docs/Archive/School/Testing/Tóm tắt lý thuyết môn Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-01-10.md"
+                "file": "docs/Archive/School/Testing/Tóm tắt lý thuyết môn Testing.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "39247f93685e3217",
+            "id": "f3985f158fed7fe5",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -158,7 +158,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
@@ -166,20 +165,33 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "remotely-save:Remotely Save": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-day-planner:Timeline": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Timeline": false,
+      "daily-notes:Open today's daily note": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "231ad1e496e3f4bc",
+  "active": "b0fdb3f1f9efd775",
   "lastOpenFiles": [
-    "docs/Project/Toeic Test is comming/Untitled.md",
-    "docs/Project/Daily/2024-01-10.md",
-    "docs/Area/English/Fleeting Note/English plan.md",
-    "docs/Project/Toeic Test is comming",
-    "docs/Area/English/Fleeting Note/Toeic listening Test 4 ETS 2023.md",
-    "docs/Area/English/Fleeting Note/Toeic listening Test 1 ETS 2023.md",
+    "docs/Archive/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng.md",
+    "docs/Archive/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
+    "docs/Archive/School/New Technology/Note at School.md",
+    "docs/Archive/School/IT Project/Note at School.md",
+    "docs/Archive/School/Artificial Intelligence/Note at School.md",
+    "docs/Resource/Life/Friend Birthday.md",
+    "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
     "docs/Project/VocabApp/HandleForm.md",
+    "docs/Project/Toeic Test is comming/Untitled.md",
+    "README.md",
+    "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-14 11.59.13.excalidraw.md",
+    "Untitled.md",
+    "2024-01-21.md",
+    "docs/Project/Daily/2024-01-10.md",
+    "docs/Area/English/English plan.md",
+    "docs/Project/Toeic Test is comming",
+    "docs/Area/English/Toeic listening Test 4 ETS 2023.md",
+    "docs/Area/English/Toeic listening Test 1 ETS 2023.md",
     "docs/Area/Technology/Literature Note/Data structure and Algorithm.md",
     "docs/Files/Pasted image 20231207124427.png",
     "docs/Files/Pasted image 20231207124229.png",
@@ -190,18 +202,6 @@
     "docs/Project/Daily/2023-12-12.md",
     "docs/Project/Daily/2023-12-05.md",
     "docs/Project/Daily/2023-12-03.md",
-    "docs/Project/Daily/2023-12-01.md",
-    "docs/Project/Daily/todo-in-18-09-23.md",
-    "docs/Project/Daily/daily-in-18-09-23.md",
-    "docs/Area/Technology/Permanent Note/Artificial intelligence all in one.md",
-    "docs/Area/Technology/Fleeting Note/Idea about recommendation system.md",
-    "docs/Area/Technology/Fleeting Note/TensorFlow.md",
-    "docs/Area/Technology/Permanent Note/Web development all in one.md",
-    "docs/Area/Technology/Fleeting Note/Reactjs.md",
-    "docs/Area/Technology/Fleeting Note/Python.md",
-    "docs/Area/Technology/Fleeting Note/Pygame.md",
-    "docs/Area/Technology/Permanent Note/Business Analyst all in one.md",
-    "docs/Area/Technology/Literature Note/Chia lấy dư trong lập trình.md",
     "DataLoom/Untitled.loom",
     "Untitled.canvas",
     "docs/Project/VocabApp",
