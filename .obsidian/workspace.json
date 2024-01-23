@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-01-22.md",
+                "file": "docs/Project/Daily/2024-01-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-01-22.md",
+                "file": "docs/Project/Daily/2024-01-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-01-22.md",
+                "file": "docs/Project/Daily/2024-01-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-01-22.md"
+                "file": "docs/Project/Daily/2024-01-23.md"
               }
             }
           },
@@ -173,6 +173,8 @@
   },
   "active": "01049e4d6357fe63",
   "lastOpenFiles": [
+    "docs/Project/Daily/2024-01-22.md",
+    "docs/Project/Daily/2024-01-23.md",
     "docs/Area/Technology/System Design.md",
     "docs/Area/Technology/Software architecture.md",
     "docs/Area/Technology/Web development all in one.md",
@@ -182,7 +184,6 @@
     "docs/Area/Technology/DevOps.md",
     "docs/Area/Technology/Idea about recommendation system.md",
     "docs/Area/Technology/Git.md",
-    "docs/Project/Daily/2024-01-22.md",
     "docs/Area/Technology/MySQL.md",
     "docs/Project/Untitled",
     "docs/Archive/School/Testing/Tóm tắt lý thuyết môn Testing.md",
@@ -199,7 +200,6 @@
     "docs/Archive/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng.md",
     "docs/Archive/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
     "docs/Archive/School/New Technology/Note at School.md",
-    "docs/Archive/School/IT Project/Note at School.md",
     "docs/Project/Toeic Test is comming",
     "docs/Files/Pasted image 20231207124427.png",
     "docs/Files/Pasted image 20231207124229.png",
