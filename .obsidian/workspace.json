@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-01-23.md",
+                "file": "docs/Project/Daily/2024-01-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-01-23.md",
+                "file": "docs/Project/Daily/2024-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-01-23.md",
+                "file": "docs/Project/Daily/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-01-23.md"
+                "file": "docs/Project/Daily/2024-01-30.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +172,13 @@
   },
   "active": "01049e4d6357fe63",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-01-22.md",
+    "docs/Area/Technology/Linux.md",
+    "docs/Project/Daily/2024-01-30.md",
+    "docs/Project/Daily/2024-01-27.md",
+    "docs/Area/Technology/Google Search Tips.md",
+    "docs/Area/Technology/Nodejs.md",
     "docs/Project/Daily/2024-01-23.md",
+    "docs/Project/Daily/2024-01-22.md",
     "docs/Area/Technology/System Design.md",
     "docs/Area/Technology/Software architecture.md",
     "docs/Area/Technology/Web development all in one.md",
@@ -195,11 +199,6 @@
     "docs/Area/Technology/Java Snippet.md",
     "docs/Area/Technology/Data structure and Algorithm.md",
     "docs/Area/Technology/Chia lấy dư trong lập trình.md",
-    "docs/Area/Technology/UX and UI.md",
-    "docs/Area/Technology/Bash Script.md",
-    "docs/Archive/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng.md",
-    "docs/Archive/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
-    "docs/Archive/School/New Technology/Note at School.md",
     "docs/Project/Toeic Test is comming",
     "docs/Files/Pasted image 20231207124427.png",
     "docs/Files/Pasted image 20231207124229.png",

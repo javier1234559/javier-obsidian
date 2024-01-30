@@ -6,6 +6,10 @@ tags:
 ---
 # Nodejs
 > Nó chỉ là runtime thôi :> . Về sau chắc khi nào cần tìm hiểu sâu về các thư viện chuẩn và kiến trúc thì tính sau
+
+# Nodejs book and advance
+- https://blog.logrocket.com/guide-node-js-design-patterns/
+- https://www.reddit.com/r/node/comments/12yny87/looking_for_books_to_learn_intermediate_and/ (Some book already downloaded)
 # Blogs about this tech
 [Xử lý đồng thời 10,000 Request trong Nodejs (viblo.asia)](https://viblo.asia/p/xu-ly-dong-thoi-10000-request-trong-nodejs-BQyJKR3M4Me)
 [Node.js Architecture and 12 Best Practices for Node.js Development | Scout APM Blog](https://scoutapm.com/blog/nodejs-architecture-and-12-best-practices-for-nodejs-development#abriefhistory)
