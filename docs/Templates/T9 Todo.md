@@ -4,11 +4,3 @@ tags:
   - todo
 ---
 
-
---- 
-# References
-
-
-
---- 
-# Links to this page

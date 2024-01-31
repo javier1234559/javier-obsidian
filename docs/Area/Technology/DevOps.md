@@ -7,6 +7,9 @@ tags:
 ---
 
 # DevOps
+## Docker
+[Mẫu Dockerfile các dự án (đúc kết chi tiết) (elroydevops.tech)](https://elroydevops.tech/mau-dockerfile-cac-du-an/#Dockerfile_Nextjs)
+
 
 ## Networking fundamental
 [Network Devices - Hosts, IP Addresses, Networks - Networking Fundamentals - Lesson 1a - YouTube](https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
