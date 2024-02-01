@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-01-30.md",
+                "file": "docs/Project/Daily/2024-01-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-01-30.md",
+                "file": "docs/Project/Daily/2024-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-01-30.md",
+                "file": "docs/Project/Daily/2024-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-01-30.md"
+                "file": "docs/Project/Daily/2024-01-31.md"
               }
             }
           },
@@ -173,8 +173,10 @@
   },
   "active": "1b5c4ade0de01067",
   "lastOpenFiles": [
-    "docs/Area/Technology/Java.md",
+    "docs/Area/Technology/UX and UI.md",
+    "docs/Project/Daily/2024-01-31.md",
     "docs/Project/Daily/2024-01-30.md",
+    "docs/Area/Technology/Java.md",
     "docs/Area/Technology/DevOps.md",
     "docs/Archive/Zettelkasten/Fleeting/Tìm hiểu về Docker.md",
     "docs/Templates/T9 Todo.md",
@@ -198,8 +200,6 @@
     "docs/Area/Technology/Nơi take note mọi ý tưởng công nghệ.md",
     "docs/Area/Technology/Business Analyst all in one.md",
     "docs/Area/Technology/Artificial intelligence all in one.md",
-    "docs/Area/Technology/MongoDB Snippet.md",
-    "docs/Area/Technology/Javascript Snippet.md",
     "docs/Project/Toeic Test is comming",
     "docs/Files/Pasted image 20231207124427.png",
     "docs/Files/Pasted image 20231207124229.png",
