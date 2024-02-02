@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-01-31.md",
+                "file": "docs/Project/Daily/2024-02-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-01-31.md",
+                "file": "docs/Project/Daily/2024-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-01-31.md",
+                "file": "docs/Project/Daily/2024-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-01-31.md"
+                "file": "docs/Project/Daily/2024-02-01.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "1b5c4ade0de01067",
   "lastOpenFiles": [
-    "docs/Area/Technology/UX and UI.md",
     "docs/Project/Daily/2024-01-31.md",
+    "docs/Project/Daily/2024-02-01.md",
+    "docs/Area/Technology/UX and UI.md",
     "docs/Project/Daily/2024-01-30.md",
     "docs/Area/Technology/Java.md",
     "docs/Area/Technology/DevOps.md",
@@ -199,7 +200,6 @@
     "docs/Archive/School/Testing/Tóm tắt lý thuyết môn Testing.md",
     "docs/Area/Technology/Nơi take note mọi ý tưởng công nghệ.md",
     "docs/Area/Technology/Business Analyst all in one.md",
-    "docs/Area/Technology/Artificial intelligence all in one.md",
     "docs/Project/Toeic Test is comming",
     "docs/Files/Pasted image 20231207124427.png",
     "docs/Files/Pasted image 20231207124229.png",
