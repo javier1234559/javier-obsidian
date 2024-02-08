@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-02-06.md",
+                "file": "docs/Area/Technology/Android.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-02-06.md",
+                "file": "docs/Area/Technology/Android.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-02-06.md",
+                "file": "docs/Area/Technology/Android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-02-06.md"
+                "file": "docs/Area/Technology/Android.md"
               }
             }
           },
@@ -173,6 +173,8 @@
   },
   "active": "1b5c4ade0de01067",
   "lastOpenFiles": [
+    "docs/Project/Daily/2024-02-07.md",
+    "docs/Area/Technology/Android.md",
     "docs/Project/Daily/2024-02-06.md",
     "docs/Project/Daily/2024-02-01.md",
     "docs/Project/Daily/2024-01-31.md",
@@ -197,9 +199,7 @@
     "docs/Area/Technology/Chrome Extension.md",
     "docs/Area/Technology/Idea about recommendation system.md",
     "docs/Area/Technology/Git.md",
-    "docs/Area/Technology/MySQL.md",
     "docs/Project/Untitled",
-    "docs/Archive/School/Testing/Tóm tắt lý thuyết môn Testing.md",
     "docs/Project/Toeic Test is comming",
     "docs/Files/Pasted image 20231207124427.png",
     "docs/Files/Pasted image 20231207124229.png",
