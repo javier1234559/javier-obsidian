@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Area/Technology/Android.md",
+                "file": "docs/Project/Daily/2024-02-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Android.md",
+                "file": "docs/Project/Daily/2024-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Android.md",
+                "file": "docs/Project/Daily/2024-02-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Android.md"
+                "file": "docs/Project/Daily/2024-02-14.md"
               }
             }
           },
@@ -173,10 +173,11 @@
   },
   "active": "1b5c4ade0de01067",
   "lastOpenFiles": [
+    "docs/Area/Technology/Android.md",
+    "docs/Project/Daily/2024-02-14.md",
     "docs/Project/Daily/2024-02-12.md",
     "docs/Project/Daily/2024-02-11.md",
     "docs/Project/Daily/2024-02-09.md",
-    "docs/Area/Technology/Android.md",
     "docs/Project/Daily/2024-02-07.md",
     "docs/Project/Daily/2024-02-06.md",
     "docs/Project/Daily/2024-02-01.md",
@@ -198,7 +199,6 @@
     "docs/Area/Technology/Software architecture.md",
     "docs/Area/Technology/Web development all in one.md",
     "docs/Area/Technology/OOP and SOLID.md",
-    "docs/Area/Technology/Project Management.md",
     "docs/Project/Untitled",
     "docs/Project/Toeic Test is comming",
     "docs/Files/Pasted image 20231207124427.png",
