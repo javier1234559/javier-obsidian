@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-02-16.md",
+                "file": "docs/Project/Daily/2024-02-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-02-16.md",
+                "file": "docs/Project/Daily/2024-02-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-02-16.md",
+                "file": "docs/Project/Daily/2024-02-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-02-16.md"
+                "file": "docs/Project/Daily/2024-02-18.md"
               }
             }
           },
@@ -173,9 +173,10 @@
   },
   "active": "1b5c4ade0de01067",
   "lastOpenFiles": [
+    "docs/Project/Daily/2024-02-16.md",
+    "docs/Project/Daily/2024-02-18.md",
     "docs/Area/Technology/Android.md",
     "docs/Project/Daily/2024-02-14.md",
-    "docs/Project/Daily/2024-02-16.md",
     "docs/Project/Daily/2024-02-15.md",
     "docs/Project/Daily/2024-02-12.md",
     "docs/Project/Daily/2024-02-11.md",
@@ -198,7 +199,6 @@
     "docs/Project/Daily/2024-01-23.md",
     "docs/Project/Daily/2024-01-22.md",
     "docs/Area/Technology/System Design.md",
-    "docs/Area/Technology/Software architecture.md",
     "docs/Project/Untitled",
     "docs/Project/Toeic Test is comming",
     "docs/Files/Pasted image 20231207124427.png",
