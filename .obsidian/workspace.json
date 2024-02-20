@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Project/Daily/2024-02-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Project/Daily/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Project/Daily/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/Project/Daily/2024-02-20.md"
               }
             }
           },
@@ -173,10 +173,11 @@
   },
   "active": "1b5c4ade0de01067",
   "lastOpenFiles": [
+    "docs/Project/Daily/2024-02-18.md",
     "docs/Project/Daily/2024-02-20.md",
+    "docs/index.md",
     "docs/Area/Technology/Android.md",
     "docs/Files/Pasted image 20240219141845.png",
-    "docs/Project/Daily/2024-02-18.md",
     "docs/Project/Daily/2024-02-16.md",
     "docs/Project/Daily/2024-02-14.md",
     "docs/Project/Daily/2024-02-15.md",
@@ -199,7 +200,6 @@
     "docs/Area/Technology/Google Search Tips.md",
     "docs/Area/Technology/Nodejs.md",
     "docs/Project/Daily/2024-01-23.md",
-    "docs/Project/Daily/2024-01-22.md",
     "docs/Project/Untitled",
     "docs/Project/Toeic Test is comming",
     "docs/Files/Pasted image 20231207124427.png",
