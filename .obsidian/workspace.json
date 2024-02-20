@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Area/Technology/Android.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Android.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Android.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Android.md"
+                "file": "docs/index.md"
               }
             }
           },
@@ -173,10 +173,11 @@
   },
   "active": "1b5c4ade0de01067",
   "lastOpenFiles": [
-    "Pasted image 20240219141845.png",
+    "docs/Project/Daily/2024-02-20.md",
+    "docs/Area/Technology/Android.md",
+    "docs/Files/Pasted image 20240219141845.png",
     "docs/Project/Daily/2024-02-18.md",
     "docs/Project/Daily/2024-02-16.md",
-    "docs/Area/Technology/Android.md",
     "docs/Project/Daily/2024-02-14.md",
     "docs/Project/Daily/2024-02-15.md",
     "docs/Project/Daily/2024-02-12.md",
