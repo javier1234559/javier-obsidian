@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-02-21.md",
+                "file": "docs/Project/Daily/2024-02-22.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "661069a63110a7a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-02-21.md",
+                "file": "docs/Project/Daily/2024-02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-02-21.md",
+                "file": "docs/Project/Daily/2024-02-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-02-21.md"
+                "file": "docs/Project/Daily/2024-02-22.md"
               }
             }
           },
@@ -171,13 +182,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1b5c4ade0de01067",
+  "active": "661069a63110a7a0",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-02-20.md",
+    "docs/Files/Pasted image 20240222195525.png",
+    "docs/Area/Technology/Android.md",
+    "docs/Files/Pasted image 20240222163500.png",
+    "docs/Project/Daily/2024-02-22.md",
     "docs/Project/Daily/2024-02-21.md",
+    "docs/Project/Daily/2024-02-20.md",
     "docs/Project/Daily/2024-02-18.md",
     "docs/index.md",
-    "docs/Area/Technology/Android.md",
     "docs/Files/Pasted image 20240219141845.png",
     "docs/Project/Daily/2024-02-16.md",
     "docs/Project/Daily/2024-02-14.md",
@@ -198,8 +212,6 @@
     "docs/Templates/T9 Todo.md",
     "docs/Area/Technology/Linux.md",
     "docs/Project/Daily/2024-01-27.md",
-    "docs/Area/Technology/Google Search Tips.md",
-    "docs/Area/Technology/Nodejs.md",
     "docs/Project/Untitled",
     "docs/Project/Toeic Test is comming",
     "docs/Files/Pasted image 20231207124427.png",
