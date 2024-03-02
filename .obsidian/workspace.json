@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-02-27.md",
+                "file": "docs/Project/Daily/2024-03-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-02-27.md",
+                "file": "docs/Project/Daily/2024-03-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-02-27.md",
+                "file": "docs/Project/Daily/2024-03-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-02-27.md"
+                "file": "docs/Project/Daily/2024-03-02.md"
               }
             }
           },
@@ -173,9 +173,10 @@
   },
   "active": "1b5c4ade0de01067",
   "lastOpenFiles": [
+    "docs/Project/Daily/2024-02-27.md",
+    "docs/Project/Daily/2024-03-02.md",
     "docs/Project/Daily/2024-02-28.md",
     "docs/Project/Daily/2024-02-18.md",
-    "docs/Project/Daily/2024-02-27.md",
     "docs/Project/Daily/2024-02-22.md",
     "docs/Project/Daily/2024-02-24.md",
     "docs/Project/Daily/2024-02-23.md",
@@ -201,7 +202,6 @@
     "docs/Project/Daily/2024-02-02.md",
     "docs/Area/Technology/UX and UI.md",
     "docs/Project/Daily/2024-01-30.md",
-    "docs/Area/Technology/Java.md",
     "docs/Project/Untitled",
     "docs/Project/Toeic Test is comming",
     "docs/Files/Pasted image 20231207124427.png",
