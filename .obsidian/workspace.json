@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-03-09.md",
+                "file": "docs/Project/Daily/2024-03-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-03-09.md",
+                "file": "docs/Project/Daily/2024-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-03-09.md",
+                "file": "docs/Project/Daily/2024-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-03-09.md"
+                "file": "docs/Project/Daily/2024-03-10.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "1b5c4ade0de01067",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-03-04.md",
     "docs/Project/Daily/2024-03-09.md",
+    "docs/Project/Daily/2024-03-10.md",
+    "docs/Project/Daily/2024-03-04.md",
     "docs/Project/Daily/2024-03-02.md",
     "docs/Project/Daily/2024-02-27.md",
     "docs/Project/Daily/2024-02-28.md",
@@ -201,7 +202,6 @@
     "docs/Project/Daily/2024-02-06.md",
     "docs/Project/Daily/2024-02-01.md",
     "docs/Project/Daily/2024-01-31.md",
-    "docs/Project/Daily/2024-02-02.md",
     "docs/Project/Untitled",
     "docs/Project/Toeic Test is comming",
     "docs/Files/Pasted image 20231207124427.png",
