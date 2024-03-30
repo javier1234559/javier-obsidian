@@ -11,15 +11,24 @@
             "id": "1b5c4ade0de01067",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "docs/Project/Daily/2024-03-28.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "48d5abefdc8df906",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 227.5
   },
   "right": {
     "id": "9d958008e6b8307a",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-03-28.md",
+                "file": "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-03-28.md",
+                "file": "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-03-28.md"
+                "file": "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md"
               }
             }
           },
@@ -171,10 +180,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1b5c4ade0de01067",
+  "active": "48d5abefdc8df906",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-03-24.md",
+    "docs/Project/Daily/2024-03-29.md",
+    "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
+    "DataLoom/Untitled.loom",
+    "DataLoom/Untitled 1.loom",
     "docs/Project/Daily/2024-03-28.md",
+    "docs/Project/Daily/2024-03-24.md",
     "docs/Project/Daily/2024-03-20.md",
     "docs/Project/Daily/2024-03-19.md",
     "docs/Project/Daily/2024-03-18.md",
@@ -199,17 +212,13 @@
     "docs/Area/Technology/Android.md",
     "docs/Files/Pasted image 20240222163500.png",
     "docs/Project/Daily/2024-02-20.md",
-    "docs/index.md",
     "docs/Files/Pasted image 20240219141845.png",
-    "docs/Project/Daily/2024-02-16.md",
     "docs/Project/Untitled",
     "docs/Project/Toeic Test is comming",
     "docs/Files/Pasted image 20231207124427.png",
     "docs/Files/Pasted image 20231207124229.png",
-    "DataLoom/Untitled.loom",
     "Untitled.canvas",
     "docs/Project/VocabApp",
-    "DataLoom/Untitled 1.loom",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
     "docs/Area/Technology/Fleeting Note",
