@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7f2840553b5f690e",
+        "id": "2ec8f51912a9bf48",
         "type": "tabs",
         "children": [
           {
-            "id": "1b5c4ade0de01067",
+            "id": "5a90d47187b397f9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "48d5abefdc8df906",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md"
               }
             }
           },
@@ -180,10 +169,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48d5abefdc8df906",
+  "active": "5a90d47187b397f9",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-03-29.md",
     "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md",
+    "docs/Resource/Life/Friend Birthday.md",
+    "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
+    "docs/Area/Technology/Chrome Extension.md",
+    "docs/Area/index.md",
+    "docs/Project/Daily/2024-03-29.md",
     "DataLoom/Untitled.loom",
     "DataLoom/Untitled 1.loom",
     "docs/Project/Daily/2024-03-28.md",
@@ -205,13 +199,8 @@
     "docs/Project/Daily/2024-03-10.md",
     "docs/Project/Daily/2024-03-13.md",
     "docs/Project/Daily/2024-03-12.md",
-    "docs/Project/Daily/2024-03-11.md",
-    "docs/Project/Daily/2024-02-18.md",
-    "README.md",
     "docs/Files/Pasted image 20240222195525.png",
-    "docs/Area/Technology/Android.md",
     "docs/Files/Pasted image 20240222163500.png",
-    "docs/Project/Daily/2024-02-20.md",
     "docs/Files/Pasted image 20240219141845.png",
     "docs/Project/Untitled",
     "docs/Project/Toeic Test is comming",
