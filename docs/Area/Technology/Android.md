@@ -19,8 +19,13 @@ tags:
 
 ![[Pasted image 20240219141845.png]]
 
+- [[4 Ways to Update UI in android]]
+
+
 --- 
 # References
+
+
 
 
 

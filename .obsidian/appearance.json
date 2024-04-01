@@ -15,5 +15,7 @@
     "header",
     "Gragh_view_color"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "monospaceFontFamily": "",
+  "baseFontSize": 16
 }

@@ -32,6 +32,16 @@ settings:
 */
 /* Eliminate margin (gap, space) under headings - Preview mode only */
 /* H1 underlined too */
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap')
+
+.markdown-preview-view{
+   font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
 .markdown-preview-view h1 {
   padding-bottom: 5px;
   border-bottom: 1px solid var(--base2);
@@ -198,9 +208,8 @@ settings:
 /* Change header size in Edit mode */
 .cm-header-1 {
   font-size: 27px;
-  line-height: 55px;
+  margin-bottom: 10px;
   background-color: #CA4246;
-  background-image: linear-gradient(63deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
   background-size: 100%;
   background-repeat: repeat;
   -webkit-background-clip: text;
@@ -208,19 +217,18 @@ settings:
 }
 
 .cm-header-2 {
-  font-size: 22px;
-  line-height: 45px;
+    font-size: 22px;
+  margin-bottom: 10px;
   background: rgb(34, 193, 195);
-  background-image: linear-gradient(63deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
   background-size: 100%;
   background-repeat: repeat;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  margin-top: 100px; /* Move header down by 100px */
 }
 
 .cm-header-3 {
   font-size: 21px;
-  line-height: 45px;
   background: rgb(34, 193, 195);
   background-image: linear-gradient(63deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
   background-size: 100%;
@@ -231,7 +239,6 @@ settings:
 
 .cm-header-4 {
   font-size: 19px;
-  line-height: 35px;
   background: rgb(34, 193, 195);
   background-image: linear-gradient(63deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
   background-size: 100%;
@@ -262,7 +269,7 @@ settings:
 
 /* Change header size in Preview mode */
 .markdown-preview-view h1 {
-  font-size: 27px;
+  font-size: 100px;
 }
 
 .markdown-preview-view h2 {
@@ -285,3 +292,4 @@ settings:
   font-size: 13px;
   font-weight: bold;
 }
+

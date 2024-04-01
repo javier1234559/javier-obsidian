@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2ec8f51912a9bf48",
+        "id": "c9be4f57042533d0",
         "type": "tabs",
         "children": [
           {
-            "id": "5a90d47187b397f9",
+            "id": "721d59a7cf0dde0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Project/Daily/2024-03-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2fbb49963dc036f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md",
+                "file": "docs/Project/Daily/2024-03-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md",
+                "file": "docs/Project/Daily/2024-03-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md"
+                "file": "docs/Project/Daily/2024-03-31.md"
               }
             }
           },
@@ -169,14 +181,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5a90d47187b397f9",
+  "active": "721d59a7cf0dde0c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
     "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md",
+    "docs/Project/Daily/2024-03-31.md",
+    "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
+    "docs/Area/Technology/Chia lấy dư trong lập trình.md",
+    "docs/Area/Technology/Top Blogs to learn and update technology.md",
+    "docs/Area/Technology/4 Ways to Update UI in android.md",
+    "docs/Area/Technology/Android.md",
+    "docs/Area/index.md",
+    "docs/Area/English/random-word-in-18-09-23.md",
+    "docs/Area/Youtuber",
+    "docs/Area/English/English Roadmap.md",
+    "docs/Area/English/English plan.md",
     "docs/Resource/Life/Friend Birthday.md",
     "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
     "docs/Area/Technology/Chrome Extension.md",
-    "docs/Area/index.md",
     "docs/Project/Daily/2024-03-29.md",
     "DataLoom/Untitled.loom",
     "DataLoom/Untitled 1.loom",
@@ -191,14 +212,6 @@
     "docs/Project/Daily/2024-02-23.md",
     "docs/Project/Daily/2024-02-24.md",
     "docs/Project/Daily/2024-02-25.md",
-    "docs/Project/Daily/2024-02-27.md",
-    "docs/Project/Daily/2024-02-28.md",
-    "docs/Project/Daily/2024-03-02.md",
-    "docs/Project/Daily/2024-03-04.md",
-    "docs/Project/Daily/2024-03-09.md",
-    "docs/Project/Daily/2024-03-10.md",
-    "docs/Project/Daily/2024-03-13.md",
-    "docs/Project/Daily/2024-03-12.md",
     "docs/Files/Pasted image 20240222195525.png",
     "docs/Files/Pasted image 20240222163500.png",
     "docs/Files/Pasted image 20240219141845.png",
@@ -212,7 +225,6 @@
     "docs/Area/Technology/Literature Note",
     "docs/Area/Technology/Fleeting Note",
     "Untitled.loom",
-    "docs/Archive/SecondBrain/Daily",
     "docs/Files/Diagram.svg"
   ]
 }
