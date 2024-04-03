@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-04-02.md",
+                "file": "docs/Project/Daily/2024-04-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-04-02.md",
+                "file": "docs/Project/Daily/2024-04-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-04-02.md",
+                "file": "docs/Project/Daily/2024-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-04-02.md"
+                "file": "docs/Project/Daily/2024-04-03.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "721d59a7cf0dde0c",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-04-01.md",
     "docs/Project/Daily/2024-04-02.md",
+    "docs/Project/Daily/2024-04-03.md",
+    "docs/Project/Daily/2024-04-01.md",
     "docs/Project/Daily/2024-03-31.md",
     "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md",
     "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
@@ -211,7 +212,6 @@
     "docs/Project/Daily/2024-03-21.md",
     "docs/Project/Daily/2024-02-22.md",
     "docs/Project/Daily/2024-02-21.md",
-    "docs/Project/Daily/2024-02-23.md",
     "docs/Files/Pasted image 20240222195525.png",
     "docs/Files/Pasted image 20240222163500.png",
     "docs/Files/Pasted image 20240219141845.png",
