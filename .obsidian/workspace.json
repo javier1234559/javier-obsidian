@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7a8fffe388688b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-04 21.41.23.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -173,10 +183,19 @@
   },
   "active": "104cf737792cdfab",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-04 21.41.23.excalidraw.md",
     "docs/Project/Daily/2024-04-05.md",
+    "docs/Files/Pasted Image 20240405103115_744.png",
+    "docs/Files/Pasted Image 20240405103026_610.png",
+    "docs/Files/Pasted Image 20240405102939_624.png",
+    "docs/Files/Pasted Image 20240405102939_615.png",
+    "docs/Files/Pasted Image 20240405102924_614.png",
+    "docs/Files/Pasted Image 20240405102853_623.png",
+    "docs/Files/Pasted Image 20240405102718_610.png",
+    "docs/Files/Pasted Image 20240405102703_609.png",
+    "docs/Files/Pasted Image 20240405102617_472.png",
     "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md",
     "docs/Project/Daily/2024-04-04.md",
-    "Excalidraw/Drawing 2024-04-04 21.41.23.excalidraw.md",
     "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
     "docs/Project/Daily/2024-04-03.md",
     "docs/Project/Daily/2024-04-02.md",
@@ -201,20 +220,14 @@
     "docs/Project/Daily/2024-03-24.md",
     "docs/Project/Daily/2024-03-20.md",
     "docs/Project/Daily/2024-03-19.md",
-    "docs/Project/Daily/2024-03-18.md",
     "docs/Files/Pasted image 20240222195525.png",
-    "docs/Files/Pasted image 20240222163500.png",
-    "docs/Files/Pasted image 20240219141845.png",
     "docs/Project/Untitled",
     "docs/Project/Toeic Test is comming",
-    "docs/Files/Pasted image 20231207124427.png",
-    "docs/Files/Pasted image 20231207124229.png",
     "Untitled.canvas",
     "docs/Project/VocabApp",
     "docs/Area/Technology/Permanent Note",
     "docs/Area/Technology/Literature Note",
     "docs/Area/Technology/Fleeting Note",
-    "Untitled.loom",
-    "docs/Files/Diagram.svg"
+    "Untitled.loom"
   ]
 }
