@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Area/Technology/Flutter.md",
+                "file": "docs/Area/Technology/Nextjs.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Flutter.md",
+                "file": "docs/Area/Technology/Nextjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Flutter.md",
+                "file": "docs/Area/Technology/Nextjs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Flutter.md"
+                "file": "docs/Area/Technology/Nextjs.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "104cf737792cdfab",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-04-05.md",
     "docs/Area/Technology/Flutter.md",
+    "docs/Area/Technology/Nextjs.md",
+    "docs/Project/Daily/2024-04-05.md",
     "Excalidraw/Drawing 2024-04-04 21.41.23.excalidraw.md",
     "docs/Files/Pasted Image 20240405103115_744.png",
     "docs/Files/Pasted Image 20240405103026_610.png",
@@ -220,7 +221,6 @@
     "docs/Project/Daily/2024-03-28.md",
     "docs/Project/Daily/2024-03-24.md",
     "docs/Project/Daily/2024-03-20.md",
-    "docs/Project/Daily/2024-03-19.md",
     "docs/Files/Pasted image 20240222195525.png",
     "docs/Project/Untitled",
     "docs/Project/Toeic Test is comming",
