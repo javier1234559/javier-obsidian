@@ -33,8 +33,9 @@ tags:
 9. Day 9 : Microservices
 10. Day 10 : Deployment
 
-
-Tìm hiểu về các concept trong đây [Nestjs Cheatsheet Sequelize Examples | Nestjs Cheatsheet Sequelize Examples | Useful NodeJS Tricks, JavaScript Tips, Tricks and Best Practices (nextjsvietnam.com)](https://nextjsvietnam.com/post/nestjs-cheatsheet-sequelize-examples/)
+## Cheat sheet
+- [Nest.js Cheatsheet (github.com)](https://gist.github.com/guiliredu/0aa9e4d338bbeeac369a597e87c9ba46)
+- [Nestjs Cheatsheet Sequelize Examples | Nestjs Cheatsheet Sequelize Examples | Useful NodeJS Tricks, JavaScript Tips, Tricks and Best Practices (nextjsvietnam.com)](https://nextjsvietnam.com/post/nestjs-cheatsheet-sequelize-examples/)
 
 
 
@@ -49,8 +50,10 @@ Tìm hiểu về các concept trong đây [Nestjs Cheatsheet Sequelize Examples 
 - [NestJS Tìm hiểu về express và cách cài đặt NestJS - YouTube](https://www.youtube.com/watch?v=r1wiNS8YIxY&list=PLBDM9hnrmIVZ0HkYOZk5lBrGuGoEZ7Yfm)
 - [The Right way to write Nest.js & Typescript clean-code - SOLID - YouTube](https://www.youtube.com/watch?v=vE74gnv4VlY&t=82s)
 - [NestJS 1. Tạo project - Kết nối CSDL, Tạo Controller, Repository, Service - YouTube](https://www.youtube.com/watch?v=7c6uv6ZBiPk&list=PLybp0rGPozccefR7mVrsFLm2gtTO7BEFQ)
-- codebase tham khảo https://github.com/nguyenhoaikhang37/codebase_nestjs
-
---- 
+- codebase tham khảo
+	-  https://github.com/nguyenhoaikhang37/codebase_nestjs
+	- [tkssharma/nestjs-advance-course: nestjs advance course (github.com)](https://github.com/tkssharma/nestjs-advance-course)
+	
+---
 # Links to this page
 

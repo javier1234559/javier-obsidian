@@ -10,10 +10,13 @@ tags:
 
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 
+## Cheat sheet
+- [JavaScript cheat sheet - simplecheatsheet.com](https://simplecheatsheet.com/javascript#javascript-requests-javascript)
+- 
 --- 
 # References
 Blog : [10+ tài liệu JavaScript từ cơ bản đến nâng cao - Ehkoo](https://ehkoo.com/bai-viet/free-javascript-books-beginner-advanced)
-[[Learning Javascript Resources]]
+- [[Learning Javascript Resources]]
 
 
 --- 
