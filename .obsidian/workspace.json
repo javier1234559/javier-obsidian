@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-04-08.md",
+                "file": "docs/Project/Daily/2024-04-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-04-08.md",
+                "file": "docs/Project/Daily/2024-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-04-08.md",
+                "file": "docs/Project/Daily/2024-04-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-04-08.md"
+                "file": "docs/Project/Daily/2024-04-09.md"
               }
             }
           },
@@ -173,9 +173,10 @@
   },
   "active": "e96ba2237e3a2d26",
   "lastOpenFiles": [
-    "docs/Area/Technology/NestJS.md",
-    "docs/Project/Daily/2024-04-08.md",
     "docs/Area/Technology/Flutter.md",
+    "docs/Project/Daily/2024-04-09.md",
+    "docs/Project/Daily/2024-04-08.md",
+    "docs/Area/Technology/NestJS.md",
     "docs/Area/Math/Computer Science Math.md",
     "docs/Area/index.md",
     "docs/Area/Math",
@@ -209,7 +210,6 @@
     "docs/Area/Youtuber",
     "docs/Area/English/English Roadmap.md",
     "docs/Area/English/English plan.md",
-    "docs/Resource/Life/Friend Birthday.md",
     "DataLoom/Untitled.loom",
     "DataLoom/Untitled 1.loom",
     "docs/Files/Pasted image 20240222195525.png",
