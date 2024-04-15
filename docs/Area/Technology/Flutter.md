@@ -6,7 +6,7 @@ tags:
 ---
 
 # Dart
-
+- [Factory Constructor in Dart :: Dart Tutorial - Learn Dart Programming (dart-tutorial.com)](https://dart-tutorial.com/object-oriented-programming/factory-constructor-in-dart/)
 - [Dart Cheat Sheet - Full bộ các syntax trong ngôn ngữ Dart (200lab.io)](https://200lab.io/blog/dart-cheat-sheet-full-bo-bo-tui-cac-syntax-trong-ngon-ngu-dart/)
 - [The Best & Most Complete Dart Course - Visualize, Learn and Practice all Dart Language Concepts! (youtube.com)](https://www.youtube.com/watch?v=F3JuuYuOUK4&ab_channel=Flutterly)
 
