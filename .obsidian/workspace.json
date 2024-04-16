@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "edc5490481a82abb",
+        "id": "962f5d25b85f6886",
         "type": "tabs",
         "children": [
           {
-            "id": "e96ba2237e3a2d26",
+            "id": "18b9726eeb9cd534",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,10 +171,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e96ba2237e3a2d26",
+  "active": "18b9726eeb9cd534",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-04-14.md",
+    "docs/Area/Technology/DevOps.md",
     "docs/Project/Daily/2024-04-15.md",
+    "docs/Project/Daily/2024-04-14.md",
     "docs/Area/Technology/Flutter.md",
     "docs/Project/Daily/2024-04-09.md",
     "docs/Project/Daily/2024-04-08.md",
@@ -208,7 +209,6 @@
     "docs/Area/Technology/Top Blogs to learn and update technology.md",
     "docs/Area/Technology/4 Ways to Update UI in android.md",
     "docs/Area/Technology/Android.md",
-    "docs/Area/English/random-word-in-18-09-23.md",
     "docs/Area/Youtuber",
     "DataLoom/Untitled.loom",
     "DataLoom/Untitled 1.loom",
