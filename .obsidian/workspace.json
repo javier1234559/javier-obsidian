@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-04-18.md",
+                "file": "docs/Area/Technology/Flutter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-04-18.md",
+                "file": "docs/Area/Technology/Flutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-04-18.md",
+                "file": "docs/Area/Technology/Flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-04-18.md"
+                "file": "docs/Area/Technology/Flutter.md"
               }
             }
           },
@@ -173,9 +173,9 @@
   },
   "active": "18b9726eeb9cd534",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-04-17.md",
     "docs/Project/Daily/2024-04-18.md",
     "docs/Project/Daily/2024-04-15.md",
+    "docs/Project/Daily/2024-04-17.md",
     "docs/Area/Technology/DevOps.md",
     "docs/Project/Daily/2024-04-14.md",
     "docs/Area/Technology/Flutter.md",
