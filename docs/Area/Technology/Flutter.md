@@ -14,11 +14,17 @@ tags:
 # Flutter
  ## Fundermental
 - [Flutter cơ bản: Điều cần biết về lập trình ứng dụng đầu tiên (200lab.io)](https://200lab.io/blog/flutter-co-ban-xay-dung-ung-dung-dau-tien/)
-- Api : [MaterialApp class - material library - Dart API (flutter.dev)](https://api.flutter.dev/flutter/material/MaterialApp-class.html?ref=200lab.io)
-- [Flutter samples](https://flutter.github.io/samples/#)
-- [[Sharky] PlantMore app review. - YouTube](https://www.youtube.com/watch?v=kij98crwXK8&ab_channel=SharkyL%E1%BA%ADpTr%C3%ACnh)
-- Crashcourse: [Flutter Tutorial For Beginners in 3 Hours - YouTube](https://www.youtube.com/watch?v=CD1Y2DmL5JM&ab_channel=FlutterMapp)
-#### Advance
+- Api :
+	-  [MaterialApp class - material library - Dart API (flutter.dev)](https://api.flutter.dev/flutter/material/MaterialApp-class.html?ref=200lab.io)
+	- [Flutter samples](https://flutter.github.io/samples/#)
+- Example :
+	-  [[Sharky] PlantMore app review. - YouTube](https://www.youtube.com/watch?v=kij98crwXK8&ab_channel=SharkyL%E1%BA%ADpTr%C3%ACnh)
+- Crashcourse:
+	-  [Flutter Tutorial For Beginners in 3 Hours - YouTube](https://www.youtube.com/watch?v=CD1Y2DmL5JM&ab_channel=FlutterMapp)
+- UI : 
+	- [UI & Layout 101 | FlutterFlow Docs](https://docs.flutterflow.io/widgets-and-components/ui-and-layout-101)
+#### Advance 
+
 
 
 --- 
