@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-04-23.md",
+                "file": "docs/Project/Daily/2024-04-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-04-23.md",
+                "file": "docs/Project/Daily/2024-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-04-23.md",
+                "file": "docs/Project/Daily/2024-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-04-23.md"
+                "file": "docs/Project/Daily/2024-04-24.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "a4b09918ab4d83d5",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-04-21.md",
     "docs/Project/Daily/2024-04-23.md",
+    "docs/Project/Daily/2024-04-24.md",
+    "docs/Project/Daily/2024-04-21.md",
     "docs/Project/Daily/2024-04-20.md",
     "docs/Project/Daily/2024-04-19.md",
     "docs/Area/Technology/Flutter.md",
@@ -208,7 +209,6 @@
     "docs/Project/Daily/2024-04-04.md",
     "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
     "docs/Project/Daily/2024-04-03.md",
-    "docs/Project/Daily/2024-04-02.md",
     "docs/Area/Youtuber",
     "DataLoom/Untitled.loom",
     "DataLoom/Untitled 1.loom",
