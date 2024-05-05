@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-05-04.md",
+                "file": "docs/Project/Daily/2024-05-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-05-04.md",
+                "file": "docs/Project/Daily/2024-05-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-05-04.md",
+                "file": "docs/Project/Daily/2024-05-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-05-04.md"
+                "file": "docs/Project/Daily/2024-05-05.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "a4b09918ab4d83d5",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-05-02.md",
     "docs/Project/Daily/2024-05-04.md",
+    "docs/Project/Daily/2024-05-05.md",
+    "docs/Project/Daily/2024-05-02.md",
     "docs/Project/Daily/2024-04-28.md",
     "docs/Project/Daily/2024-04-25.md",
     "docs/Project/Daily/2024-04-24.md",
@@ -199,7 +200,6 @@
     "docs/Area/Technology/Javascript.md",
     "docs/Area/Technology/Reactjs.md",
     "docs/Project/Daily/2024-04-05.md",
-    "Excalidraw/Drawing 2024-04-04 21.41.23.excalidraw.md",
     "docs/Files/Pasted Image 20240405103115_744.png",
     "docs/Files/Pasted Image 20240405103026_610.png",
     "docs/Files/Pasted Image 20240405102939_624.png",
