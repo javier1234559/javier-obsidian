@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-05-12.md",
+                "file": "docs/Project/Daily/2024-05-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-05-12.md",
+                "file": "docs/Project/Daily/2024-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-05-12.md",
+                "file": "docs/Project/Daily/2024-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-05-12.md"
+                "file": "docs/Project/Daily/2024-05-16.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "e851c83d61817ae1",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-05-07.md",
     "docs/Project/Daily/2024-05-12.md",
+    "docs/Project/Daily/2024-05-16.md",
+    "docs/Project/Daily/2024-05-07.md",
     "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md",
     "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
     "docs/Project/Daily/2024-05-05.md",
@@ -199,7 +200,6 @@
     "docs/Area/Math/Computer Science Math.md",
     "docs/Area/index.md",
     "docs/Area/Math",
-    "docs/Area/Technology/Web development all in one.md",
     "docs/Files/Pasted Image 20240405103115_744.png",
     "docs/Files/Pasted Image 20240405103026_610.png",
     "docs/Files/Pasted Image 20240405102939_624.png",
