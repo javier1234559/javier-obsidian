@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-05-16.md",
+                "file": "docs/Project/Daily/2024-05-17.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "95c2899a38cadb75",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-05-16.md",
+                "file": "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-05-16.md",
+                "file": "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-05-16.md"
+                "file": "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md"
               }
             }
           },
@@ -171,12 +182,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e851c83d61817ae1",
+  "active": "95c2899a38cadb75",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-05-12.md",
-    "docs/Project/Daily/2024-05-16.md",
-    "docs/Project/Daily/2024-05-07.md",
+    "README.md",
     "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md",
+    "docs/Project/Daily/2024-05-17.md",
+    "Excalidraw/Untitled.canvas",
+    "docs/Project/Daily/2024-05-16.md",
+    "docs/Project/Daily/2024-05-12.md",
+    "docs/Project/Daily/2024-05-07.md",
     "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
     "docs/Project/Daily/2024-05-05.md",
     "docs/Project/Daily/2024-04-23.md",
@@ -196,9 +211,6 @@
     "docs/Project/Daily/2024-04-14.md",
     "docs/Project/Daily/2024-04-09.md",
     "docs/Project/Daily/2024-04-08.md",
-    "docs/Area/Technology/NestJS.md",
-    "docs/Area/Math/Computer Science Math.md",
-    "docs/Area/index.md",
     "docs/Area/Math",
     "docs/Files/Pasted Image 20240405103115_744.png",
     "docs/Files/Pasted Image 20240405103026_610.png",
