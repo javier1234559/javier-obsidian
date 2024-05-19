@@ -23,9 +23,11 @@
             "id": "95c2899a38cadb75",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md"
+                "file": "docs/Project/Daily/2024-05-18.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md",
+                "file": "docs/Project/Daily/2024-05-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md",
+                "file": "docs/Project/Daily/2024-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md"
+                "file": "docs/Project/Daily/2024-05-18.md"
               }
             }
           },
@@ -184,9 +186,10 @@
   },
   "active": "95c2899a38cadb75",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md",
+    "docs/Project/Daily/2024-05-18.md",
     "README.md",
     "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md",
     "docs/Project/Daily/2024-05-17.md",
     "Excalidraw/Untitled.canvas",
     "docs/Project/Daily/2024-05-16.md",
@@ -210,7 +213,6 @@
     "docs/Area/Technology/DevOps.md",
     "docs/Project/Daily/2024-04-14.md",
     "docs/Project/Daily/2024-04-09.md",
-    "docs/Project/Daily/2024-04-08.md",
     "docs/Area/Math",
     "docs/Files/Pasted Image 20240405103115_744.png",
     "docs/Files/Pasted Image 20240405103026_610.png",
