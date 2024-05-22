@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-05-18.md",
+                "file": "docs/Project/Daily/2024-05-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-05-18.md",
+                "file": "docs/Project/Daily/2024-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-05-18.md",
+                "file": "docs/Project/Daily/2024-05-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-05-18.md"
+                "file": "docs/Project/Daily/2024-05-21.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "95c2899a38cadb75",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md",
     "docs/Project/Daily/2024-05-18.md",
+    "docs/Project/Daily/2024-05-21.md",
+    "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md",
     "README.md",
     "Excalidraw/Drawing 2024-03-30 20.26.59.excalidraw.md",
     "docs/Project/Daily/2024-05-17.md",
@@ -212,7 +213,6 @@
     "docs/Project/Daily/2024-04-17.md",
     "docs/Area/Technology/DevOps.md",
     "docs/Project/Daily/2024-04-14.md",
-    "docs/Project/Daily/2024-04-09.md",
     "docs/Area/Math",
     "docs/Files/Pasted Image 20240405103115_744.png",
     "docs/Files/Pasted Image 20240405103026_610.png",
