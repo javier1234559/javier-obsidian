@@ -1,6 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "docs/Files"
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "docs/Files",
+  "newFileFolderPath": "docs/Project/Issue"
 }

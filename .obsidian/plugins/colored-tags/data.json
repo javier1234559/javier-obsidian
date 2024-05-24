@@ -39,7 +39,8 @@
     "area/english": 2,
     "area/technology": 3,
     "area/school": 4,
-    "area/math": 5
+    "area/math": 5,
+    "issue": 22
   },
   "_version": 2
 }
