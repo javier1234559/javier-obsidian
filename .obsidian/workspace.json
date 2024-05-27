@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-05-21.md",
+                "file": "docs/Project/Daily/2024-05-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89a79297d3d28224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Project/Issue/flyctl comand is not found.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afdfd1f76f31b282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Project/Issue/Add env for docker image.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-05-21.md",
+                "file": "docs/Project/Issue/Add env for docker image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-05-21.md",
+                "file": "docs/Project/Issue/Add env for docker image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-05-21.md"
+                "file": "docs/Project/Issue/Add env for docker image.md"
               }
             }
           },
@@ -171,12 +196,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bce6264e01a511df",
+  "active": "afdfd1f76f31b282",
   "lastOpenFiles": [
+    "docs/Project/Issue/flyctl comand is not found.md",
+    "docs/Project/Issue/Add env for docker image.md",
+    "docs/Project/Daily/2024-05-26.md",
+    "docs/Project/Issue/Run Docker right on wsl2.md",
+    "docs/Project/Daily/2024-05-21.md",
     "docs/Project/Daily/2024-05-22.md",
     "docs/Project/Daily/2024-05-24.md",
     "docs/Templates/T10 ISSUE.md",
-    "docs/Project/Issue/Run Docker right on wsl2.md",
     "docs/Templates/T9 Todo.md",
     "docs/Templates/T8 Permanent.md",
     "docs/Templates/T7 Literature.md",
@@ -189,7 +218,6 @@
     "docs/Project/Daily/2024-05-17.md",
     "docs/Project/Daily/Untitled.md",
     "docs/Project/Issue",
-    "docs/Project/Daily/2024-05-21.md",
     "docs/Project/Daily/2024-05-18.md",
     "docs/Project/Daily/2024-05-23.md",
     "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md",
@@ -198,9 +226,6 @@
     "Excalidraw/Untitled.canvas",
     "docs/Project/Daily/2024-05-16.md",
     "docs/Project/Daily/2024-05-12.md",
-    "docs/Project/Daily/2024-05-07.md",
-    "Excalidraw/Drawing 2024-01-21 21.57.58.excalidraw.md",
-    "docs/Project/Daily/2024-05-05.md",
     "docs/Area/Math",
     "docs/Files/Pasted Image 20240405103115_744.png",
     "docs/Files/Pasted Image 20240405103026_610.png",
