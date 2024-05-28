@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Project/Daily/2024-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Project/Daily/2024-05-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Project/Daily/2024-05-26.md"
+              }
             }
           },
           {
