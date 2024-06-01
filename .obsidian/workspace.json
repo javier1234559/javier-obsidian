@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-05-29.md",
+                "file": "docs/Project/Daily/2024-05-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-05-29.md",
+                "file": "docs/Project/Daily/2024-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-05-29.md",
+                "file": "docs/Project/Daily/2024-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-05-29.md"
+                "file": "docs/Project/Daily/2024-05-30.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "3d7b83a7eac5b8a9",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-05-28.md",
     "docs/Project/Daily/2024-05-29.md",
+    "docs/Project/Daily/2024-05-30.md",
+    "docs/Project/Daily/2024-05-28.md",
     "docs/Project/Daily/2024-05-27.md",
     "docs/Project/Issue/Deploy Mysql to Fly.io and connect to Nodejs.md",
     "docs/Project/Issue/Add env for docker image.md",
@@ -199,7 +200,6 @@
     "docs/Project/Issue",
     "docs/Project/Daily/2024-05-18.md",
     "docs/Project/Daily/2024-05-23.md",
-    "Excalidraw/Drawing 2024-05-17 12.09.35.excalidraw.md",
     "Excalidraw/Untitled.canvas",
     "docs/Area/Math",
     "docs/Files/Pasted Image 20240405103115_744.png",
