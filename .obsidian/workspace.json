@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-06-04.md",
+                "file": "docs/Project/Daily/2024-06-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-06-04.md",
+                "file": "docs/Project/Daily/2024-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-06-04.md",
+                "file": "docs/Project/Daily/2024-06-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-06-04.md"
+                "file": "docs/Project/Daily/2024-06-05.md"
               }
             }
           },
@@ -173,8 +173,10 @@
   },
   "active": "3d7b83a7eac5b8a9",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-06-01.md",
+    "README.md",
+    "docs/Project/Daily/2024-06-05.md",
     "docs/Project/Daily/2024-06-04.md",
+    "docs/Project/Daily/2024-06-01.md",
     "docs/Project/Daily/2024-05-30.md",
     "docs/Project/Daily/2024-05-29.md",
     "docs/Project/Daily/2024-05-28.md",
@@ -197,8 +199,6 @@
     "docs/Templates/T3 MOC general.md",
     "docs/Templates/T2 Column template.md",
     "docs/Templates/T1 Project.md",
-    "docs/Project/Daily/2024-05-17.md",
-    "docs/Project/Daily/Untitled.md",
     "docs/Project/Issue",
     "Excalidraw/Untitled.canvas",
     "docs/Area/Math",
