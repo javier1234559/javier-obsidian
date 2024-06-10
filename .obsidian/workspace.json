@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "24aff3cd7d593b31",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,11 +178,10 @@
       "notion-like-tables:Create loom": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
-      "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open today": false
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "3d7b83a7eac5b8a9",
+  "active": "24aff3cd7d593b31",
   "lastOpenFiles": [
     "docs/Project/Issue/2024-06-08.md",
     "docs/Project/Daily/2024-06-05.md",
