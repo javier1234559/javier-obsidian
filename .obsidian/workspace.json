@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Issue/2024-06-20.md",
+                "file": "docs/Project/Issue/2024-06-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Issue/2024-06-20.md",
+                "file": "docs/Project/Issue/2024-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Issue/2024-06-20.md",
+                "file": "docs/Project/Issue/2024-06-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Issue/2024-06-20.md"
+                "file": "docs/Project/Issue/2024-06-23.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "d26f93a056c68cf5",
+            "id": "cf2794d6abcdcfab",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -172,8 +172,9 @@
   },
   "active": "8384d1d41c3c2efb",
   "lastOpenFiles": [
-    "docs/Project/Issue/2024-06-19.md",
     "docs/Project/Issue/2024-06-20.md",
+    "docs/Project/Issue/2024-06-23.md",
+    "docs/Project/Issue/2024-06-19.md",
     "docs/Project/Issue/2024-06-08.md",
     "docs/Project/Daily/2024-06-05.md",
     "docs/Project/Issue/2024-06-10.md",
@@ -197,7 +198,6 @@
     "docs/Templates/T9 Todo.md",
     "docs/Templates/T8 Permanent.md",
     "docs/Templates/T7 Literature.md",
-    "docs/Templates/T6 Fleeting.md",
     "docs/Project/Issue",
     "Excalidraw/Untitled.canvas",
     "docs/Area/Math",
