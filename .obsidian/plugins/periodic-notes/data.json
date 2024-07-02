@@ -4,7 +4,7 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "docs/Templates/T6 Todo List in Day.md",
+    "template": "docs/Templates/T9 Todo.md",
     "folder": "docs/Project/Daily",
     "enabled": true
   },

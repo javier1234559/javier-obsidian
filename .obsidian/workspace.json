@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "24d4d5af3d44b522",
+        "id": "c0c30ec9a8fc7167",
         "type": "tabs",
         "children": [
           {
-            "id": "8384d1d41c3c2efb",
+            "id": "95a0a069fa430f94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Issue/2024-06-23.md",
+                "file": "docs/Project/Issue/2024-07-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Issue/2024-06-23.md",
+                "file": "docs/Project/Issue/2024-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Issue/2024-06-23.md",
+                "file": "docs/Project/Issue/2024-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Issue/2024-06-23.md"
+                "file": "docs/Project/Issue/2024-07-02.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "cf2794d6abcdcfab",
+            "id": "8f2ab511b917c3f3",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -167,37 +167,38 @@
       "notion-like-tables:Create loom": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "8384d1d41c3c2efb",
+  "active": "95a0a069fa430f94",
   "lastOpenFiles": [
-    "docs/Project/Issue/2024-06-20.md",
-    "docs/Project/Issue/2024-06-23.md",
-    "docs/Project/Issue/2024-06-19.md",
-    "docs/Project/Issue/2024-06-08.md",
-    "docs/Project/Daily/2024-06-05.md",
-    "docs/Project/Issue/2024-06-10.md",
-    "docs/Project/Daily/2024-06-08.md",
-    "README.md",
-    "docs/Project/Daily/2024-06-04.md",
-    "docs/Project/Daily/2024-06-01.md",
-    "docs/Project/Daily/2024-05-30.md",
-    "docs/Project/Daily/2024-05-29.md",
-    "docs/Project/Daily/2024-05-28.md",
-    "docs/Project/Daily/2024-05-27.md",
-    "docs/Project/Issue/Deploy Mysql to Fly.io and connect to Nodejs.md",
-    "docs/Project/Issue/Add env for docker image.md",
-    "docs/Project/Issue/flyctl comand is not found.md",
-    "docs/Project/Daily/2024-05-26.md",
-    "docs/Project/Issue/Run Docker right on wsl2.md",
-    "docs/Project/Daily/2024-05-21.md",
-    "docs/Project/Daily/2024-05-22.md",
-    "docs/Project/Daily/2024-05-24.md",
-    "docs/Templates/T10 ISSUE.md",
+    "docs/Project/Issue/2024-07-01.md",
+    "docs/Project/Issue/2024-07-02.md",
+    "docs/Project/Daily/2024-06-25.md",
+    "docs/Project/Daily/2024-06-29.md",
     "docs/Templates/T9 Todo.md",
-    "docs/Templates/T8 Permanent.md",
-    "docs/Templates/T7 Literature.md",
+    "docs/Area/Technology/SSH key and SSH key agent.md",
+    "docs/Project/Issue/2024-06-29.md",
+    "docs/Project/Daily/2024-06-23.md",
+    "docs/Project/Daily/2024-06-27.md",
+    "docs/Project/Issue/2024-06-28.md",
+    "docs/Project/Daily/2024-06-08 1.md",
+    "docs/Main MOC.md",
+    "docs/index.md",
+    "README.md",
+    "docs/Project/Daily/2024-05-29.md",
+    "docs/Project/Daily/2024-05-30.md",
+    "docs/Project/Daily/2024-06-01.md",
+    "docs/Project/Daily/2024-06-04.md",
+    "docs/Project/Daily/2024-06-05.md",
+    "docs/Project/Daily/2024-06-08.md",
+    "docs/Project/Daily/todo-in-19-09-23.md",
+    "docs/Project/Daily/2023-10-20.md",
+    "docs/Project/Daily/todo-in-07-10-23.md",
+    "docs/Project/Daily/todo-in-03-10-23.md",
+    "docs/Project/Daily/todo-in-02-10-23.md",
+    "docs/Project/Daily/todo-in-01-10-23.md",
     "docs/Project/Issue",
     "Excalidraw/Untitled.canvas",
     "docs/Area/Math",
