@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Issue/2024-07-02.md",
+                "file": "docs/Project/Issue/2024-07-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Issue/2024-07-02.md",
+                "file": "docs/Project/Issue/2024-07-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Issue/2024-07-02.md",
+                "file": "docs/Project/Issue/2024-07-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Issue/2024-07-02.md"
+                "file": "docs/Project/Issue/2024-07-04.md"
               }
             }
           },
@@ -167,13 +167,15 @@
       "notion-like-tables:Create loom": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "95a0a069fa430f94",
   "lastOpenFiles": [
-    "docs/Project/Issue/2024-07-01.md",
     "docs/Project/Issue/2024-07-02.md",
+    "docs/Project/Issue/2024-07-04.md",
+    "docs/Project/Issue/2024-07-01.md",
     "docs/Project/Daily/2024-06-25.md",
     "docs/Project/Daily/2024-06-29.md",
     "docs/Templates/T9 Todo.md",
@@ -197,7 +199,6 @@
     "docs/Project/Daily/todo-in-07-10-23.md",
     "docs/Project/Daily/todo-in-03-10-23.md",
     "docs/Project/Daily/todo-in-02-10-23.md",
-    "docs/Project/Daily/todo-in-01-10-23.md",
     "docs/Project/Issue",
     "Excalidraw/Untitled.canvas",
     "docs/Area/Math",
