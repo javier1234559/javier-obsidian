@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-07-12.md",
+                "file": "docs/Project/Daily/2024-07-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-07-12.md",
+                "file": "docs/Project/Daily/2024-07-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-07-12.md",
+                "file": "docs/Project/Daily/2024-07-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-07-12.md"
+                "file": "docs/Project/Daily/2024-07-14.md"
               }
             }
           },
@@ -167,13 +167,16 @@
       "notion-like-tables:Create loom": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "dd70bc94a55eadab",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-06-20.md",
+    "docs/Project/Daily/2024-07-13.md",
+    "docs/Project/Daily/2024-07-14.md",
     "docs/Project/Daily/2024-07-12.md",
+    "docs/Project/Daily/2024-06-20.md",
     "docs/Project/Daily/2024-07-12 1.md",
     "docs/Project/Daily/2024-06-08 1.md",
     "docs/Project/Daily/2024-06-19.md",
@@ -196,8 +199,6 @@
     "docs/index.md",
     "README.md",
     "docs/Project/Daily/2024-05-29.md",
-    "docs/Project/Daily/2024-05-30.md",
-    "docs/Project/Daily/2024-06-01.md",
     "docs/Project/Issue",
     "Excalidraw/Untitled.canvas",
     "docs/Area/Math",
