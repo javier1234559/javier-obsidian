@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-07-14.md",
+                "file": "docs/Project/Daily/2024-07-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-07-14.md",
+                "file": "docs/Project/Daily/2024-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-07-14.md",
+                "file": "docs/Project/Daily/2024-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-07-14.md"
+                "file": "docs/Project/Daily/2024-07-15.md"
               }
             }
           },
@@ -170,12 +170,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "01f0abb654d4f89d",
+  "active": "dd70bc94a55eadab",
   "lastOpenFiles": [
+    "docs/Project/Daily/2024-07-14.md",
+    "docs/Project/Daily/2024-07-15.md",
     "docs/Files/Pasted image 20240714172727.png",
     "docs/Files/Pasted image 20240714172704.png",
     "docs/Project/Daily/2024-07-13.md",
-    "docs/Project/Daily/2024-07-14.md",
     "docs/Project/Daily/2024-07-12.md",
     "docs/Project/Daily/2024-06-20.md",
     "docs/Project/Daily/2024-07-12 1.md",
@@ -210,7 +211,6 @@
     "docs/Files/Pasted Image 20240405102853_623.png",
     "docs/Files/Pasted Image 20240405102718_610.png",
     "docs/Files/Pasted Image 20240405102703_609.png",
-    "docs/Files/Pasted Image 20240405102617_472.png",
     "docs/Area/Youtuber",
     "DataLoom/Untitled.loom",
     "DataLoom/Untitled 1.loom",
