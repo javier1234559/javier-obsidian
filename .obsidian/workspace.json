@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "665613a61ec9319c",
+            "id": "01f0abb654d4f89d",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +170,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dd70bc94a55eadab",
+  "active": "01f0abb654d4f89d",
   "lastOpenFiles": [
+    "docs/Files/Pasted image 20240714172727.png",
+    "docs/Files/Pasted image 20240714172704.png",
     "docs/Project/Daily/2024-07-13.md",
     "docs/Project/Daily/2024-07-14.md",
     "docs/Project/Daily/2024-07-12.md",
@@ -198,7 +199,6 @@
     "docs/Main MOC.md",
     "docs/index.md",
     "README.md",
-    "docs/Project/Daily/2024-05-29.md",
     "docs/Project/Issue",
     "Excalidraw/Untitled.canvas",
     "docs/Area/Math",
@@ -214,7 +214,6 @@
     "docs/Area/Youtuber",
     "DataLoom/Untitled.loom",
     "DataLoom/Untitled 1.loom",
-    "docs/Files/Pasted image 20240222195525.png",
     "docs/Project/Toeic Test is comming",
     "Untitled.canvas",
     "docs/Project/VocabApp",
