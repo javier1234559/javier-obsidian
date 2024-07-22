@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-07-16.md",
+                "file": "docs/Project/Daily/2024-07-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-07-16.md",
+                "file": "docs/Project/Daily/2024-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-07-16.md",
+                "file": "docs/Project/Daily/2024-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-07-16.md"
+                "file": "docs/Project/Daily/2024-07-17.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "dd70bc94a55eadab",
   "lastOpenFiles": [
-    "docs/Resource/Short cut Vscode.md",
     "docs/Project/Daily/2024-07-16.md",
+    "docs/Project/Daily/2024-07-17.md",
+    "docs/Resource/Short cut Vscode.md",
     "docs/Project/Daily/2024-07-15.md",
     "docs/Project/Daily/2024-07-14.md",
     "docs/Files/Pasted image 20240714172727.png",
@@ -199,7 +200,6 @@
     "docs/Area/Technology/SSH key and SSH key agent.md",
     "docs/Project/Issue/2024-06-29.md",
     "docs/Project/Issue/2024-06-28.md",
-    "docs/Main MOC.md",
     "docs/Project/Issue",
     "Excalidraw/Untitled.canvas",
     "docs/Area/Math",
