@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-07-04.md",
+                "file": "docs/Project/Daily/2024-07-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-07-04.md",
+                "file": "docs/Project/Daily/2024-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-07-04.md",
+                "file": "docs/Project/Daily/2024-07-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-07-04.md"
+                "file": "docs/Project/Daily/2024-07-24.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "c75700ecf59faf1e",
+            "id": "203ea57a036932c9",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -167,12 +167,17 @@
       "notion-like-tables:Create loom": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-day-planner:Timeline": false,
-      "periodic-notes:Open today": false
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c75700ecf59faf1e",
+  "active": "dd70bc94a55eadab",
   "lastOpenFiles": [
+    "docs/Area/Technology/PostgreSQL.md",
+    "docs/Project/Daily/2024-07-24.md",
+    "docs/Area/Technology/SSH key and SSH key agent.md",
+    "docs/Area/Technology/Chrome Extension.md",
+    "docs/Area/Technology/Bash Script.md",
+    "docs/Project/Daily/2024-07-04.md",
     "docs/Project/Daily/2024-07-08.md",
     "docs/Project/Daily/2024-07-12.md",
     "docs/Project/Daily/2024-07-13.md",
@@ -193,12 +198,6 @@
     "docs/Project/Daily/2024-01-31.md",
     "docs/Project/Daily/2024-01-27.md",
     "docs/Project/Daily/2024-01-23.md",
-    "docs/Project/Daily/2024-01-22.md",
-    "docs/Project/Daily/todo-in-30-09-23.md",
-    "docs/Project/Daily/todo-in-29-09-23.md",
-    "docs/Project/Daily/todo-in-28-09-23.md",
-    "docs/Project/Daily/todo-in-27-09-23.md",
-    "docs/Resource/Short cut Vscode.md",
     "docs/Files/Pasted image 20240714172727.png",
     "docs/Files/Pasted image 20240714172704.png",
     "docs/Project/Issue",
