@@ -12,6 +12,11 @@ sudo service postgresql restart
 
 ```
 
+Connect to postgresql
+```shell
+sudo -u postgres psql
+
+```
    
 
 
