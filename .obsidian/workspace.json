@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Issue/Run Docker right on wsl2.md",
+                "file": "docs/Project/Daily/2024-07-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Issue/Run Docker right on wsl2.md",
+                "file": "docs/Project/Daily/2024-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Issue/Run Docker right on wsl2.md",
+                "file": "docs/Project/Daily/2024-07-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Issue/Run Docker right on wsl2.md"
+                "file": "docs/Project/Daily/2024-07-26.md"
               }
             }
           },
@@ -172,6 +172,8 @@
   },
   "active": "dd70bc94a55eadab",
   "lastOpenFiles": [
+    "docs/Project/Issue/Run Docker right on wsl2.md",
+    "docs/Project/Daily/2024-07-26.md",
     "docs/Area/Technology/PostgreSQL.md",
     "docs/Project/Daily/2024-07-24.md",
     "docs/Area/Technology/SSH key and SSH key agent.md",
@@ -196,8 +198,6 @@
     "docs/Project/Daily/2024-02-02.md",
     "docs/Project/Daily/2024-02-01.md",
     "docs/Project/Daily/2024-01-31.md",
-    "docs/Project/Daily/2024-01-27.md",
-    "docs/Project/Daily/2024-01-23.md",
     "docs/Files/Pasted image 20240714172727.png",
     "docs/Files/Pasted image 20240714172704.png",
     "docs/Project/Issue",
