@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-08-09.md",
+                "file": "docs/Project/Daily/2024-08-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-08-09.md",
+                "file": "docs/Project/Daily/2024-08-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-08-09.md",
+                "file": "docs/Project/Daily/2024-08-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-08-09.md"
+                "file": "docs/Project/Daily/2024-08-10.md"
               }
             }
           },
@@ -167,13 +167,15 @@
       "notion-like-tables:Create loom": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "dd70bc94a55eadab",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-08-07.md",
     "docs/Project/Daily/2024-08-09.md",
+    "docs/Project/Daily/2024-08-10.md",
+    "docs/Project/Daily/2024-08-07.md",
     "docs/Project/Daily/2024-08-05.md",
     "docs/Project/Daily/2024-08-04.md",
     "docs/Project/Daily/2024-08-01.md",
@@ -197,7 +199,6 @@
     "docs/Project/Daily/2024-07-17.md",
     "docs/Project/Daily/2024-07-22.md",
     "docs/Project/Daily/2023-10-29.md",
-    "docs/Project/Daily/2023-10-26.md",
     "docs/Files/Pasted image 20240714172727.png",
     "docs/Files/Pasted image 20240714172704.png",
     "docs/Project/Issue",
