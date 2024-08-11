@@ -167,8 +167,7 @@
       "notion-like-tables:Create loom": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-day-planner:Timeline": false,
-      "periodic-notes:Open today": false
+      "obsidian-day-planner:Timeline": false
     }
   },
   "active": "dd70bc94a55eadab",
