@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d7f1a380e613d25d",
+        "id": "e6c6b3997e64ceab",
         "type": "tabs",
         "children": [
           {
-            "id": "9dfeed3bba6e3f42",
+            "id": "f94c6a3cfb972c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-08-17.md",
-                "mode": "source",
+                "file": "docs/Area/Technology/Prisma.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-08-17.md",
+                "file": "docs/Area/Technology/Prisma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-08-17.md",
+                "file": "docs/Area/Technology/Prisma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-08-17.md"
+                "file": "docs/Area/Technology/Prisma.md"
               }
             }
           },
@@ -170,10 +170,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "9dfeed3bba6e3f42",
+  "active": "f94c6a3cfb972c68",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-08-16.md",
+    "docs/Project/Daily/2024-08-18.md",
+    "docs/Area/Technology/Prisma.md",
     "docs/Project/Daily/2024-08-17.md",
+    "docs/Project/Daily/2024-08-16.md",
     "docs/Project/Issue/Run Docker right on wsl2.md",
     "docs/Project/Daily/2024-08-13.md",
     "docs/Area/Technology/SSH key and SSH key agent.md",
@@ -196,8 +198,6 @@
     "docs/Project/Daily/2024-07-04.md",
     "docs/Project/Daily/2024-07-08.md",
     "docs/Project/Daily/2024-07-12.md",
-    "docs/Project/Daily/2024-07-13.md",
-    "docs/Project/Daily/2024-07-15.md",
     "docs/Files/Pasted image 20240714172727.png",
     "docs/Files/Pasted image 20240714172704.png",
     "docs/Project/Issue",
