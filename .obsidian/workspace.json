@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-08-16.md",
+                "file": "docs/Project/Daily/2024-08-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-08-16.md",
+                "file": "docs/Project/Daily/2024-08-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-08-16.md",
+                "file": "docs/Project/Daily/2024-08-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-08-16.md"
+                "file": "docs/Project/Daily/2024-08-17.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "203ea57a036932c9",
+            "id": "36bd1cf46cb7468f",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -172,8 +172,9 @@
   },
   "active": "9dfeed3bba6e3f42",
   "lastOpenFiles": [
-    "docs/Project/Issue/Run Docker right on wsl2.md",
     "docs/Project/Daily/2024-08-16.md",
+    "docs/Project/Daily/2024-08-17.md",
+    "docs/Project/Issue/Run Docker right on wsl2.md",
     "docs/Project/Daily/2024-08-13.md",
     "docs/Area/Technology/SSH key and SSH key agent.md",
     "docs/Project/Daily/2024-08-12.md",
@@ -197,7 +198,6 @@
     "docs/Project/Daily/2024-07-12.md",
     "docs/Project/Daily/2024-07-13.md",
     "docs/Project/Daily/2024-07-15.md",
-    "docs/Project/Daily/2024-07-16.md",
     "docs/Files/Pasted image 20240714172727.png",
     "docs/Files/Pasted image 20240714172704.png",
     "docs/Project/Issue",
