@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:area/english",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "36bd1cf46cb7468f",
+            "id": "364497fed6294669",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +169,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f94c6a3cfb972c68",
+  "active": "b0fdb3f1f9efd775",
   "lastOpenFiles": [
+    "docs/Files/Pasted image 20240821153928.png",
+    "docs/Archive/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
+    "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
+    "docs/Archive/School/Testing/Tóm tắt lý thuyết môn Testing.md",
+    "docs/Area/Technology/Python.md",
     "docs/Project/Daily/2024-08-21.md",
     "docs/Area/Technology/Prisma.md",
     "docs/Project/Daily/2024-08-18.md",
@@ -193,11 +197,6 @@
     "docs/Project/Daily/2024-07-26.md",
     "docs/Project/Daily/2024-07-27.md",
     "docs/Area/Technology/PostgreSQL.md",
-    "docs/Project/Daily/2024-07-24.md",
-    "docs/Area/Technology/Chrome Extension.md",
-    "docs/Area/Technology/Bash Script.md",
-    "docs/Project/Daily/2024-07-04.md",
-    "docs/Project/Daily/2024-07-08.md",
     "docs/Files/Pasted image 20240714172727.png",
     "docs/Files/Pasted image 20240714172704.png",
     "docs/Project/Issue",
