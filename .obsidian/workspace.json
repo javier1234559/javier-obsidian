@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-08-21.md",
+                "file": "docs/Project/Daily/2024-08-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-08-21.md",
+                "file": "docs/Project/Daily/2024-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-08-21.md",
+                "file": "docs/Project/Daily/2024-08-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-08-21.md"
+                "file": "docs/Project/Daily/2024-08-23.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,14 +170,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b0fdb3f1f9efd775",
+  "active": "f94c6a3cfb972c68",
   "lastOpenFiles": [
+    "docs/Project/Daily/2024-08-21.md",
+    "docs/Project/Daily/2024-08-23.md",
     "docs/Files/Pasted image 20240821153928.png",
     "docs/Archive/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
     "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
     "docs/Archive/School/Testing/Tóm tắt lý thuyết môn Testing.md",
     "docs/Area/Technology/Python.md",
-    "docs/Project/Daily/2024-08-21.md",
     "docs/Area/Technology/Prisma.md",
     "docs/Project/Daily/2024-08-18.md",
     "docs/Project/Daily/2024-08-17.md",
@@ -209,7 +211,6 @@
     "docs/Files/Pasted Image 20240405102924_614.png",
     "docs/Files/Pasted Image 20240405102853_623.png",
     "docs/Files/Pasted Image 20240405102718_610.png",
-    "docs/Files/Pasted Image 20240405102703_609.png",
     "docs/Area/Youtuber",
     "DataLoom/Untitled.loom",
     "DataLoom/Untitled 1.loom",
