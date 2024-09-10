@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-08-30.md",
+                "file": "docs/Project/Issue/2024-09-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-08-30.md",
+                "file": "docs/Project/Issue/2024-09-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-08-30.md",
+                "file": "docs/Project/Issue/2024-09-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-08-30.md"
+                "file": "docs/Project/Issue/2024-09-07.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "364497fed6294669",
+            "id": "9318ca10a6e219c7",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -160,7 +160,6 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
@@ -168,13 +167,16 @@
       "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
+      "daily-notes:Open today's daily note": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "f94c6a3cfb972c68",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-08-24.md",
+    "README.md",
+    "docs/Project/Issue/2024-09-07.md",
     "docs/Project/Daily/2024-08-30.md",
+    "docs/Project/Daily/2024-08-24.md",
     "docs/Project/Daily/2024-08-23.md",
     "docs/Project/Daily/2024-08-21.md",
     "docs/Files/Pasted image 20240821153928.png",
@@ -198,8 +200,6 @@
     "docs/Project/Daily/2024-08-01.md",
     "docs/Project/Daily/2024-07-31.md",
     "docs/Project/Daily/2024-07-30.md",
-    "docs/Project/Daily/2024-07-29.md",
-    "docs/Project/Daily/2024-07-26.md",
     "docs/Files/Pasted image 20240714172727.png",
     "docs/Files/Pasted image 20240714172704.png",
     "docs/Project/Issue",
