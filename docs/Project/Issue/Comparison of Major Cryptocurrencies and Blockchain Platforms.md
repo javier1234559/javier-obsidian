@@ -1,7 +1,7 @@
 ---
 Created: 15:41 07-09-2024
 tags:
-  - todo
+  - issue
 ---
 
 # Comparison of Major Cryptocurrencies and Blockchain Platforms

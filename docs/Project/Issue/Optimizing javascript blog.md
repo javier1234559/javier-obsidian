@@ -1,8 +1,6 @@
 ---
 Created: 17:02 10-09-2024
 tags:
-  - todo
+  - issue
 ---
 https://romgrk.com/posts/optimizing-javascript
-
-https://vhudyma-blog.eu/react-hooks-useref/

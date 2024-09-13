@@ -1,8 +1,7 @@
 ---
 Created: 17:00 31-03-2024
 tags:
-  - area
-  - area/technology
+  - issue
 ---
 
 # 4 Ways to Update UI in android

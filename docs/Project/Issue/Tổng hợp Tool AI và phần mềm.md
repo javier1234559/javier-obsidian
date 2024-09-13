@@ -1,9 +1,7 @@
 ---
 Created: 22:18 21-09-2023
 Link: "[[MOC Technology]]"
-tags:
-  - secondbrain
-  - secondbrain/technology
+tags: []
 ---
 # Tổng hợp Tool AI và phần mềm
 

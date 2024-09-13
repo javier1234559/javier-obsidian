@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6c6b3997e64ceab",
+        "id": "d44b426581a31789",
         "type": "tabs",
         "children": [
           {
-            "id": "f94c6a3cfb972c68",
+            "id": "55d0e84b32eeec74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Issue/2024-09-10.md",
+                "file": "docs/Area/Technology/Data structure and Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Issue/2024-09-10.md",
+                "file": "docs/Area/Technology/Data structure and Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Issue/2024-09-10.md",
+                "file": "docs/Area/Technology/Data structure and Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Issue/2024-09-10.md"
+                "file": "docs/Area/Technology/Data structure and Algorithm.md"
               }
             }
           },
@@ -171,10 +171,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f94c6a3cfb972c68",
+  "active": "55d0e84b32eeec74",
   "lastOpenFiles": [
-    "docs/Project/Issue/2024-09-07.md",
-    "docs/Project/Issue/2024-09-10.md",
+    "docs/Project/Issue/MOC Technology.md",
+    "docs/Project/Issue/Tổng hợp Tool AI và phần mềm.md",
+    "docs/Project/Issue/4 Ways to Update UI in android.md",
+    "docs/Area/Technology/Javascript.md",
+    "docs/Project/Issue/Chia lấy dư trong lập trình.md",
+    "docs/Project/Issue/Short cut Vscode.md",
+    "docs/Project/Issue/Run Docker right on wsl2.md",
+    "docs/Project/Issue/flyctl comand is not found.md",
+    "docs/Project/Issue/Deploy Mysql to Fly.io and connect to Nodejs.md",
+    "docs/Project/Issue/Add env for docker image.md",
+    "docs/Project/Issue/Comparison of Major Cryptocurrencies and Blockchain Platforms.md",
+    "docs/Project/Issue/Optimizing javascript blog.md",
+    "docs/Project/Issue/useRef in reactjs deep dive.md",
+    "docs/Project/Daily/2024-09-13.md",
+    "docs/Project/VocabApp/HandleForm.md",
     "README.md",
     "docs/Project/Daily/2024-08-30.md",
     "docs/Project/Daily/2024-08-24.md",
@@ -187,19 +200,6 @@
     "docs/Area/Technology/Python.md",
     "docs/Area/Technology/Prisma.md",
     "docs/Project/Daily/2024-08-18.md",
-    "docs/Project/Daily/2024-08-17.md",
-    "docs/Project/Daily/2024-08-16.md",
-    "docs/Project/Issue/Run Docker right on wsl2.md",
-    "docs/Project/Daily/2024-08-13.md",
-    "docs/Area/Technology/SSH key and SSH key agent.md",
-    "docs/Project/Daily/2024-08-12.md",
-    "docs/Project/Daily/2024-08-10.md",
-    "docs/Project/Daily/2024-08-09.md",
-    "docs/Project/Daily/2024-08-07.md",
-    "docs/Project/Daily/2024-08-05.md",
-    "docs/Project/Daily/2024-08-04.md",
-    "docs/Project/Daily/2024-08-01.md",
-    "docs/Project/Daily/2024-07-31.md",
     "docs/Files/Pasted image 20240714172727.png",
     "docs/Files/Pasted image 20240714172704.png",
     "docs/Project/Issue",

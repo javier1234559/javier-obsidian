@@ -1,8 +1,7 @@
 ---
 Created: 12:07 05-11-2023
 tags:
-  - area
-  - area/technology
+  - issue
 ---
 
 # Chia lấy dư trong lập trình
