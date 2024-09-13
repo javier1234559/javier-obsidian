@@ -1,6 +1,0 @@
-/* https://help.obsidian.md/Editing+and+formatting/Callouts */
-
-.callout[data-callout="custom-question-type"] {
-  --callout-color: 0, 0, 0;
-  --callout-icon: lucide-alert-circle;
-}

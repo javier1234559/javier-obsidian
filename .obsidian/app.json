@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "attachmentFolderPath": "docs/Files",
-  "newFileFolderPath": "docs/Project/Issue"
+  "newFileFolderPath": "docs/Project/Issue",
+  "defaultViewMode": "source"
 }

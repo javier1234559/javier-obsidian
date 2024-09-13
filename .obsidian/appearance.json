@@ -1,6 +1,6 @@
 {
-  "accentColor": "#f96d10",
-  "cssTheme": "Sanctum",
+  "accentColor": "#00a5a8",
+  "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
     "MCL Wide Views.sync-conflict-20230925-141409-SHOVBEZ",
     "MCL Wide Views",
@@ -15,7 +15,7 @@
     "header",
     "Gragh_view_color"
   ],
-  "theme": "obsidian",
+  "theme": "system",
   "monospaceFontFamily": "",
   "baseFontSize": 16
 }
