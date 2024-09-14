@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-09-13.md",
+                "file": "docs/Project/Issue/Comparison of Major Cryptocurrencies and Blockchain Platforms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-09-13.md",
+                "file": "docs/Project/Issue/Comparison of Major Cryptocurrencies and Blockchain Platforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-09-13.md",
+                "file": "docs/Project/Issue/Comparison of Major Cryptocurrencies and Blockchain Platforms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-09-13.md"
+                "file": "docs/Project/Issue/Comparison of Major Cryptocurrencies and Blockchain Platforms.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-09-13.md",
+                "file": "docs/Project/Issue/Comparison of Major Cryptocurrencies and Blockchain Platforms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-09-13.md"
+                "file": "docs/Project/Issue/Comparison of Major Cryptocurrencies and Blockchain Platforms.md"
               }
             }
           }
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-09-13.md",
+                "file": "docs/Project/Issue/Comparison of Major Cryptocurrencies and Blockchain Platforms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,53 +258,53 @@
   },
   "active": "1b2b0f8f87a8b53c",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-09-13.md",
-    "docs/Project/Issue/Tailwind CSS Grid Guide.md",
-    "docs/Project/Issue/All hook in react cheat sheet.md",
+    "docs/Project/Issue/Short cut Vscode.md",
+    "docs/Project/Issue/flyctl comand is not found.md",
+    "docs/Project/Issue/useRef in reactjs deep dive.md",
+    "docs/Project/Issue/2024-09-15.md",
+    "piecesdb.json",
+    "mkdocs.yml",
+    "docs/index.md",
+    "docs/Templates/T9 Todo.md",
+    "docs/Templates/T8 Permanent.md",
+    "docs/Templates/T7 Literature.md",
+    "docs/Templates/T6 Fleeting.md",
+    "docs/Templates/T5 Area.md",
+    "docs/Templates/T4 Callout.md",
+    "docs/Templates/T3 MOC general.md",
+    "docs/Templates/T2 Column template.md",
+    "docs/Templates/T10 ISSUE.md",
+    "docs/Templates/T1 Project.md",
+    "docs/Templates",
+    "docs/Resource/Life/Friend Birthday.md",
+    "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
+    "docs/Resource/index.md",
+    "docs/Resource/Life",
+    "docs/Resource",
+    "docs/Project/VocabApp/HandleForm.md",
+    "docs/Project/Daily/todo-in-30-09-23.md",
+    "docs/Project/Daily/todo-in-29-09-23.md",
+    "docs/Project/Daily/todo-in-28-09-23.md",
+    "docs/Project/Daily/todo-in-27-09-23.md",
+    "docs/Project/Daily/todo-in-25-09-23.md",
+    "docs/Project/Daily/todo-in-22-09-23.md",
+    "docs/Project/Daily/todo-in-21-09-23.md",
+    "docs/Project/VocabApp",
+    "docs/Project/Issue",
+    "docs/Project/Daily",
+    "docs/Project",
     "docs/Files/Pasted image 20240913190437.png",
-    "docs/Area/Math/Computer Science Math.md",
-    "docs/Area/Technology/Web development all in one.md",
-    "docs/Area/Technology/UX and UI.md",
-    "docs/Area/Technology/Nơi take note mọi ý tưởng công nghệ.md",
-    "docs/Area/Technology/Artificial intelligence all in one.md",
-    "docs/Area/Technology/Android.md",
-    "docs/Area/index.md",
-    "docs/Archive/Zettelkasten/index.md",
-    "docs/Area/Technology/Business Analyst all in one.md",
-    "docs/Area/English/Nguyên tắc phát âm của ed và s và es trong tiếng Anh.md",
-    "docs/Area/English/English Roadmap.md",
-    "docs/Area/English/English plan.md",
-    "docs/Archive/School/Testing/Tóm tắt lý thuyết môn Testing.md",
-    "docs/Archive/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng.md",
-    "docs/Archive/School/Testing/Chương 3 Kỹ thuật kiểm thử hộp trắng (tt).md",
-    "docs/Archive/School/New Technology/Note at School.md",
-    "docs/Archive/School/IT Project/Note at School.md",
-    "docs/Archive/School/Artificial Intelligence/Note at School.md",
-    "docs/Area/Technology/Javascript.md",
-    "docs/Project/Daily/2023-10-23.md",
-    "docs/Project/Daily/2023-11-04.md",
-    "docs/Project/Daily/2023-10-29.md",
-    "docs/Project/Daily/2023-10-27.md",
     "docs/Files/Pasted image 20240821153928.png",
     "docs/Files/Pasted image 20240714172727.png",
     "docs/Files/Pasted image 20240714172704.png",
-    "docs/Project/Issue",
+    "docs/Files/Pasted image 20240222195525.png",
+    "docs/Files/Pasted image 20240222163500.png",
+    "docs/Files/Pasted image 20240219141845.png",
+    "docs/Files/Pasted image 20231207124427.png",
+    "docs/Files/Pasted image 20231207124229.png",
+    "docs/Files/Pasted image 20231011160444.png",
+    "docs/Files",
     "Excalidraw/Untitled.canvas",
-    "docs/Area/Math",
-    "docs/Files/Pasted Image 20240405103115_744.png",
-    "docs/Files/Pasted Image 20240405103026_610.png",
-    "docs/Files/Pasted Image 20240405102939_624.png",
-    "docs/Files/Pasted Image 20240405102939_615.png",
-    "docs/Files/Pasted Image 20240405102924_614.png",
-    "docs/Files/Pasted Image 20240405102853_623.png",
-    "docs/Area/Youtuber",
-    "DataLoom/Untitled.loom",
-    "DataLoom/Untitled 1.loom",
-    "docs/Project/Toeic Test is comming",
-    "Untitled.canvas",
-    "docs/Project/VocabApp",
-    "docs/Area/Technology/Permanent Note",
-    "docs/Area/Technology/Literature Note",
-    "docs/Area/Technology/Fleeting Note"
+    "Untitled.canvas"
   ]
 }
