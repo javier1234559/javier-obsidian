@@ -4,7 +4,6 @@ tags:
   - issue
 ---
 
-TLDR: 
 ## Blog 
 https://dev.to/elhamnajeebullah/react-typescript-create-a-reusable-list-component-using-generic-4065
 ## Shadcn Example

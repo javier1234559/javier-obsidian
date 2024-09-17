@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "72e47246a60ff3e6",
+        "id": "5190530a8203d38e",
         "type": "tabs",
         "children": [
           {
-            "id": "79a2b3737698c3f2",
+            "id": "83152786e0b6ff23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-09-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff8671e15fef8d67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Project/Issue/Reusable column for data table with typescript and reactjs.md",
+                "file": "docs/Project/Daily/2024-09-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-09-15.md",
+                "file": "docs/Project/Daily/2024-09-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-09-15.md",
+                "file": "docs/Project/Daily/2024-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-09-15.md"
+                "file": "docs/Project/Daily/2024-09-17.md"
               }
             }
           },
@@ -163,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-09-15.md",
+                "file": "docs/Project/Daily/2024-09-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-09-15.md"
+                "file": "docs/Project/Daily/2024-09-17.md"
               }
             }
           }
@@ -215,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-09-15.md",
+                "file": "docs/Project/Daily/2024-09-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,11 +256,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "79a2b3737698c3f2",
+  "active": "83152786e0b6ff23",
   "lastOpenFiles": [
-    "docs/Project/Issue/ALL headlessUI lib like shadcn.md",
-    "docs/Project/Issue/Reusable column for data table with typescript and reactjs.md",
+    "docs/Project/Issue/Operator to use with utilities type.md",
+    "docs/Project/Daily/2024-09-17.md",
+    "docs/Project/Issue/Utilities type in typescripts.md",
+    "docs/Templates/T10 ISSUE.md",
     "docs/Project/Daily/2024-09-15.md",
+    "docs/Project/Issue/Reusable column for data table with typescript and reactjs.md",
+    "docs/Project/Issue/ALL headlessUI lib like shadcn.md",
     "docs/Project/Issue/Comparison of Major Cryptocurrencies and Blockchain Platforms.md",
     "docs/Project/Issue/Short cut Vscode.md",
     "docs/Project/Issue/flyctl comand is not found.md",
@@ -289,7 +281,6 @@
     "docs/Templates/T4 Callout.md",
     "docs/Templates/T3 MOC general.md",
     "docs/Templates/T2 Column template.md",
-    "docs/Templates/T10 ISSUE.md",
     "docs/Templates/T1 Project.md",
     "docs/Templates",
     "docs/Resource/Life/Friend Birthday.md",
@@ -298,9 +289,6 @@
     "docs/Resource/Life",
     "docs/Resource",
     "docs/Project/VocabApp/HandleForm.md",
-    "docs/Project/Daily/todo-in-30-09-23.md",
-    "docs/Project/Daily/todo-in-29-09-23.md",
-    "docs/Project/Daily/todo-in-28-09-23.md",
     "docs/Project/VocabApp",
     "docs/Project/Issue",
     "docs/Project/Daily",
