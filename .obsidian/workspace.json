@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-09-19.md",
+                "file": "docs/Project/Daily/2024-09-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-09-19.md",
+                "file": "docs/Project/Daily/2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-09-19.md",
+                "file": "docs/Project/Daily/2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-09-19.md"
+                "file": "docs/Project/Daily/2024-09-23.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-09-19.md",
+                "file": "docs/Project/Daily/2024-09-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-09-19.md"
+                "file": "docs/Project/Daily/2024-09-23.md"
               }
             }
           }
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-09-19.md",
+                "file": "docs/Project/Daily/2024-09-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,8 +258,11 @@
   },
   "active": "83152786e0b6ff23",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-09-18.md",
     "docs/Project/Daily/2024-09-19.md",
+    "docs/Project/Daily/2024-09-23.md",
+    "docs/Project/Issue/Google map lib.md",
+    "Excalidraw/Drawing 2024-09-19 23.28.00.excalidraw.md",
+    "docs/Project/Daily/2024-09-18.md",
     "docs/Project/Daily/2024-09-17.md",
     "docs/Project/Issue/Operator to use with utilities type.md",
     "docs/Project/Issue/Utilities type in typescripts.md",
@@ -283,10 +286,7 @@
     "docs/Templates/T4 Callout.md",
     "docs/Templates/T3 MOC general.md",
     "docs/Templates/T2 Column template.md",
-    "docs/Templates/T1 Project.md",
     "docs/Templates",
-    "docs/Resource/Life/Friend Birthday.md",
-    "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
     "docs/Resource/Life",
     "docs/Resource",
     "docs/Project/VocabApp",
