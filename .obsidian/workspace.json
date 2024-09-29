@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5190530a8203d38e",
+        "id": "11ceabe0d3330b02",
         "type": "tabs",
         "children": [
           {
-            "id": "83152786e0b6ff23",
+            "id": "ffd6b5cf50fc6ba2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Project/Daily/2024-09-23.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Project/Daily/2024-09-23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,7 +143,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-09-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Project/Daily/2024-09-23.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -203,7 +192,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-09-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,10 +244,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "83152786e0b6ff23",
+  "active": "ffd6b5cf50fc6ba2",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-09-19.md",
     "docs/Project/Daily/2024-09-23.md",
+    "docs/Files/Pasted image 20240923230706.png",
+    "docs/Files/Pasted image 20240923225210.png",
+    "docs/Files/Pasted image 20240923224503.png",
+    "docs/Project/Daily/2024-09-19.md",
     "docs/Project/Issue/Google map lib.md",
     "Excalidraw/Drawing 2024-09-19 23.28.00.excalidraw.md",
     "docs/Project/Daily/2024-09-18.md",
@@ -285,7 +276,6 @@
     "docs/Templates/T5 Area.md",
     "docs/Templates/T4 Callout.md",
     "docs/Templates/T3 MOC general.md",
-    "docs/Templates/T2 Column template.md",
     "docs/Templates",
     "docs/Resource/Life",
     "docs/Resource",
@@ -300,9 +290,6 @@
     "docs/Files/Pasted image 20240222195525.png",
     "docs/Files/Pasted image 20240222163500.png",
     "docs/Files/Pasted image 20240219141845.png",
-    "docs/Files/Pasted image 20231207124427.png",
-    "docs/Files/Pasted image 20231207124229.png",
-    "docs/Files/Pasted image 20231011160444.png",
     "docs/Files",
     "Excalidraw/Untitled.canvas",
     "Untitled.canvas"
