@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8fccedcf44efa0a3",
+        "id": "26744f12347fa4c0",
         "type": "tabs",
         "children": [
           {
-            "id": "1717c95cf85a2f57",
+            "id": "f2379d4b52b8052e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Project/Issue/Transition animation for a react.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2197bd7d9f9e060c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Project/Issue/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Issue/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Issue/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Project/Issue/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +143,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Issue/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Project/Issue/Untitled.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -216,7 +192,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Issue/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +214,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.31349212211735317,
+                  "scale": 0.3092833671374632,
                   "close": true
                 }
               }
@@ -269,10 +244,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2197bd7d9f9e060c",
+  "active": "f2379d4b52b8052e",
   "lastOpenFiles": [
+    "docs/Project/Issue/Cách phân tích chỉ số vàng.md",
+    "docs/Project/Issue/Định lượng của vàng.md",
+    "docs/Project/Issue/Các loại vàng ở thị trường VN.md",
+    "docs/Project/Issue/Các trang web xem giá vàng uy tín.md",
+    "docs/Project/Issue/Kênh vàng.md",
     "docs/Project/Issue/Transition animation for a react.md",
-    "docs/Project/Issue/Untitled.md",
     "docs/Project/Issue/A collective list of free APIs.md",
     "docs/Project/Issue/MOC Technology.md",
     "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
@@ -296,10 +275,6 @@
     "docs/Project/Issue/Reusable column for data table with typescript and reactjs.md",
     "docs/Project/Issue/ALL headlessUI lib like shadcn.md",
     "docs/Project/Issue/Comparison of Major Cryptocurrencies and Blockchain Platforms.md",
-    "docs/Project/Issue/Short cut Vscode.md",
-    "docs/Project/Issue/flyctl comand is not found.md",
-    "docs/Project/Issue/useRef in reactjs deep dive.md",
-    "docs/Project/Issue/2024-09-15.md",
     "piecesdb.json",
     "mkdocs.yml",
     "docs/Templates",
