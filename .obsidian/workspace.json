@@ -11,11 +11,28 @@
             "id": "f2379d4b52b8052e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Project/Daily/2024-04-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0df2f6ca1663e7b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md"
+              }
             }
           },
           {
@@ -143,6 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md"
+              }
             }
           }
         ],
@@ -192,6 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,37 +269,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f2379d4b52b8052e",
+  "active": "0df2f6ca1663e7b9",
   "lastOpenFiles": [
+    "docs/Project/Daily/2024-04-14.md",
+    "docs/Project/Issue/Quy trình truyển đổi USDT.md",
+    "docs/Project/Issue/Ranking popular of tech world.md",
+    "docs/Project/Daily/2024-04-17.md",
+    "docs/Project/Daily/2024-04-03.md",
+    "docs/Project/Daily/todo-in-01-10-23.md",
+    "docs/Project/Daily/todo-in-02-10-23.md",
+    "docs/Project/Daily/daily-in-18-09-23.md",
+    "docs/Project/Daily/Câu hỏi vấn đáp môn công nghệ phầm mềm mới.md",
+    "docs/Project/Daily/2024-08-18.md",
+    "docs/Project/Daily/2024-09-13.md",
+    "docs/Project/Daily/2024-08-30.md",
+    "docs/Project/Daily/2024-08-24.md",
+    "docs/Project/Daily/2024-08-23.md",
+    "docs/Project/Daily/2024-08-21.md",
+    "docs/Project/Daily/2024-08-16.md",
+    "docs/Project/Daily/2024-08-05.md",
+    "docs/Project/Daily/2024-08-13.md",
+    "docs/Project/Daily/2024-08-17.md",
+    "docs/Project/Daily/2024-08-07.md",
+    "docs/Project/Daily/2024-08-12.md",
+    "docs/Project/Daily/2024-08-10.md",
+    "docs/Project/Daily/2024-08-09.md",
+    "docs/Project/Daily/2024-08-01.md",
+    "docs/Project/Daily/2024-07-31.md",
     "docs/Project/Issue/Cách phân tích chỉ số vàng.md",
-    "docs/Project/Issue/Định lượng của vàng.md",
-    "docs/Project/Issue/Các loại vàng ở thị trường VN.md",
-    "docs/Project/Issue/Các trang web xem giá vàng uy tín.md",
-    "docs/Project/Issue/Kênh vàng.md",
-    "docs/Project/Issue/Transition animation for a react.md",
-    "docs/Project/Issue/A collective list of free APIs.md",
-    "docs/Project/Issue/MOC Technology.md",
-    "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
-    "docs/Archive/Zettelkasten/Fleeting/Top repository resource about technology.md",
-    "docs/Archive/Zettelkasten/Fleeting/Quora - What's the best way to take notes for English learning.md",
-    "docs/Project/Issue/Material UI tour.md",
-    "docs/Project/Issue/MUI Styling Methods From Basic to Advanced.md",
-    "docs/Project/Daily/2024-09-23.md",
     "docs/Files/Pasted image 20240923230706.png",
     "docs/Files/Pasted image 20240923225210.png",
     "docs/Files/Pasted image 20240923224503.png",
-    "docs/Project/Daily/2024-09-19.md",
-    "docs/Project/Issue/Google map lib.md",
-    "Excalidraw/Drawing 2024-09-19 23.28.00.excalidraw.md",
-    "docs/Project/Daily/2024-09-18.md",
-    "docs/Project/Daily/2024-09-17.md",
-    "docs/Project/Issue/Operator to use with utilities type.md",
-    "docs/Project/Issue/Utilities type in typescripts.md",
-    "docs/Templates/T10 ISSUE.md",
-    "docs/Project/Daily/2024-09-15.md",
-    "docs/Project/Issue/Reusable column for data table with typescript and reactjs.md",
-    "docs/Project/Issue/ALL headlessUI lib like shadcn.md",
-    "docs/Project/Issue/Comparison of Major Cryptocurrencies and Blockchain Platforms.md",
     "piecesdb.json",
     "mkdocs.yml",
     "docs/Templates",
