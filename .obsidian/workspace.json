@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ec91d45f2c349c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Project/Issue/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md",
+                "file": "docs/Project/Issue/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md",
+                "file": "docs/Project/Issue/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md"
+                "file": "docs/Project/Issue/Untitled.md"
               }
             }
           },
@@ -164,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md",
+                "file": "docs/Project/Issue/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md"
+                "file": "docs/Project/Issue/Untitled.md"
               }
             }
           }
@@ -216,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md",
+                "file": "docs/Project/Issue/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,10 +281,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0df2f6ca1663e7b9",
+  "active": "4ec91d45f2c349c5",
   "lastOpenFiles": [
-    "docs/Project/Daily/2024-04-14.md",
     "docs/Project/Issue/Quy trình truyển đổi USDT.md",
+    "docs/Project/Issue/Untitled.md",
+    "docs/Project/Daily/2024-04-14.md",
     "docs/Project/Issue/Ranking popular of tech world.md",
     "docs/Project/Daily/2024-04-17.md",
     "docs/Project/Daily/2024-04-03.md",
@@ -296,7 +309,6 @@
     "docs/Project/Daily/2024-08-09.md",
     "docs/Project/Daily/2024-08-01.md",
     "docs/Project/Daily/2024-07-31.md",
-    "docs/Project/Issue/Cách phân tích chỉ số vàng.md",
     "docs/Files/Pasted image 20240923230706.png",
     "docs/Files/Pasted image 20240923225210.png",
     "docs/Files/Pasted image 20240923224503.png",
