@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "26744f12347fa4c0",
+        "id": "cbd4b52bfe0a5fa1",
         "type": "tabs",
         "children": [
           {
-            "id": "f2379d4b52b8052e",
+            "id": "1d0f58e5f8da3243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-04-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0df2f6ca1663e7b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Project/Issue/Quy trình truyển đổi USDT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ec91d45f2c349c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Project/Daily/2024-10-08.md",
+                "file": "docs/Project/Daily/2024-10-09.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-10-08.md",
+                "file": "docs/Project/Daily/2024-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-10-08.md",
+                "file": "docs/Project/Daily/2024-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-10-08.md"
+                "file": "docs/Project/Daily/2024-10-09.md"
               }
             }
           },
@@ -176,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-10-08.md",
+                "file": "docs/Project/Daily/2024-10-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-10-08.md"
+                "file": "docs/Project/Daily/2024-10-09.md"
               }
             }
           }
@@ -228,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-10-08.md",
+                "file": "docs/Project/Daily/2024-10-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -281,8 +256,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4ec91d45f2c349c5",
+  "active": "1d0f58e5f8da3243",
   "lastOpenFiles": [
+    "docs/Project/Issue/Add env for docker image.md",
+    "docs/Project/Daily/2024-10-09.md",
+    "docs/Project/Issue/All hook in react cheat sheet.md",
+    "docs/Project/Daily/2024-10-08.md",
+    "docs/Project/Issue/2024-09-15.md",
+    "docs/Project/Daily/2024-04-14.md",
+    "docs/Project/Issue/Untitled.md",
     "docs/Files/Pasted image 20241009001934.png",
     "docs/Files/Pasted image 20241009001818.png",
     "docs/Files/Pasted image 20241009001759.png",
@@ -293,17 +275,12 @@
     "docs/Files/Pasted image 20241009000321.png",
     "docs/Files/Pasted image 20241009000143.png",
     "docs/Files/Pasted image 20241009000033.png",
-    "docs/Files/Pasted image 20241009000008.png",
     "docs/Project/Issue/Run Docker right on wsl2.md",
     "docs/Project/Issue/Short cut Vscode.md",
     "docs/Project/Issue/Deploy Mysql to Fly.io and connect to Nodejs.md",
     "docs/Project/Issue/4 Ways to Update UI in android.md",
-    "docs/Project/Issue/Add env for docker image.md",
-    "docs/Project/Daily/2024-10-08.md",
     "docs/Project/Issue/2024-10-08.md",
-    "docs/Project/Issue/Untitled.md",
     "docs/Project/Issue/Quy trình truyển đổi USDT.md",
-    "docs/Project/Daily/2024-04-14.md",
     "docs/Project/Issue/Ranking popular of tech world.md",
     "docs/Project/Daily/2024-04-17.md",
     "docs/Project/Daily/2024-04-03.md",
@@ -317,8 +294,6 @@
     "docs/Project/Daily/2024-08-24.md",
     "docs/Project/Daily/2024-08-23.md",
     "docs/Project/Daily/2024-08-21.md",
-    "docs/Project/Daily/2024-08-16.md",
-    "docs/Project/Daily/2024-08-05.md",
     "piecesdb.json",
     "mkdocs.yml",
     "docs/Templates",
