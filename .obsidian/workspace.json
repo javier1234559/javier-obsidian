@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-10-09.md",
+                "file": "docs/Area/Technology/Prisma.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Project/Daily/2024-10-09.md",
+                "file": "docs/Area/Technology/Prisma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Project/Daily/2024-10-09.md",
+                "file": "docs/Area/Technology/Prisma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-10-09.md"
+                "file": "docs/Area/Technology/Prisma.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-10-09.md",
+                "file": "docs/Area/Technology/Prisma.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-10-09.md"
+                "file": "docs/Area/Technology/Prisma.md"
               }
             }
           }
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-10-09.md",
+                "file": "docs/Area/Technology/Prisma.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,8 +258,8 @@
   },
   "active": "1d0f58e5f8da3243",
   "lastOpenFiles": [
-    "docs/Project/Issue/Add env for docker image.md",
     "docs/Project/Daily/2024-10-09.md",
+    "docs/Project/Issue/Add env for docker image.md",
     "docs/Project/Issue/All hook in react cheat sheet.md",
     "docs/Project/Daily/2024-10-08.md",
     "docs/Project/Issue/2024-09-15.md",
