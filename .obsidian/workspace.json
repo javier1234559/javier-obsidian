@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cbd4b52bfe0a5fa1",
+        "id": "ccaca6ccf0d8a368",
         "type": "tabs",
         "children": [
           {
-            "id": "1d0f58e5f8da3243",
+            "id": "da61d0487f43c504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Area/Technology/Prisma.md",
+                "file": "docs/Project/Issue/Các trang web xem giá vàng uy tín.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Area/Technology/Prisma.md",
+                "file": "docs/Project/Issue/Các trang web xem giá vàng uy tín.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Area/Technology/Prisma.md",
+                "file": "docs/Project/Issue/Các trang web xem giá vàng uy tín.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Prisma.md"
+                "file": "docs/Project/Issue/Các trang web xem giá vàng uy tín.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Area/Technology/Prisma.md",
+                "file": "docs/Project/Issue/Các trang web xem giá vàng uy tín.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Area/Technology/Prisma.md"
+                "file": "docs/Project/Issue/Các trang web xem giá vàng uy tín.md"
               }
             }
           }
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Area/Technology/Prisma.md",
+                "file": "docs/Project/Issue/Các trang web xem giá vàng uy tín.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +226,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4293910051069711,
+                  "scale": 0.6366817337077598,
                   "close": true
                 }
               }
@@ -256,15 +256,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1d0f58e5f8da3243",
+  "active": "da61d0487f43c504",
   "lastOpenFiles": [
+    "docs/Project/Issue/Các loại vàng ở thị trường VN.md",
+    "docs/Project/Issue/Định lượng của vàng.md",
+    "docs/Project/Issue/Create code snippet image with these tool.md",
+    "docs/Project/Issue/Create a video programing.md",
+    "docs/Project/Issue/CodeHike  - Visualize code tutorial in blog.md",
+    "docs/Project/Issue/Remotion - Automate video generate with react.md",
+    "docs/Project/Issue/Untitled.md",
+    "docs/Files/Pasted image 20241010181632.png",
+    "docs/Files/Pasted image 20241010181615.png",
+    "docs/Files/Pasted image 20241010181601.png",
+    "docs/Project/Daily/2024-10-10.md",
+    "docs/Area/Technology/Prisma.md",
     "docs/Project/Daily/2024-10-09.md",
     "docs/Project/Issue/Add env for docker image.md",
     "docs/Project/Issue/All hook in react cheat sheet.md",
     "docs/Project/Daily/2024-10-08.md",
     "docs/Project/Issue/2024-09-15.md",
     "docs/Project/Daily/2024-04-14.md",
-    "docs/Project/Issue/Untitled.md",
     "docs/Files/Pasted image 20241009001934.png",
     "docs/Files/Pasted image 20241009001818.png",
     "docs/Files/Pasted image 20241009001759.png",
@@ -272,9 +283,6 @@
     "docs/Files/Pasted image 20241009001339.png",
     "docs/Files/Pasted image 20241009001039.png",
     "docs/Files/Pasted image 20241009000946.png",
-    "docs/Files/Pasted image 20241009000321.png",
-    "docs/Files/Pasted image 20241009000143.png",
-    "docs/Files/Pasted image 20241009000033.png",
     "docs/Project/Issue/Run Docker right on wsl2.md",
     "docs/Project/Issue/Short cut Vscode.md",
     "docs/Project/Issue/Deploy Mysql to Fly.io and connect to Nodejs.md",
@@ -286,14 +294,6 @@
     "docs/Project/Daily/2024-04-03.md",
     "docs/Project/Daily/todo-in-01-10-23.md",
     "docs/Project/Daily/todo-in-02-10-23.md",
-    "docs/Project/Daily/daily-in-18-09-23.md",
-    "docs/Project/Daily/Câu hỏi vấn đáp môn công nghệ phầm mềm mới.md",
-    "docs/Project/Daily/2024-08-18.md",
-    "docs/Project/Daily/2024-09-13.md",
-    "docs/Project/Daily/2024-08-30.md",
-    "docs/Project/Daily/2024-08-24.md",
-    "docs/Project/Daily/2024-08-23.md",
-    "docs/Project/Daily/2024-08-21.md",
     "piecesdb.json",
     "mkdocs.yml",
     "docs/Templates",

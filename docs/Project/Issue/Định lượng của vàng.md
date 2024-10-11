@@ -10,7 +10,7 @@ Link relate:
 
 TLDR: 
 
-#### **Các đơn vị đo lường vàng tại Việt Nam:**
+## Các đơn vị đo lường vàng tại Việt Nam
 
 - **Chỉ (c)**: Đây là đơn vị phổ biến tại Việt Nam, thường dùng để đo lường khối lượng vàng trang sức. 1 chỉ = 3,75 gram.
 - **Lượng (lượng hay cây)**: 1 lượng = 10 chỉ = 37,5 gram. Đây là đơn vị chuẩn để đo lường vàng miếng (vàng SJC) tại Việt Nam.
