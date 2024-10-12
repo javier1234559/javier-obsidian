@@ -19,7 +19,8 @@ Switch to tab `Crt + Tab
 Move to the start of file `Page Up`
 
 Open file in new tab `Crt + K + Enter`
-
+command to change tab `Cmd + Shirt + [`
+Focus Right Editor `CMD + K CMD + Right_Arrow`
 
 
 
