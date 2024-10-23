@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2024-10-22.md",
+                "file": "docs/Project/Daily/2024-10-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-22"
+              "title": "2024-10-23"
+            }
+          },
+          {
+            "id": "5d62abbbae77760f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Project/Issue/Short cut in Arc browser.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Short cut in Arc browser"
+            }
+          },
+          {
+            "id": "11d58bb9302d432e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Project/Issue/Theme Wordpress.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Theme Wordpress"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,10 +237,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Daily/2024-10-22.md"
+                "file": "docs/Project/Issue/Theme Wordpress.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-22"
+              "title": "Outline of Theme Wordpress"
             }
           }
         ],
@@ -227,7 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Daily/2024-10-22.md",
+                "file": "docs/Project/Issue/Theme Wordpress.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +284,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024-10-22"
+              "title": "Graph of Theme Wordpress"
             }
           }
         ]
@@ -282,10 +311,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "da61d0487f43c504",
+  "active": "11d58bb9302d432e",
   "lastOpenFiles": [
-    "docs/Project/Issue/2024-10-20.md",
+    "docs/Project/Issue/Short cut in Arc browser.md",
+    "docs/Project/Issue/Theme Wordpress.md",
+    "docs/Project/Daily/2024-10-23.md",
     "docs/Project/Daily/2024-10-22.md",
+    "docs/Project/Issue/2024-10-20.md",
     "docs/Project/Issue/Short cut Vscode.md",
     "docs/Project/Issue/So sánh Compound Pattern và Composite Pattern trong React.md",
     "docs/Project/Daily/2024-10-12.md",
@@ -317,9 +349,6 @@
     "docs/Project/Issue/Run Docker right on wsl2.md",
     "docs/Project/Issue/Deploy Mysql to Fly.io and connect to Nodejs.md",
     "docs/Project/Issue/4 Ways to Update UI in android.md",
-    "docs/Project/Issue/2024-10-08.md",
-    "docs/Project/Issue/Quy trình truyển đổi USDT.md",
-    "docs/Project/Issue/Ranking popular of tech world.md",
     "piecesdb.json",
     "mkdocs.yml",
     "docs/Templates",
