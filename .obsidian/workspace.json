@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Issue/Theme Wordpress.md",
+                "file": "docs/Project/Daily/2024-10-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theme Wordpress"
+              "title": "2024-10-28"
             }
           }
         ],
@@ -237,10 +237,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Project/Issue/Theme Wordpress.md"
+                "file": "docs/Project/Daily/2024-10-28.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Theme Wordpress"
+              "title": "Outline of 2024-10-28"
             }
           }
         ],
@@ -256,7 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/Project/Issue/Theme Wordpress.md",
+                "file": "docs/Project/Daily/2024-10-28.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +284,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Theme Wordpress"
+              "title": "Graph of 2024-10-28"
             }
           }
         ]
@@ -313,8 +313,9 @@
   },
   "active": "11d58bb9302d432e",
   "lastOpenFiles": [
-    "docs/Project/Issue/Short cut in Arc browser.md",
     "docs/Project/Issue/Theme Wordpress.md",
+    "docs/Project/Daily/2024-10-28.md",
+    "docs/Project/Issue/Short cut in Arc browser.md",
     "docs/Project/Daily/2024-10-23.md",
     "docs/Project/Daily/2024-10-22.md",
     "docs/Project/Issue/2024-10-20.md",
@@ -348,7 +349,6 @@
     "docs/Files/Pasted image 20241009000946.png",
     "docs/Project/Issue/Run Docker right on wsl2.md",
     "docs/Project/Issue/Deploy Mysql to Fly.io and connect to Nodejs.md",
-    "docs/Project/Issue/4 Ways to Update UI in android.md",
     "piecesdb.json",
     "mkdocs.yml",
     "docs/Templates",
