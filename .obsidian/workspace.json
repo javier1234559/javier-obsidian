@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2024-11-04"
             }
-          },
-          {
-            "id": "01a2b00c7576b8c7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,7 +283,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "01a2b00c7576b8c7",
+  "active": "803ea103256802c1",
   "lastOpenFiles": [
     "docs/Project/Issue/Bài học tư duy.md",
     "docs/Project/Daily/2024-11-04.md",
