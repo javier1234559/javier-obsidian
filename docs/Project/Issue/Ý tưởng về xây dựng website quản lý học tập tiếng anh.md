@@ -117,6 +117,109 @@ TLDR:
   - Pomodoro 21-22 (50 phút): Kiểm tra toàn bộ tính năng của trang tìm kiếm.
   - Pomodoro 23-24 (50 phút): Ghi chú những điểm cần cải thiện cho các task sau.
 
----
 
-Với cấu trúc này, bạn sẽ có thể hoàn thành từng trang UI cơ bản của project một cách hiệu quả, sử dụng Pomodoro để duy trì sự tập trung và tránh mệt mỏi trong thời gian dài. Trong các ngày tiếp theo, bạn có thể tiếp tục với UI của **Trang chi tiết khóa học** và **Trang chi tiết Unit**, theo cách chia Pomodoro tương tự.
+
+
+----
+
+## API Requirement
+template: 
+- Quyền : 
+- Endpoint : 
+- Request DTO:
+	- 
+- Mô tả: 
+- Response DTO: 
+	- 
+###  Get All Course by space and User
+- Quyền : User
+- Endpoint : /courses/user/owner?spaceid=123&search="english"&status="public"
+- Request DTO:
+	- spaceId
+	- search?
+	- page?
+	- perPage?
+- mô tả: space id ,  
+- Response DTO: 
+	- data : course[]
+	- pagination : 
+
+
+###  Get All Course by space
+- Quyền : 
+- Endpoint : /courses/published POST
+- Request DTO:
+	- course_joined
+	- search?
+	- page?
+	- perPage?
+- Mô tả: Tìm kiếm với Published = true và thuộc mảng courre_joined
+- Response DTO: 
+	-  data : course[]
+	- pagination 
+
+### Get  course recommend
+- Quyền : User
+- Endpoint : /courses/recommend
+- Request DTO:
+	- course_joined
+	- numberRecommend : number (max la 5)
+- Mô tả: Dựa vào id user để filter top 5 hoặc numberRecommend các course dựa user.current_level , user.languages 
+- Response DTO: 
+	- data: course []
+
+
+### Join Course
+- Quyền : User
+- Endpoint : /courses/:id/join - method : POST
+- Request DTO:
+	- spaceId
+	- 
+- Mô tả:
+	-  Tim kiếm space -> được space
+	- thêm id course vào course_joined của đối tượng space
+	- return space 
+- Response DTO:  (trả về space)
+	- course_joined string[]
+
+
+### Detail Course
+- Quyền : User
+- Endpoint : /courses/:id
+- Request DTO:
+	- 
+- Mô tả: Tìm kiếm course theo id , trả về có mở rộng trường review , created by , units
+- Response DTO: 
+	- id course 
+	- title 
+	- current_unit_id
+	- ... course với các trường mở rộng 
+
+### Get All Unit Name By Course
+- Quyền : User 
+- Endpoint : /courses/:id/units/preview
+- Request DTO:
+- Mô tả: 
+- Response DTO: 
+	- id 
+	- title
+	- description
+	- order_index 
+	- created at
+	- updated_at
+
+### Get Detail Unit 
+- Quyền : User 
+- Endpoint : /course/:id/units/:idunit
+- Request DTO:
+- Mô tả: 
+- Response DTO: 
+	-  id 
+	- title
+	- description
+	- order_index 
+	- comments
+	- created at
+	- updated_at
+	- unitcontents []
+- 

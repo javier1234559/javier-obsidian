@@ -280,7 +280,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,8 +297,7 @@
       "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
-      "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open today": false
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "4dc90a29106640ec",
