@@ -121,6 +121,284 @@ TLDR:
 
 
 ----
+## Mô tả :
+Khi mới đăng kí user sẽ được dẫn đến trang Dashboard ,
+- Trang này hiển thị thống kê streak  số lượng essay , notes , course joined và vocab đã lưu và danh sách space nếu có
+	- endpoint cần thiết 
+		- GET api/spaces/user
+			- request
+				- spaceId
+				- page?
+				- search?
+				- perPage?
+			- response
+				- data: space[]
+				- pagination
+		- GET api/stats/user/activity-streak
+			- request
+				- startDate
+				- endDate
+			- response
+				- activities [] : 
+					- date
+					- level
+					- streak
+				- currentStreak:
+					- date
+					- level
+					- streak
+		- GET api/stats/user/overview
+			- request
+			- mô tả : đếm các giá trị overview theo id user đính kèm trong auth
+			- response
+				- essayCount
+				- vocabCount
+				- courseJoinedCount
+				- notesCount
+- User tiến hành tạo space . lúc này bên sidebar sẽ hiển thị tab essay , notes, course joined , vocab (nghĩa là nó thuộc vào space)
+	- endpoint cần thiết :
+		- POST api/spaces
+			- request:
+				- name
+				- description
+				- target 
+				- language
+			- response
+				- space
+		- PATCH api/spaces/:id
+			- request:
+				- name
+				- description
+				- target 
+				- language
+			- response
+				- space
+		- GET: api/spaces/:id
+			- request
+			- response
+				- space
+
+- User bấm vào tab essay sẽ vào trang view all essay (Tạm bỏ qua vì đã có)
+	- endpoint cần thiết
+		- GET api/essays
+			- request
+				- spaceId
+			- response
+				- data: essay[]
+				- pagination
+- User bấm vào tab notes sẽ vào trang view all notes
+	- endpoint cần thiết
+		- GET api/spaces/:id/notes
+			- request
+			- Mô tả: dùng raw query để tối giản và trường cần thiết
+			- response
+				- spaceId
+				- unitId
+				- isBookmark
+				- titleUnit
+		 PATCH api/spaces/:id/notes/:id/bookmark
+			- request
+			- Mô tả: toggle đơn giản is_bookmarked == true
+			- response
+				- status
+- User bấm vào tab vocabulary sẽ vào trang view all vocab
+	- endpoint càn thiết
+		- GET api/spaces/:id/vocabulary
+			- request
+			- response 
+				- data: vocabulary[]
+				- pagination
+		- PATCH api/vocabularies/:id
+			- request
+				- term?
+				- meaning?
+				- exampleSentence?
+				- referenceLink
+				- referenceName
+				- imageUrl?
+				- next review?
+				- repetitionLevel ?
+			- response 
+				- vocabulary
+ User bấm vào tab course sẽ vào trang view all course joined , và button để explore more course
+	- endpoint cần thiết
+		- GET api/spaces/:id/courses
+			- request
+			- mô tả: Dùng raw query để truy vấn và trả về có thêm is_joined khi left join với bảng space course và is_published=true
+			- response 
+				- data: course[]
+				- pagination
+User bấm explore more. Sẽ dẫn đến trang course explorer , gồm top 5 recommend course dựa vào target và level của space
+	-  endpoint cần thiết
+		-  POST api/courses/recommend
+			- request: 
+				- spaceId
+			- Mô tả : Nó sẽ dùng raw query để có thêm trường is_joined để client hiển thị nút hợp lý và is_published=true
+			-  response 
+				- course[]
+		- GET api/courses
+			- request:
+				- search?
+				- page?
+				- perPage?
+			-  Mô tả : Nó sẽ dùng raw query để có thêm trường is_joined và is_published=true
+			- response:
+				- data: course[]
+				- pagination
+		-  PATCH api/courses/:id/join
+			- request
+				- spaceId
+			- mô tả : Check bảng SpaceCourse có trường nào không , và joinAt có giá trị không và is_published=true
+			- response: 
+				- joinAt
+				- message
+User bấm vào course bất kì sẽ dẫn đến trang chi tiết course
+	- endpoint cần thiết: 
+		- POST : api/courses/:id
+			- request:
+				- spaceId
+			- Mô tả: dùng raw query để có thêm trường is_joined trong coure , lấy chi tiết bảng unit many to one , createdBy , bảng review nếu cần và nhớ check is_published=true thì mới hiện
+			- response
+				- course
+		- GET: api/courses/:id/reviews (tạm thời bỏ qua)
+			- request
+				- page
+				-perPage
+			- response
+				- data: reviews
+				- pagination
+
+User bấm vào chi tiết unit , nếu chưa join sẽ có popup yêu cầu join hoặc yêu cầu thanh toán, còn join rồi thì tiếp tục đến trang detail Unit
+	- endpoint cần thiết:
+		- GET api/course/:id/units
+			- request: 
+			- response:
+				- unit[]
+		- GET : api/units/:id
+			- request:
+			- mô tả: trả về có bao gồm cả note nếu có của unit này
+			- response:
+		- GET api/units/:id/unit-contents
+			- request:
+			- mô tả: trả về các trường của unit_contents , trừ content lát nữa chỉ gọi lúc bấm vào show tab
+			- response
+				- unit_id
+				- title
+				- content_type
+				- order_index
+				 - is_premium
+				 - is_required
+				 - complete_weight
+				 - is_done
+				 - created__at
+				 - update_at
+		 -GET api/unit-contents/:id
+			 - request
+			 - mô tả: trả về đầy đủ
+			 - response:
+				- unit_id
+				- title
+				- content_type
+				- content
+				- order_index
+				 - is_premium
+				 - is_required
+				 - complete_weight
+				 - is_done
+				 - created__at
+				 - update_at
+		 - POST api/units/:id/notes
+			 - request
+				 - content
+				 - tags []
+			 - mô tả: check exist nếu chưa có thì tạo và update content, tags  hiện tại
+			 - response
+				 -  status
+				 -  message
+		- GET api/units/:id/comments (chưa cần gấp)
+
+
+- Ở giao diện admin , khi admin vừa đăng nhập thì sẽ đến với trang home
+	- endpoint cần thiết:
+		- GET api/stats/admin/overview
+			- request
+			- mô tả: đếm tất cả giá trị cần overview của toàn bộ app
+			- response
+				- essayCount
+				- vocabCount
+				- courseCount
+				- notesCount
+		- GET api/stats/admin/user-growth (chưa cần thiết)
+		- GET api/stats/admin/revenue (chưa cần thiết)
+- Bên cạnh sẽ có các tab như course management , user managerment , payment management
+- User management (chưa gấp)
+	- các endpoint cần thiết
+		- GET api/users
+		- PATCH api/users
+		- POST api/users
+- Payment managment: (chưa gấp)
+- Course management:
+	- các endpoint cần thiết
+		- GET api/courses
+			- request:
+				- search
+				- page
+				- perPage
+			- response
+				- data : course
+				- pagination
+- Khi user bấm vào edit course thì cũng đã xem được chi tiết course
+	- GET api/courses/:id  có cả units
+		- request:
+		- response: 
+			- course
+	- PUT api/courses/:id
+		- request: 
+		- mô tả: check existing course và cập nhật các trường của course
+		- response
+			- status
+			- message
+	- POST api/courses/:id/units
+		- request:
+			-  title
+			- order_index
+		- response
+			- status
+			- message
+	- GET api/units/:id/
+		- request:
+		- mô tả: có bao gồm cả trường unit_contents[] ở đây
+		- response:
+			- unit
+	- POST
+		- request: 
+			- unit_id
+			- title
+			- content_type
+			- content
+			- order_index
+			- is_premium?
+			- is_required?
+			- complete_weight?
+			- is_done?
+		- response: 
+			- status
+			- response
+	- PATCH api/unit-contents/:id
+		- request:
+			- title?
+			- content_type?
+			- content?
+			- order_index?
+			- is_premium?
+			- is_required?
+			- complete_weight?
+			- is_done?
+		-  response: 
+			- status
+			- response
+
+
 
 ## API Requirement
 template: 
