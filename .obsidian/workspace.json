@@ -11,10 +11,14 @@
             "id": "e0212ee0aa72e601",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/Project/Daily/2024-11-14.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-11-14"
             }
           }
         ]
@@ -278,12 +282,12 @@
       "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
-      "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open today": false
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "e0212ee0aa72e601",
   "lastOpenFiles": [
+    "docs/Project/Daily/2024-11-14.md",
     "docs/Project/Daily/2024-11-04.md",
     "docs/Project/Issue/Ý tưởng về xây dựng website quản lý học tập tiếng anh.md",
     "docs/Project/Issue/Bài học tư duy.md",
@@ -312,7 +316,6 @@
     "docs/Area/Technology/Prisma.md",
     "docs/Project/Daily/2024-10-09.md",
     "docs/Project/Issue/Add env for docker image.md",
-    "docs/Project/Issue/All hook in react cheat sheet.md",
     "docs/Files/Pasted image 20241009001934.png",
     "docs/Files/Pasted image 20241009001818.png",
     "docs/Files/Pasted image 20241009001759.png",
