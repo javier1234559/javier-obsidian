@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2024-11-18"
             }
+          },
+          {
+            "id": "720fbe9be98924ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,11 +295,10 @@
       "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
-      "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open today": false
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e0212ee0aa72e601",
+  "active": "720fbe9be98924ef",
   "lastOpenFiles": [
     "docs/Project/Daily/2024-11-14.md",
     "docs/Project/Daily/2024-11-18.md",
