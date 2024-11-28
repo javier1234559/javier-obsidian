@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "307d72349668383b",
+        "id": "db71da5238e46ffc",
         "type": "tabs",
         "children": [
           {
@@ -19,6 +19,16 @@
               },
               "icon": "lucide-file",
               "title": "2024-11-20"
+            }
+          },
+          {
+            "id": "a8b273cf6528e5ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -282,7 +292,8 @@
       "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "e0212ee0aa72e601",
