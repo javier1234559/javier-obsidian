@@ -10,9 +10,9 @@ Link relate:
 ---
 
 TLDR: 
-- 
-Để tối ưu hóa thời gian 12 tiếng mỗi ngày theo phương pháp Pomodoro, tôi đã chia các task thành từng phần nhỏ khoảng 25-30 phút mỗi phần, với nghỉ ngắn sau mỗi Pomodoro và nghỉ dài hơn sau mỗi bốn Pomodoro. Dưới đây là kế hoạch chi tiết:
-
+- Thêm chức năng youtube nghe chép chính tả 
+- Tạo được câu hỏi từ mảng từ vựng
+- Thêm được widget ôn từ vựng hằng ngày trên điện thoại như 
 ---
 
 ### **Tuần 1, Ngày 1: Popup chọn cấp độ khi thêm space mới**
