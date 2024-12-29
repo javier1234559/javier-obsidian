@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Issue/2024-12-25.md",
+                "file": "docs/Project/Issue/Create code snippet image with these tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-25"
+              "title": "Create code snippet image with these tool"
             }
           }
         ]
@@ -293,14 +293,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open today": false
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "c282b3184e185bc6",
   "lastOpenFiles": [
-    "docs/Project/Issue/2024-12-24.md",
     "docs/Project/Issue/2024-12-25.md",
+    "docs/Project/Issue/2024-12-24.md",
     "docs/Resource/Life/Các trang blog theo dõi hằng ngày.md",
     "docs/Resource/index.md",
     "docs/Project/Daily/2024-12-20.md",
