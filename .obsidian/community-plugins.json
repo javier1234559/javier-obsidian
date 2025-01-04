@@ -9,7 +9,6 @@
   "css-editor",
   "obsidian-list-callouts",
   "quickadd",
-  "remotely-save",
   "obsidian-git",
   "notion-like-tables",
   "obsidian-excalidraw-plugin",
@@ -17,5 +16,6 @@
   "obsidian-dirtreeist",
   "obsidian-day-planner",
   "periodic-notes",
-  "dataview"
+  "dataview",
+  "cmenu-plugin"
 ]
