@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Project/Daily/2025-01-08.md",
+                "file": "docs/Project/Daily/2025-01-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-08"
+              "title": "2025-01-11"
             }
           }
         ]
@@ -293,13 +293,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "82dfe97fc35c05ae",
   "lastOpenFiles": [
-    "docs/Project/Issue/2025-01-07.md",
     "docs/Project/Daily/2025-01-08.md",
+    "docs/Project/Daily/2025-01-11.md",
+    "docs/Project/Issue/Gsap demo.md",
+    "docs/Project/Issue/2025-01-07.md",
     "docs/Project/Issue/Some way to input in Golang.md",
     "docs/Project/Daily/2025-01-05.md",
     "docs/Project/Issue/2025-01-04.md",
@@ -322,8 +325,6 @@
     "docs/Project/Daily/2024-12-13.md",
     "docs/Project/Daily/2024-12-14.md",
     "docs/Project/Daily/todo-in-30-09-23.md",
-    "docs/index.md",
-    "docs/Main MOC.md",
     "docs/Files/github-action.svg",
     "docs/Files/ollama.png",
     "docs/Files/ubuntu.svg",
