@@ -8,7 +8,7 @@ tags:
 # School 
  ý tưởng xây dựng web chia sẽ tài liệu cho sv với nhau
  ý tưởng xây dựng web kiếm bạn chở xe cùng nhau
-
+ý tưởng xây dựng web thêm tài liệu học tập dạng docs hoặc blog học tập cho sinh viên
 
 # Community
 ý tưởng phát triển cộng đồng lập trình
